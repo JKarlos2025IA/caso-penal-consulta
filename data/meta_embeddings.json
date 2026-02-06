@@ -1,0 +1,174 @@
+{
+  "documentos_incluidos": {
+    "Disposicion_16_ocr_local": {
+      "archivo": "Disposicion 16_ocr_local.txt",
+      "tipo": "disposicion",
+      "chunks": 2,
+      "fecha_archivo": "2026-02-06T01:36:54.943000",
+      "fecha_embedding": "2026-02-06T09:52:15.286828"
+    },
+    "Disposicion_17_ocr_local": {
+      "archivo": "Disposicion 17_ocr_local.txt",
+      "tipo": "disposicion",
+      "chunks": 10,
+      "fecha_archivo": "2026-02-06T01:36:54.982000",
+      "fecha_embedding": "2026-02-06T09:52:15.293498"
+    },
+    "DISPOSICION_19_(07-2024)_(3)_ocr": {
+      "archivo": "DISPOSICION 19 (07-2024) (3)_ocr.txt",
+      "tipo": "disposicion",
+      "chunks": 481,
+      "fecha_archivo": "2026-02-06T01:36:55.548000",
+      "fecha_embedding": "2026-02-06T09:52:15.325987"
+    },
+    "DISPOSICION_N_°18_ocr_local": {
+      "archivo": "DISPOSICION N.°18_ocr_local.txt",
+      "tipo": "disposicion",
+      "chunks": 26,
+      "fecha_archivo": "2026-02-06T01:36:55.579000",
+      "fecha_embedding": "2026-02-06T09:52:15.348249"
+    },
+    "DOC-20241018-WA0003__ocr_local": {
+      "archivo": "DOC-20241018-WA0003._ocr_local.txt",
+      "tipo": "resolucion_excepcion",
+      "chunks": 98,
+      "fecha_archivo": "2026-02-06T01:36:55.695000",
+      "fecha_embedding": "2026-02-06T09:52:15.380240"
+    },
+    "Providencia_122-2024_(1)_ocr_local": {
+      "archivo": "Providencia 122-2024 (1)_ocr_local.txt",
+      "tipo": "providencia",
+      "chunks": 1,
+      "fecha_archivo": "2026-02-06T01:36:55.714000",
+      "fecha_embedding": "2026-02-06T09:52:15.397684"
+    },
+    "Providencia_125_ocr_local": {
+      "archivo": "Providencia 125_ocr_local.txt",
+      "tipo": "providencia",
+      "chunks": 1,
+      "fecha_archivo": "2026-02-06T01:36:55.730000",
+      "fecha_embedding": "2026-02-06T09:52:15.402828"
+    },
+    "Providencia_127_ocr_local": {
+      "archivo": "Providencia 127_ocr_local.txt",
+      "tipo": "providencia",
+      "chunks": 7,
+      "fecha_archivo": "2026-02-06T01:36:55.761000",
+      "fecha_embedding": "2026-02-06T09:52:15.410594"
+    },
+    "Providencia_128_ocr_local": {
+      "archivo": "Providencia 128_ocr_local.txt",
+      "tipo": "providencia",
+      "chunks": 1,
+      "fecha_archivo": "2026-02-06T01:36:55.785000",
+      "fecha_embedding": "2026-02-06T09:52:15.418516"
+    },
+    "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean": {
+      "archivo": "a) Copia de Disposicon Fiscal Emplazamiento e Investigación preparatoria al 20may2025_clean.txt",
+      "tipo": "disposicion",
+      "chunks": 48,
+      "fecha_archivo": "2026-02-06T09:52:03.029000",
+      "fecha_embedding": "2026-02-06T09:52:15.269996"
+    },
+    "CASO_WAYKIS_Exp_00203-2024-23-5001-JR-PE-01_clean": {
+      "archivo": "CASO WAYKIS_Exp.00203-2024-23-5001-JR-PE-01_clean.txt",
+      "tipo": "resolucion_excepcion",
+      "chunks": 140,
+      "fecha_archivo": "2026-02-06T09:52:03.120000",
+      "fecha_embedding": "2026-02-06T09:52:15.275872"
+    },
+    "Disposicion_16_clean": {
+      "archivo": "Disposicion 16_clean.txt",
+      "tipo": "disposicion",
+      "chunks": 2,
+      "fecha_archivo": "2026-02-06T09:52:03.146000",
+      "fecha_embedding": "2026-02-06T09:52:15.281386"
+    },
+    "Disposicion_17_clean": {
+      "archivo": "Disposicion 17_clean.txt",
+      "tipo": "disposicion",
+      "chunks": 10,
+      "fecha_archivo": "2026-02-06T09:52:03.176000",
+      "fecha_embedding": "2026-02-06T09:52:15.289997"
+    },
+    "DISPOSICION_19_(07-2024)_(3)_clean": {
+      "archivo": "DISPOSICION 19 (07-2024) (3)_clean.txt",
+      "tipo": "disposicion",
+      "chunks": 444,
+      "fecha_archivo": "2026-02-06T09:52:03.543000",
+      "fecha_embedding": "2026-02-06T09:52:15.310185"
+    },
+    "DISPOSICION_FISCAL_30_(1)_literal_a)_clean": {
+      "archivo": "DISPOSICION FISCAL 30 (1) literal a)_clean.txt",
+      "tipo": "disposicion",
+      "chunks": 198,
+      "fecha_archivo": "2026-02-06T09:52:03.706000",
+      "fecha_embedding": "2026-02-06T09:52:15.337334"
+    },
+    "DISPOSICION_N_°18_clean": {
+      "archivo": "DISPOSICION N.°18_clean.txt",
+      "tipo": "disposicion",
+      "chunks": 22,
+      "fecha_archivo": "2026-02-06T09:52:03.741000",
+      "fecha_embedding": "2026-02-06T09:52:15.343070"
+    },
+    "DISPOSICIÓN_FISCAL_N_°_41_clean": {
+      "archivo": "DISPOSICIÓN FISCAL N.° 41_clean.txt",
+      "tipo": "disposicion",
+      "chunks": 8,
+      "fecha_archivo": "2026-02-06T09:52:03.775000",
+      "fecha_embedding": "2026-02-06T09:52:15.352126"
+    },
+    "DISPOSICIÓN_FISCAL_N°_42_-_C_F_07-2024_clean": {
+      "archivo": "DISPOSICIÓN FISCAL N° 42 - C.F 07-2024_clean.txt",
+      "tipo": "disposicion",
+      "chunks": 465,
+      "fecha_archivo": "2026-02-06T09:52:03.938000",
+      "fecha_embedding": "2026-02-06T09:52:15.368149"
+    },
+    "DOC-20241018-WA0003__clean": {
+      "archivo": "DOC-20241018-WA0003._clean.txt",
+      "tipo": "resolucion_excepcion",
+      "chunks": 98,
+      "fecha_archivo": "2026-02-06T09:52:04.067000",
+      "fecha_embedding": "2026-02-06T09:52:15.374863"
+    },
+    "INFORME_DE_AUDITORIA_clean": {
+      "archivo": "INFORME DE AUDITORIA_clean.txt",
+      "tipo": "resolucion",
+      "chunks": 254,
+      "fecha_archivo": "2026-02-06T09:52:04.290000",
+      "fecha_embedding": "2026-02-06T09:52:15.391024"
+    },
+    "Providencia_122-2024_(1)_clean": {
+      "archivo": "Providencia 122-2024 (1)_clean.txt",
+      "tipo": "providencia",
+      "chunks": 1,
+      "fecha_archivo": "2026-02-06T09:52:04.317000",
+      "fecha_embedding": "2026-02-06T09:52:15.394651"
+    },
+    "Providencia_125_clean": {
+      "archivo": "Providencia 125_clean.txt",
+      "tipo": "providencia",
+      "chunks": 1,
+      "fecha_archivo": "2026-02-06T09:52:04.341000",
+      "fecha_embedding": "2026-02-06T09:52:15.402253"
+    },
+    "Providencia_127_clean": {
+      "archivo": "Providencia 127_clean.txt",
+      "tipo": "providencia",
+      "chunks": 6,
+      "fecha_archivo": "2026-02-06T09:52:04.368000",
+      "fecha_embedding": "2026-02-06T09:52:15.408050"
+    },
+    "Providencia_128_clean": {
+      "archivo": "Providencia 128_clean.txt",
+      "tipo": "providencia",
+      "chunks": 1,
+      "fecha_archivo": "2026-02-06T09:52:04.395000",
+      "fecha_embedding": "2026-02-06T09:52:15.414604"
+    }
+  },
+  "total_vectores": 2325,
+  "ultima_actualizacion": "2026-02-06T09:54:00.662301"
+}
