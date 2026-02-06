@@ -10,7 +10,11 @@ import requests
 import faiss
 import os
 from pathlib import Path
+from pathlib import Path
 from sentence_transformers import SentenceTransformer
+
+# Trigger de actualizacion nube: 2026-02-06 10:48
+UPDATE_TRIGGER = "force_redeploy_v3"
 
 # --- RUTAS ---
 APP_DIR = Path(__file__).parent
