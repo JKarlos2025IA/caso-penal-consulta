@@ -1,0 +1,11 @@
+# Nunca subir secrets a GitHub (se configuran en Streamlit Cloud)
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Datos sensibles originales
+*.pdf
+data/*.txt

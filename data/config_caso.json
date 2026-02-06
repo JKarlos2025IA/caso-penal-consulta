@@ -1,0 +1,38 @@
+{
+    "caso": {
+        "expediente": "00203-2024-23-5001-JR-PE-01",
+        "nombre": "Caso Organizacion Criminal - Boluarte Zegarra",
+        "defendido": "Raúl Antonio Oliva Guerrero",
+        "delitos": ["Organización Criminal (Art. 317 CP)", "Tráfico de Influencias (Art. 400 CP)"],
+        "juzgado": "1er Juzgado de Investigación Preparatoria Nacional",
+        "juez": "Richard Augusto Concepción Carhuancho",
+        "fiscalia": "EFICCOP - Equipo 5",
+        "fiscal": "Carlos Ordaya López"
+    },
+    "rutas": {
+        "base": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CASO_LEGAL",
+        "txt_convertidos": "03_TXT_CONVERTIDOS",
+        "procesados": "04_PROCESADOS",
+        "embeddings": "05_EMBEDDINGS",
+        "auditorias": "06_AUDITORIAS",
+        "scripts": "scripts"
+    },
+    "modelo_embeddings": "paraphrase-multilingual-MiniLM-L12-v2",
+    "chunk_config": {
+        "max_caracteres": 1500,
+        "overlap_caracteres": 200,
+        "min_caracteres": 100
+    },
+    "tipos_documento": {
+        "disposicion": ["disposicion", "disposición"],
+        "resolucion": ["resolucion", "resolución", "auto"],
+        "providencia": ["providencia"],
+        "acta": ["acta"],
+        "escrito": ["escrito"],
+        "pericia": ["pericia", "informe pericial"],
+        "notificacion": ["notificacion", "notificación", "cedula"],
+        "requerimiento": ["requerimiento"],
+        "sentencia": ["sentencia"]
+    },
+    "registro_procesados": "registro_procesados.json"
+}
