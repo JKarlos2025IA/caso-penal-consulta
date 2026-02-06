@@ -162,12 +162,13 @@ def main():
     st.markdown("""
     <style>
     .chunk-source {
-        background: #f0f2f6;
+        background: #1a1a2e;
         border-radius: 6px;
         padding: 0.8rem;
         margin: 0.5rem 0;
         border-left: 3px solid #e94560;
         font-size: 0.85rem;
+        color: #fafafa;
     }
     </style>
     """, unsafe_allow_html=True)
