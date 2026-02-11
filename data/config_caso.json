@@ -11,11 +11,11 @@
     },
     "rutas": {
         "base": "G:\\Mi unidad\\01_BASE_NORMATIVA\\000_CASO_LEGAL",
-        "txt_convertidos": "03_TXT_CONVERTIDOS",
-        "procesados": "04_PROCESADOS",
-        "embeddings": "05_EMBEDDINGS",
-        "auditorias": "06_AUDITORIAS",
-        "scripts": "scripts"
+        "txt_convertidos": "02_EXPEDIENTE_TXT_MD",
+        "procesados": "03_PARSER_EMBEDDINGS/procesados",
+        "embeddings": "03_PARSER_EMBEDDINGS/embeddings",
+        "auditorias": "04_AUDITORIAS",
+        "scripts": "05_SCRIPTS"
     },
     "modelo_embeddings": "paraphrase-multilingual-MiniLM-L12-v2",
     "chunk_config": {
