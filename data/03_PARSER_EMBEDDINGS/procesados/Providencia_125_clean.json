@@ -1,0 +1,45 @@
+{
+  "documento_id": "Providencia_125_clean",
+  "archivo_original": "Providencia 125_clean.txt",
+  "tipo_documento": "providencia",
+  "hash_contenido": "3bb716193e53787b252888b4b6f8e761",
+  "fecha_procesamiento": "2026-02-11T11:19:43.206771",
+  "metadata": {
+    "expedientes": [],
+    "fecha_documento": "2024-07-30",
+    "articulos_legales": [],
+    "total_paginas": 1,
+    "total_caracteres": 1021
+  },
+  "personas": {},
+  "fechas": [
+    "2024-07-30"
+  ],
+  "secciones_imputados": [],
+  "chunks": [
+    {
+      "chunk_id": "Providencia_125_clean_0001",
+      "texto": "Ea 4 ,\n?* .| MINISTERIO PÚBLICO\n=7 , REPUSLICA DEL PERU Equipo Especial de Fiscales Contra la Corrupción del Poder\nz\nFiscalía Provincial - Equipo 5\nCarpeta fiscal .* 07-2024\nPROVIDENCIA N.* 125\nLima, 30 de julio de 2024.\nDADO CUENTA, el oficio n.* 450-2024-MP-FN-EFICCOP-EQUIPO 5, del 30 de julio\nde 2024, mediante el cual remite la disposición fiscal de traslado n.” 04 del 30 de julio de\n2024, y documentos anexos; y, CONSIDERANDO que, por medio de dicha disposición\nperteneciente a la carpeta fiscal provisional C.E. n.* 30-2024-EFICCOP se traslada\ndocumentales a la carpeta fiscal n.* 7-2024, las cuales formarían parte de la fase de\ncorroboración del procedimiento de colaboración eficaz correspondiente; por tal motivo,\nen mérito al artículo 481-A del Código Procesal Penal y normas referidas al\nprocedimiento de colaboración eficaz, se PROVEE: TÉNGASE PRESENTE todas las\ndocumentales referidas en el exordio, y AGRÉGUENSE a la carpeta fiscal principal para\nsu respectiva valoración.\nProcédase conforme corresponde.",
+      "texto_enriquecido": "[PROVIDENCIA] [Pág. 1]\nEa 4 ,\n?* .| MINISTERIO PÚBLICO\n=7 , REPUSLICA DEL PERU Equipo Especial de Fiscales Contra la Corrupción del Poder\nz\nFiscalía Provincial - Equipo 5\nCarpeta fiscal .* 07-2024\nPROVIDENCIA N.* 125\nLima, 30 de julio de 2024.\nDADO CUENTA, el oficio n.* 450-2024-MP-FN-EFICCOP-EQUIPO 5, del 30 de julio\nde 2024, mediante el cual remite la disposición fiscal de traslado n.” 04 del 30 de julio de\n2024, y documentos anexos; y, CONSIDERANDO que, por medio de dicha disposición\nperteneciente a la carpeta fiscal provisional C.E. n.* 30-2024-EFICCOP se traslada\ndocumentales a la carpeta fiscal n.* 7-2024, las cuales formarían parte de la fase de\ncorroboración del procedimiento de colaboración eficaz correspondiente; por tal motivo,\nen mérito al artículo 481-A del Código Procesal Penal y normas referidas al\nprocedimiento de colaboración eficaz, se PROVEE: TÉNGASE PRESENTE todas las\ndocumentales referidas en el exordio, y AGRÉGUENSE a la carpeta fiscal principal para\nsu respectiva valoración.\nProcédase conforme corresponde.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1021,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "30 de julio de 2024",
+        "30 de julio\nde 2024",
+        "30 de julio de\n2024"
+      ],
+      "tipo_documento": "providencia"
+    }
+  ],
+  "auditoria": {
+    "total_chunks": 1,
+    "total_caracteres_chunks": 1021,
+    "cobertura_texto": 1.0,
+    "promedio_caracteres_chunk": 1021,
+    "total_personas_detectadas": 0,
+    "total_fechas_detectadas": 1,
+    "total_articulos_legales": 0
+  }
+}

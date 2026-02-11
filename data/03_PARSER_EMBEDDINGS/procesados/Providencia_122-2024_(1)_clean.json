@@ -1,0 +1,45 @@
+{
+  "documento_id": "Providencia_122-2024_(1)_clean",
+  "archivo_original": "Providencia 122-2024 (1)_clean.txt",
+  "tipo_documento": "providencia",
+  "hash_contenido": "665e9c913f84ec5e5f8873c8a7a9e9be",
+  "fecha_procesamiento": "2026-02-11T11:19:43.199096",
+  "metadata": {
+    "expedientes": [],
+    "fecha_documento": "2024-07-25",
+    "articulos_legales": [],
+    "total_paginas": 1,
+    "total_caracteres": 1213
+  },
+  "personas": {},
+  "fechas": [
+    "2024-07-25"
+  ],
+  "secciones_imputados": [],
+  "chunks": [
+    {
+      "chunk_id": "Providencia_122-2024_(1)_clean_0001",
+      "texto": "“Año del Bicentenario, de la consolidación de nuestra independencia, y de la\n. conmemoración de las heroicas batallas de Junín y Ayacucho”\na MINISTERIO PÚBLICO\n-- FISCALIA DE LA NACIÓN Equipo Especial de Fiscales Contra la Corrupción del Poder\nNn Fiscalía Provincial - Equipo 5\nPROVIDENCIA N.? 122-2024\nLima, 25 de julio de 2024.\nDADO CUENTA, el oficio n.* 315-2024-MP-FN-EFICCOP-EQUIPO 5, del 25 de julio de\n2024, mediante el cual remite la disposición fiscal de traslado n.* 04 del 25 de julio de 2024,\ny documentos anexos; y, CONSIDERANDO que, por medio de dicha disposición\nperteneciente a la carpeta fiscal provisional C.E. n.* 09-2024-EFICCOP se traslada\ndocumentales a la carpeta fiscal n.* 7-2024, las cuales formarían parte de la fase de\ncorroboración del procedimiento de colaboración eficaz correspondiente; por tal motivo,\nen mérito al artículo 481-A del Código Procesal Penal y normas referidas al procedimiento\nde colaboración eficaz, se PROVEE: TÉNGASE PRESENTE todas las documentales\nreferidas en el exordio, y AGRÉGUENSE a la carpeta fiscal principal para su respectiva\nvaloración.\nProcédase conforme corresponde. /\nXA ey araooaooagenan\nNO PAZ\nFISCAL ADJUNTO PROVINCIAL\nEquipo Esp,eclaíde iscales",
+      "texto_enriquecido": "[PROVIDENCIA] [Pág. 1]\n“Año del Bicentenario, de la consolidación de nuestra independencia, y de la\n. conmemoración de las heroicas batallas de Junín y Ayacucho”\na MINISTERIO PÚBLICO\n-- FISCALIA DE LA NACIÓN Equipo Especial de Fiscales Contra la Corrupción del Poder\nNn Fiscalía Provincial - Equipo 5\nPROVIDENCIA N.? 122-2024\nLima, 25 de julio de 2024.\nDADO CUENTA, el oficio n.* 315-2024-MP-FN-EFICCOP-EQUIPO 5, del 25 de julio de\n2024, mediante el cual remite la disposición fiscal de traslado n.* 04 del 25 de julio de 2024,\ny documentos anexos; y, CONSIDERANDO que, por medio de dicha disposición\nperteneciente a la carpeta fiscal provisional C.E. n.* 09-2024-EFICCOP se traslada\ndocumentales a la carpeta fiscal n.* 7-2024, las cuales formarían parte de la fase de\ncorroboración del procedimiento de colaboración eficaz correspondiente; por tal motivo,\nen mérito al artículo 481-A del Código Procesal Penal y normas referidas al procedimiento\nde colaboración eficaz, se PROVEE: TÉNGASE PRESENTE todas las documentales\nreferidas en el exordio, y AGRÉGUENSE a la carpeta fiscal principal para su respectiva\nvaloración.\nProcédase conforme corresponde. /\nXA ey araooaooagenan\nNO PAZ\nFISCAL ADJUNTO PROVINCIAL\nEquipo Esp,eclaíde iscales",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1213,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "25 de julio de 2024",
+        "25 de julio de\n2024",
+        "25 de julio de 2024"
+      ],
+      "tipo_documento": "providencia"
+    }
+  ],
+  "auditoria": {
+    "total_chunks": 1,
+    "total_caracteres_chunks": 1213,
+    "cobertura_texto": 1.0,
+    "promedio_caracteres_chunk": 1213,
+    "total_personas_detectadas": 0,
+    "total_fechas_detectadas": 1,
+    "total_articulos_legales": 0
+  }
+}

@@ -29,6 +29,10 @@ data/*.md
 data/*.pdf
 data/*.json
 
+# EXCEPCIONES: Permitir datos necesarios para la web
+!data/03_PARSER_EMBEDDINGS/procesados/*.json
+!data/config*.json
+
 # Archivos de sistema y temporales
 .DS_Store
 Thumbs.db

@@ -1,0 +1,124 @@
+{
+  "documento_id": "Providencia_127_clean",
+  "archivo_original": "Providencia 127_clean.txt",
+  "tipo_documento": "providencia",
+  "hash_contenido": "81fc34e12c72544b0c0b4263a867b8a5",
+  "fecha_procesamiento": "2026-02-11T11:19:43.241063",
+  "metadata": {
+    "expedientes": [],
+    "fecha_documento": "2024-08-05",
+    "articulos_legales": [],
+    "total_paginas": 1,
+    "total_caracteres": 6221
+  },
+  "personas": {
+    "Mateo\nCastañeda Segovia": {
+      "dni": null,
+      "frecuencia": 5
+    },
+    "Mateo Castañeda Segovia": {
+      "dni": null,
+      "frecuencia": 5
+    }
+  },
+  "fechas": [
+    "2024-07-05",
+    "2024-07-08",
+    "2024-08-05"
+  ],
+  "secciones_imputados": [],
+  "chunks": [
+    {
+      "chunk_id": "Providencia_127_clean_0001",
+      "texto": "ANO PAZ\nROVINCIAL\nFiscales\nPader\nD€J/NT\nEquipo Especial de\nContra la Corrupción del\n“PAOLCÁA\nFISCALA\n“Año del Bicentenario, de la consolidación de nuestra Independencia, y de la\nl conmemoración de las heroicas batallas de Junín y Ayacucho”\nA\n; _?_f¡ - EQA[;EEJngEX)DPEºBC%é%8 Equipo Especial de Fiscales Contra la Corrupción del Poder\nFiscalía Provincial - Equipo 5\no\nPROVIDENCIA N.* 127\nLima, 05 de agosto de 2024\nDADO CUENTA: El escrito de fecha 3 | de julio de 2024, presentado por el abogado Eduardo Simeón\nBarriga Bernal, defensa técnica de Mateo Grimaldo Castañeda Segovia, con sumilla “Solicito se sirva\ndar respuesta explicita a nuestro pedido de actuaciones o diligencias”, en donde la defensa técnica de\nMateo Grimaldo Castañeda Segovia solicita se dé respuesta explicita a su pedido de actuaciones o\ndiligencias el cual consiste en tres puntos, los cuales son los siguientes: a) Solicitar se requiera al Fiscal\nProvincial del Equipo 3 de EFICCOP para que haga entrega del dispositivo electrónico fuente con el\ncual habría grabado el agente encubierto RENE, a fin de programar una diligencia de procesamiento,\nautentificación y extracción forense del referido audio; b) Que, una vez realizada la obtención y\nprocesamiento del punto anterior, se programe la diligencia de transcripción el referido audio con\nintervención de las partes y presencia de perito lingiístico;",
+      "texto_enriquecido": "[PROVIDENCIA] [Pág. 1] [Personas: Mateo\nCastañeda Segovia, Mateo Castañeda Segovia]\nANO PAZ\nROVINCIAL\nFiscales\nPader\nD€J/NT\nEquipo Especial de\nContra la Corrupción del\n“PAOLCÁA\nFISCALA\n“Año del Bicentenario, de la consolidación de nuestra Independencia, y de la\nl conmemoración de las heroicas batallas de Junín y Ayacucho”\nA\n; _?_f¡ - EQA[;EEJngEX)DPEºBC%é%8 Equipo Especial de Fiscales Contra la Corrupción del Poder\nFiscalía Provincial - Equipo 5\no\nPROVIDENCIA N.* 127\nLima, 05 de agosto de 2024\nDADO CUENTA: El escrito de fecha 3 | de julio de 2024, presentado por el abogado Eduardo Simeón\nBarriga Bernal, defensa técnica de Mateo Grimaldo Castañeda Segovia, con sumilla “Solicito se sirva\ndar respuesta explicita a nuestro pedido de actuaciones o diligencias”, en donde la defensa técnica de\nMateo Grimaldo Castañeda Segovia solicita se dé respuesta explicita a su pedido de actuaciones o\ndiligencias el cual consiste en tres puntos, los cuales son los siguientes: a) Solicitar se requiera al Fiscal\nProvincial del Equipo 3 de EFICCOP para que haga entrega del dispositivo electrónico fuente con el\ncual habría grabado el agente encubierto RENE, a fin de programar una diligencia de procesamiento,\nautentificación y extracción forense del referido audio; b) Que, una vez realizada la obtención y\nprocesamiento del punto anterior, se programe la diligencia de transcripción el referido audio con\nintervención de las partes y presencia de perito lingiístico;",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1378,
+      "personas_mencionadas": [
+        "Mateo\nCastañeda Segovia",
+        "Mateo Castañeda Segovia"
+      ],
+      "fechas_mencionadas": [
+        "05 de agosto de 2024"
+      ],
+      "tipo_documento": "providencia"
+    },
+    {
+      "chunk_id": "Providencia_127_clean_0002",
+      "texto": "anterior, se programe la diligencia de transcripción el referido audio con intervención de las partes y presencia de perito lingiístico; c) solicitar copia espejo del contenido de\nUSB color negro marca Kingston de 32 GB, lacrado y denominada muestra uno, el cual previamente\ndeberá ser recabado por el presente despacho, y CONSIDERANDO: que el presente despacho habría\nsolicitado dicha información a la Fiscalía del Equipo Especial de Fiscales contra la corrupción del\npoder -equipo 3-, mediante el oficio N% 373-2024/EFICCOP-S5D-MP-FN, el cual habría sido\nrespondido con Oficio N* 09-2024-EFICCOP-E3-MP-FN de fecha 08 de julio de 2024, la misma que\ncontiene la disposición S/N de fecha 05 de julio de 2024, referida a la carpeta reservada de agente\nencubierto “RENE”, en donde la parte dispositiva ordena: 1) Realizar una diligencia de reproducción\nen “Imagen Forense Informática” o “Copa Espejo” de los archivos digitales contenidos en: i) Un\nUSB color negro, marca Kingston de 64 GB, siendo que dicho USB tiene la denominación virtual\nde 30ABR24 (la cual fue debidamente lacrado y denominado Muestra 01 (M-01)); y, ii) Un (01)\nUSB color negro marca Kingston de 32 GB, el cual fue lacrado y denominado MUESTRA UNO,\nrecabado en la presente carpeta reservada de agente encubierto;",
+      "texto_enriquecido": "[PROVIDENCIA] [Pág. 1]\nanterior, se programe la diligencia de transcripción el referido audio con intervención de las partes y presencia de perito lingiístico; c) solicitar copia espejo del contenido de\nUSB color negro marca Kingston de 32 GB, lacrado y denominada muestra uno, el cual previamente\ndeberá ser recabado por el presente despacho, y CONSIDERANDO: que el presente despacho habría\nsolicitado dicha información a la Fiscalía del Equipo Especial de Fiscales contra la corrupción del\npoder -equipo 3-, mediante el oficio N% 373-2024/EFICCOP-S5D-MP-FN, el cual habría sido\nrespondido con Oficio N* 09-2024-EFICCOP-E3-MP-FN de fecha 08 de julio de 2024, la misma que\ncontiene la disposición S/N de fecha 05 de julio de 2024, referida a la carpeta reservada de agente\nencubierto “RENE”, en donde la parte dispositiva ordena: 1) Realizar una diligencia de reproducción\nen “Imagen Forense Informática” o “Copa Espejo” de los archivos digitales contenidos en: i) Un\nUSB color negro, marca Kingston de 64 GB, siendo que dicho USB tiene la denominación virtual\nde 30ABR24 (la cual fue debidamente lacrado y denominado Muestra 01 (M-01)); y, ii) Un (01)\nUSB color negro marca Kingston de 32 GB, el cual fue lacrado y denominado MUESTRA UNO,\nrecabado en la presente carpeta reservada de agente encubierto;",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1280,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "08 de julio de 2024",
+        "05 de julio de 2024"
+      ],
+      "tipo_documento": "providencia"
+    },
+    {
+      "chunk_id": "Providencia_127_clean_0003",
+      "texto": "de 32 GB, el cual fue lacrado y denominado MUESTRA UNO, recabado en la presente carpeta reservada de agente encubierto; 2) Realizar una diligencia técnica\nde cesura (difuminar o pixeliar en videos y/o pitido en audios) de los segmentos donde aparezca en\nescena o se escuchen algún dato de identificación del agente encubierto “RENE” sobre la copia\nespejo de los archivos digitales contenidos en: i) Un USB color negro, marca Kingston de 64 GB,\nsiendo que dicho USB tiene la denominación virtual de 30ABR2024 (el cual fue debidamente\nlacrado y denominado Muestra 01 (M-01)); y ii) Un (01) USB color negro marca Kingstone de 32\nGB, el cual fue lacrado y denominado MUESTRA UNO, a efectos de preservar la reserva de la\nidentidad; 3) Requerir la autorización judicial para el traslado al Equipo 5 del EFICCOP, de la\ncopia previamente censurada.",
+      "texto_enriquecido": "[PROVIDENCIA] [Pág. 1]\nde 32 GB, el cual fue lacrado y denominado MUESTRA UNO, recabado en la presente carpeta reservada de agente encubierto; 2) Realizar una diligencia técnica\nde cesura (difuminar o pixeliar en videos y/o pitido en audios) de los segmentos donde aparezca en\nescena o se escuchen algún dato de identificación del agente encubierto “RENE” sobre la copia\nespejo de los archivos digitales contenidos en: i) Un USB color negro, marca Kingston de 64 GB,\nsiendo que dicho USB tiene la denominación virtual de 30ABR2024 (el cual fue debidamente\nlacrado y denominado Muestra 01 (M-01)); y ii) Un (01) USB color negro marca Kingstone de 32\nGB, el cual fue lacrado y denominado MUESTRA UNO, a efectos de preservar la reserva de la\nidentidad; 3) Requerir la autorización judicial para el traslado al Equipo 5 del EFICCOP, de la\ncopia previamente censurada.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 840,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [],
+      "tipo_documento": "providencia"
+    },
+    {
+      "chunk_id": "Providencia_127_clean_0004",
+      "texto": "la identidad; 3) Requerir la autorización judicial para el traslado al Equipo 5 del EFICCOP, de la copia previamente censurada. Ahora bien, teniéndose en cuenta que la información solicitada por parte del investigado Mateo\nCastañeda Segovia (referido a los agentes encubiertos) no son de dominio del presente despacho fiscal,\nse habría solicitado ex ante dicha información, a la fiscalía de origen (Equipo 3 — EFICCOP) a fin de\npoder atender su pedido, el mismo que se encuentra en trámite, y atendiendo a que se trataría de\ninformación referida a una carpeta reservada y por la misma naturaleza que reviste la figura de los\nagentes especiales, la fiscalía de origen cuenta con un deber de reserva de identidad de dichos agentes\nencubiertos, por lo cual la precitada fiscalía nos informa que a solicitado autorización judicial para el\ntraslado de la información requerida, encontrándonos a la espera de dicha información. Siendo que\nnuestro pedido se encuentra justificado en la necesidad de llevar a cabo diligencias pertinentes para el\nesclarecimiento de los hechos materia de investigación de conformidad con el artículo 138 numeral 2)\ny 3) del Código Procesal Penal, sin perjuicio de ello, al contener estos archivos de video imágenes que\nexpondrían la identidad de agente encubierto “RENE” y “CARLOS”, es meritorio la autorización\njudicial, previo al traslado de dicha información.",
+      "texto_enriquecido": "[PROVIDENCIA] [Pág. 1] [Personas: Mateo\nCastañeda Segovia, Mateo Castañeda Segovia]\nla identidad; 3) Requerir la autorización judicial para el traslado al Equipo 5 del EFICCOP, de la copia previamente censurada. Ahora bien, teniéndose en cuenta que la información solicitada por parte del investigado Mateo\nCastañeda Segovia (referido a los agentes encubiertos) no son de dominio del presente despacho fiscal,\nse habría solicitado ex ante dicha información, a la fiscalía de origen (Equipo 3 — EFICCOP) a fin de\npoder atender su pedido, el mismo que se encuentra en trámite, y atendiendo a que se trataría de\ninformación referida a una carpeta reservada y por la misma naturaleza que reviste la figura de los\nagentes especiales, la fiscalía de origen cuenta con un deber de reserva de identidad de dichos agentes\nencubiertos, por lo cual la precitada fiscalía nos informa que a solicitado autorización judicial para el\ntraslado de la información requerida, encontrándonos a la espera de dicha información. Siendo que\nnuestro pedido se encuentra justificado en la necesidad de llevar a cabo diligencias pertinentes para el\nesclarecimiento de los hechos materia de investigación de conformidad con el artículo 138 numeral 2)\ny 3) del Código Procesal Penal, sin perjuicio de ello, al contener estos archivos de video imágenes que\nexpondrían la identidad de agente encubierto “RENE” y “CARLOS”, es meritorio la autorización\njudicial, previo al traslado de dicha información.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1386,
+      "personas_mencionadas": [
+        "Mateo\nCastañeda Segovia",
+        "Mateo Castañeda Segovia"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "providencia"
+    },
+    {
+      "chunk_id": "Providencia_127_clean_0005",
+      "texto": "expondrían la identidad de agente encubierto “RENE” y “CARLOS”, es meritorio la autorización judicial, previo al traslado de dicha información. Por lo que, de conformidad con el “Reglamento de circulación y entrega vigilada bienes delictivos,\nagente encubierto y operaciones encubiertas”, el cual establece en su artículo 3, literal e), referido al\n“Año del Bicentenario, de la consolidación de nuestra Independencia, y de la\nconmemoración de las heroicas batallas de Junín y Ayacucho”\nW gnlglsg%5t0)_&U Bg;'%8 Equipo Especial de Fiscales Contra la Corrupción del Poder\n- ;' | REPU A En\nFiscalía Provincial - Equipo 5\ne?\nPrincipio de Reserva, el cual precisa “/as actuaciones referidas a las técnicas especiales solo serán\nde conocimiento de los funcionarios autorizados por ley.”, conjuntamente con el artículo 29 de la\nreferida norma legal que señala “La identidad del agente tendrá carácter reservado durante el tiempo\nque se estime pertinente de conformidad con la ley. Su incumplimiento acarreará las sanciones\npenales y disciplinarias correspondientes. ”, por lo cual, el traslado debe estar aprobado previamente\npor mandato judicial, y en relación al peticionado por parte de la defensa técnica del investigado Mateo\nCastañeda Segovia, este despacho fiscal previamente a la programación de las solicitudes realizadas,\nse deberá mínimamente, tener recabada la información solicitada al Equipo Especial de Ficales contra\nla Corrupción de Poder — equipo 3-, a fin de evaluar su pedido.",
+      "texto_enriquecido": "[PROVIDENCIA] [Pág. 1] [Personas: Mateo\nCastañeda Segovia, Mateo Castañeda Segovia]\nexpondrían la identidad de agente encubierto “RENE” y “CARLOS”, es meritorio la autorización judicial, previo al traslado de dicha información. Por lo que, de conformidad con el “Reglamento de circulación y entrega vigilada bienes delictivos,\nagente encubierto y operaciones encubiertas”, el cual establece en su artículo 3, literal e), referido al\n“Año del Bicentenario, de la consolidación de nuestra Independencia, y de la\nconmemoración de las heroicas batallas de Junín y Ayacucho”\nW gnlglsg%5t0)_&U Bg;'%8 Equipo Especial de Fiscales Contra la Corrupción del Poder\n- ;' | REPU A En\nFiscalía Provincial - Equipo 5\ne?\nPrincipio de Reserva, el cual precisa “/as actuaciones referidas a las técnicas especiales solo serán\nde conocimiento de los funcionarios autorizados por ley.”, conjuntamente con el artículo 29 de la\nreferida norma legal que señala “La identidad del agente tendrá carácter reservado durante el tiempo\nque se estime pertinente de conformidad con la ley. Su incumplimiento acarreará las sanciones\npenales y disciplinarias correspondientes. ”, por lo cual, el traslado debe estar aprobado previamente\npor mandato judicial, y en relación al peticionado por parte de la defensa técnica del investigado Mateo\nCastañeda Segovia, este despacho fiscal previamente a la programación de las solicitudes realizadas,\nse deberá mínimamente, tener recabada la información solicitada al Equipo Especial de Ficales contra\nla Corrupción de Poder — equipo 3-, a fin de evaluar su pedido.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1489,
+      "personas_mencionadas": [
+        "Mateo\nCastañeda Segovia",
+        "Mateo Castañeda Segovia"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "providencia"
+    },
+    {
+      "chunk_id": "Providencia_127_clean_0006",
+      "texto": "solicitada al Equipo Especial de Ficales contra la Corrupción de Poder — equipo 3-, a fin de evaluar su pedido. SE PROVEE: TENGASE PRESENTE el escrito presentado por la defensa técnica del investigado\nMateo Castañeda Segovia, a fin de ser valorado en su oportunidad, una vez que se recepcione el\ntraslado solicitado al Equipo Especial de iscales contra la Corrupción del Poder - equipo 3-, de\nconformidad a lo expuesto. ]\nNotifíquese. -\nPAOLO A D É CNANO PAZ\nFISCAL ADJUNTO PRDV|NCIAL",
+      "texto_enriquecido": "[PROVIDENCIA] [Pág. 1] [Personas: Mateo\nCastañeda Segovia, Mateo Castañeda Segovia]\nsolicitada al Equipo Especial de Ficales contra la Corrupción de Poder — equipo 3-, a fin de evaluar su pedido. SE PROVEE: TENGASE PRESENTE el escrito presentado por la defensa técnica del investigado\nMateo Castañeda Segovia, a fin de ser valorado en su oportunidad, una vez que se recepcione el\ntraslado solicitado al Equipo Especial de iscales contra la Corrupción del Poder - equipo 3-, de\nconformidad a lo expuesto. ]\nNotifíquese. -\nPAOLO A D É CNANO PAZ\nFISCAL ADJUNTO PRDV|NCIAL",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 484,
+      "personas_mencionadas": [
+        "Mateo\nCastañeda Segovia",
+        "Mateo Castañeda Segovia"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "providencia"
+    }
+  ],
+  "auditoria": {
+    "total_chunks": 6,
+    "total_caracteres_chunks": 6857,
+    "cobertura_texto": 1.1022,
+    "promedio_caracteres_chunk": 1143,
+    "total_personas_detectadas": 2,
+    "total_fechas_detectadas": 3,
+    "total_articulos_legales": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "documento_id": "Disposicion_16_clean",
+  "archivo_original": "Disposicion 16_clean.txt",
+  "tipo_documento": "disposicion",
+  "hash_contenido": "746e28b3b286712aad720843cc9ac7cb",
+  "fecha_procesamiento": "2026-02-11T11:19:41.974996",
+  "metadata": {
+    "expedientes": [],
+    "fecha_documento": "2024-07-04",
+    "articulos_legales": [],
+    "total_paginas": 1,
+    "total_caracteres": 2486
+  },
+  "personas": {},
+  "fechas": [
+    "2024-07-04",
+    "2024-07-05",
+    "2024-07-08"
+  ],
+  "secciones_imputados": [],
+  "chunks": [
+    {
+      "chunk_id": "Disposicion_16_clean_0001",
+      "texto": "“Año del Bicentenario, de la consolidación de nuestra Independencia, y de la\n7 conmemoración de las heroicas batallas de Junín y Ayacucho”\nA 5\n7 - MINISTERIO PÚBLICO\n-- | REPÚBLICA DEL PERÚ Equipo Especial de Fiscales Contra la Corrupción del Poder\nFiscalía Provincial - Equipo 5\nDISPOSICIÓN FISCAL N.£ 16\nLima, ocho de julio\nDel año dos mil veinticuatro. VISTO: El oficio n.* 2985-2024-3*DPP/1er.FPC-MP-MIR-SUR-BOR-02 del 4 de julio\nde 2024, suscrita por la fiscal provincial Miluska Milagritos Romero Pacheco, del Tercer\nDespacho Provincial Penal de la Primera Fiscalía Corporativa Penal de Miraflores\nSurquillo y San Borja. Y, CONSIDERANDO:\nPrimero.- Por medio del oficio indicado, la fiscal provincial del Tercer Despacho de\nla Primera Fiscalía Corporativa Penal de Miraflores Surquillo y San Borja, remite los\nactuados de la denuncia n.” 506154501-2023-2985-0, en mérito a lo señalado en la\ndisposición fiscal n.* 3 del 4 de julio de 2024 (carpeta fiscal n.? 506154501-2024-2985-0),\nen cuya parte decisoria resuelve devolver a este despacho fiscal la carpeta fiscal n.?\n506154501-2024-2985-0, con la finalidad de que se subsane las omisiones procesales de la\npapeleta de intemamiento de las especies (armas de fuego incautadas) y el cuaderno de\nconfirmatoria de incautación con la resolución confirmatoria respectiva.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\n“Año del Bicentenario, de la consolidación de nuestra Independencia, y de la\n7 conmemoración de las heroicas batallas de Junín y Ayacucho”\nA 5\n7 - MINISTERIO PÚBLICO\n-- | REPÚBLICA DEL PERÚ Equipo Especial de Fiscales Contra la Corrupción del Poder\nFiscalía Provincial - Equipo 5\nDISPOSICIÓN FISCAL N.£ 16\nLima, ocho de julio\nDel año dos mil veinticuatro. VISTO: El oficio n.* 2985-2024-3*DPP/1er.FPC-MP-MIR-SUR-BOR-02 del 4 de julio\nde 2024, suscrita por la fiscal provincial Miluska Milagritos Romero Pacheco, del Tercer\nDespacho Provincial Penal de la Primera Fiscalía Corporativa Penal de Miraflores\nSurquillo y San Borja. Y, CONSIDERANDO:\nPrimero.- Por medio del oficio indicado, la fiscal provincial del Tercer Despacho de\nla Primera Fiscalía Corporativa Penal de Miraflores Surquillo y San Borja, remite los\nactuados de la denuncia n.” 506154501-2023-2985-0, en mérito a lo señalado en la\ndisposición fiscal n.* 3 del 4 de julio de 2024 (carpeta fiscal n.? 506154501-2024-2985-0),\nen cuya parte decisoria resuelve devolver a este despacho fiscal la carpeta fiscal n.?\n506154501-2024-2985-0, con la finalidad de que se subsane las omisiones procesales de la\npapeleta de intemamiento de las especies (armas de fuego incautadas) y el cuaderno de\nconfirmatoria de incautación con la resolución confirmatoria respectiva.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1322,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "4 de julio\nde 2024",
+        "4 de julio de 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "Disposicion_16_clean_0002",
+      "texto": "intemamiento de las especies (armas de fuego incautadas) y el cuaderno de confirmatoria de incautación con la resolución confirmatoria respectiva. Segundo.- En tal sentido, a la fecha de emitida la presente disposición, se advierte\nque se habría cumplido con internar las dos armas de fuego (un (01) revólver calibre 22\nMagnun North América, color plateado, serie N* W05063, y un (01) revólver marca\nSMITH é WESSON color plateado, serie 401996), conforme consta de las dos actas de\nintemamiento de arma de fuego de uso civil respectivas, de fecha 08 de julio de 2024 —\nadjuntas al oficio n.? 403-2024/EFICCOP-5D-MP-FN (CARPETA FISCAL N.* 07-2024, del 8\nde julio de 2024 -, así como se contaría actualmente con la resolución judicial de\nconfirmatoria, contenida en la resolución n.” 1 del 5 de julio de 2024, notificada a este\ndespacho fiscal con fecha 5 de julio de 2024. Por tales consideraciones, este despacho fiscal DISPONE:\n1. REMITIR al Tercer Despacho Provincial Penal de la Primera Fiscalía Corporativa\nPenal de Miraflores Surquillo y San Borja, los actuados de la carpeta fiscal n.*\n506154501-2024-2985-0, compuesta por la principal, auxiliar, cuaderno de\nconfirmatoria judicial de incautación; a fin de que proceda conforme a sus\natribuciones. Ofíciese y regístrese según corresponda. -\nZ7 — K\n1 de 1",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nintemamiento de las especies (armas de fuego incautadas) y el cuaderno de confirmatoria de incautación con la resolución confirmatoria respectiva. Segundo.- En tal sentido, a la fecha de emitida la presente disposición, se advierte\nque se habría cumplido con internar las dos armas de fuego (un (01) revólver calibre 22\nMagnun North América, color plateado, serie N* W05063, y un (01) revólver marca\nSMITH é WESSON color plateado, serie 401996), conforme consta de las dos actas de\nintemamiento de arma de fuego de uso civil respectivas, de fecha 08 de julio de 2024 —\nadjuntas al oficio n.? 403-2024/EFICCOP-5D-MP-FN (CARPETA FISCAL N.* 07-2024, del 8\nde julio de 2024 -, así como se contaría actualmente con la resolución judicial de\nconfirmatoria, contenida en la resolución n.” 1 del 5 de julio de 2024, notificada a este\ndespacho fiscal con fecha 5 de julio de 2024. Por tales consideraciones, este despacho fiscal DISPONE:\n1. REMITIR al Tercer Despacho Provincial Penal de la Primera Fiscalía Corporativa\nPenal de Miraflores Surquillo y San Borja, los actuados de la carpeta fiscal n.*\n506154501-2024-2985-0, compuesta por la principal, auxiliar, cuaderno de\nconfirmatoria judicial de incautación; a fin de que proceda conforme a sus\natribuciones. Ofíciese y regístrese según corresponda. -\nZ7 — K\n1 de 1",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1310,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "08 de julio de 2024",
+        "8\nde julio de 2024",
+        "5 de julio de 2024",
+        "5 de julio de 2024"
+      ],
+      "tipo_documento": "disposicion"
+    }
+  ],
+  "auditoria": {
+    "total_chunks": 2,
+    "total_caracteres_chunks": 2632,
+    "cobertura_texto": 1.0587,
+    "promedio_caracteres_chunk": 1316,
+    "total_personas_detectadas": 0,
+    "total_fechas_detectadas": 3,
+    "total_articulos_legales": 0
+  }
+}

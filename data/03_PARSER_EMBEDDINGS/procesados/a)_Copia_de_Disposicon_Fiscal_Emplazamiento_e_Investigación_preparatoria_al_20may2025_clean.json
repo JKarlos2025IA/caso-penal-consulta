@@ -1,0 +1,885 @@
+{
+  "documento_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean",
+  "archivo_original": "a) Copia de Disposicon Fiscal Emplazamiento e Investigación preparatoria al 20may2025_clean.txt",
+  "tipo_documento": "disposicion",
+  "hash_contenido": "1fdd3a1d45d745e913fb833997a8c925",
+  "fecha_procesamiento": "2026-02-11T11:19:41.832592",
+  "metadata": {
+    "expedientes": [
+      "2806015500-2024-01-0"
+    ],
+    "fecha_documento": "2024-04-26",
+    "articulos_legales": [
+      "Art. 317 - Código Penal",
+      "Art. 400 - Código\nPenal"
+    ],
+    "total_paginas": 1,
+    "total_caracteres": 51003
+  },
+  "personas": {
+    "Wigberto Nicanor Boluarte Zegarra": {
+      "dni": "06811022",
+      "frecuencia": 34
+    },
+    "Jorge Luis Ortiz Marreros": {
+      "dni": "08695978",
+      "frecuencia": 5
+    },
+    "Zenovia Griselda Herrera Vásquez": {
+      "dni": "01123289",
+      "frecuencia": 6
+    },
+    "Luis Alberto Guevara Bello": {
+      "dni": "01141693",
+      "frecuencia": 3
+    },
+    "José Leopoldo Lozano Torres": {
+      "dni": "09618270",
+      "frecuencia": 2
+    },
+    "Noriel Chingay Salazar": {
+      "dni": "42011223",
+      "frecuencia": 25
+    },
+    "Mateo Grimaldo Castañeda Segovia": {
+      "dni": "23822067",
+      "frecuencia": 3
+    },
+    "Martin Silvio Carbajal Zegarra": {
+      "dni": "42416014",
+      "frecuencia": 2
+    },
+    "Lubi Angélica Navarro Bartra": {
+      "dni": "70160943",
+      "frecuencia": 2
+    },
+    "Fernando Navarro Luna": {
+      "dni": "01131872",
+      "frecuencia": 2
+    },
+    "Raúl Antonio Oliva Guerrero": {
+      "dni": "16608520",
+      "frecuencia": 2
+    },
+    "Nixon Henry Hoyos Gallardo": {
+      "dni": "47475084",
+      "frecuencia": 4
+    },
+    "Verónica Raquel Solórzano Quispe": {
+      "dni": "42250174",
+      "frecuencia": 1
+    },
+    "Gilmer Raúl Flores Fernández": {
+      "dni": "27987393",
+      "frecuencia": 2
+    },
+    "Fidel Becerra Villalobos": {
+      "dni": "28124400",
+      "frecuencia": 3
+    },
+    "César Eladio Paico Sánchez": {
+      "dni": "45215402",
+      "frecuencia": 1
+    },
+    "Ilver Ulises Mostacero León": {
+      "dni": "27143243",
+      "frecuencia": 2
+    },
+    "Franshesco Noriel Chingay Parodi": {
+      "dni": "76634185",
+      "frecuencia": 2
+    },
+    "John Franci Zambrano Quispe": {
+      "dni": "48020097",
+      "frecuencia": 3
+    },
+    "Víctor Hugo Torres Merino": {
+      "dni": "10283868",
+      "frecuencia": 6
+    },
+    "Jorge Chingay Salazar": {
+      "dni": "46249314",
+      "frecuencia": 25
+    },
+    "Edwin Ugarte Nina": {
+      "dni": "25793628",
+      "frecuencia": 6
+    }
+  },
+  "fechas": [
+    "2022-12-07",
+    "2022-12-16",
+    "2023-01-15",
+    "2023-02-04",
+    "2023-02-07",
+    "2023-08-26",
+    "2023-08-31",
+    "2023-11-05",
+    "2023-11-07",
+    "2024-02-14",
+    "2024-02-15",
+    "2024-04-11",
+    "2024-04-17",
+    "2024-04-19",
+    "2024-04-26",
+    "????-01-26",
+    "????-02-16",
+    "????-02-19",
+    "????-03-13"
+  ],
+  "secciones_imputados": [],
+  "chunks": [
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0001",
+      "texto": "\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nCarpeta Fiscal\nDisposición\nInvestigados\nAgraviado\nDelitos\nFiscal a cargo\nWigberto Nicanor Boluarte Zegarra y otros\nEl Estado\nOrganización Criminal, y otros\nDISPOSICIÓN DE IDENTIFICACION E INDIVIDUALIZACION DE\nINVESTIGADOS-DELITOS IMPUTADOS E IMPULSO PROCESAL DE\nINVESTIGACIÓN\nLima, veintiséis de abril del dos mil veinticuatro. -\nDADO CUENTA. El estado de la presente carpeta fiscal, de los\ndocumentos recibidos por parte de la fiscalía anticorrupción de San Martin,\ndeclaraciones testimoniales recabadas, entre otros actuados en contra de Wigberto\nNicanor Boluarte Zegarra y otros; oficio N° 02-2024-EFICCOP-E3-MP-FN del 26 de abril\ndel 2024 (sobre información reservada de técnicas especiales de investigación por parte\ndel equipo 3 de la EFICCOP); y, CONSIDERANDO:\nI.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra]\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nCarpeta Fiscal\nDisposición\nInvestigados\nAgraviado\nDelitos\nFiscal a cargo\nWigberto Nicanor Boluarte Zegarra y otros\nEl Estado\nOrganización Criminal, y otros\nDISPOSICIÓN DE IDENTIFICACION E INDIVIDUALIZACION DE\nINVESTIGADOS-DELITOS IMPUTADOS E IMPULSO PROCESAL DE\nINVESTIGACIÓN\nLima, veintiséis de abril del dos mil veinticuatro. -\nDADO CUENTA. El estado de la presente carpeta fiscal, de los\ndocumentos recibidos por parte de la fiscalía anticorrupción de San Martin,\ndeclaraciones testimoniales recabadas, entre otros actuados en contra de Wigberto\nNicanor Boluarte Zegarra y otros; oficio N° 02-2024-EFICCOP-E3-MP-FN del 26 de abril\ndel 2024 (sobre información reservada de técnicas especiales de investigación por parte\ndel equipo 3 de la EFICCOP); y, CONSIDERANDO:\nI.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 907,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra"
+      ],
+      "fechas_mencionadas": [
+        "26 de abril\ndel 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0002",
+      "texto": "2024 (sobre información reservada de técnicas especiales de investigación por parte del equipo 3 de la EFICCOP); y, CONSIDERANDO: I. DE LOS DOCUMENTOS RECIBIDOS:\nPrimero: Conforme a la Constancia de entrega de disposición fiscal y demás actuados\nde fecha 17 de abril del 2024, que contiene las principales declaraciones, actas de\ntranscripción y visualización de los diversos actuados a nivel fiscalía de la carpeta fiscal\nn° 2806015500-2024-01-0, contra Zenovia Grisela Herrera Vásquez y otros, por\npresunto delito de trafico de influencias, en agravio del Estado peruano ante la fiscalía\nprovincial especializada en delitos de corrupción de funcionarios San Martin sede\nTarapoto, se tiene lo siguiente:\nContra la\n1) Copia certificada del acta fiscal de visualización de equipo celular del testigo\nDiego Moisés Saavedra Ushiñahua, del 14 de febrero del 2024, mediante el cual\nse advierte, a folios 2023, la credencial de Diego Moisés SAAVEDRA\nUSHIÑAHUA como secretario de Organización del partido político\n\"Ciudadanos por el Perú\", firmada por Zenovia Griselda HERRERA VASQUEZ,\nsecretaría regional general del CPP- San Martín.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Zenovia Griselda Herrera Vásquez]\n2024 (sobre información reservada de técnicas especiales de investigación por parte del equipo 3 de la EFICCOP); y, CONSIDERANDO: I. DE LOS DOCUMENTOS RECIBIDOS:\nPrimero: Conforme a la Constancia de entrega de disposición fiscal y demás actuados\nde fecha 17 de abril del 2024, que contiene las principales declaraciones, actas de\ntranscripción y visualización de los diversos actuados a nivel fiscalía de la carpeta fiscal\nn° 2806015500-2024-01-0, contra Zenovia Grisela Herrera Vásquez y otros, por\npresunto delito de trafico de influencias, en agravio del Estado peruano ante la fiscalía\nprovincial especializada en delitos de corrupción de funcionarios San Martin sede\nTarapoto, se tiene lo siguiente:\nContra la\n1) Copia certificada del acta fiscal de visualización de equipo celular del testigo\nDiego Moisés Saavedra Ushiñahua, del 14 de febrero del 2024, mediante el cual\nse advierte, a folios 2023, la credencial de Diego Moisés SAAVEDRA\nUSHIÑAHUA como secretario de Organización del partido político\n\"Ciudadanos por el Perú\", firmada por Zenovia Griselda HERRERA VASQUEZ,\nsecretaría regional general del CPP- San Martín.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1127,
+      "personas_mencionadas": [
+        "Zenovia Griselda Herrera Vásquez"
+      ],
+      "fechas_mencionadas": [
+        "17 de abril del 2024",
+        "14 de febrero del 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0003",
+      "texto": "del partido político \"Ciudadanos por el Perú\", firmada por Zenovia Griselda HERRERA VASQUEZ, secretaría regional general del CPP- San Martín. Copia certificada del acta fiscal de visualización de equipo celular del testigo\nDiego Moisés Saavedra Ushiñahua, del 14 de febrero del 2024, mediante el cual\nse advierte, a folios 2028, una imagen en la que se observa a Zenovia Griselda\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nHERRERA VASQUEZ, junto a Nicanor BOLUARTE ZEGARRA, Armando\nVILLALOBOS LEYVA, sentados alrededor de una mesa. 3) Copia certificada del acta fiscal de visualización de equipo celular del testigo\nDiego Moisés Saavedra Ushiñahua, del 14 de febrero del 2024, en la que se\nadvierte, a folios 2035, una imagen de un grupo en la red social WhatsApp con\nel nombre \"Cpp Tarapoto\", integrado por Subprefectos. 4) Copia certificada del acta fiscal de visualización de equipo celular del testigo\nDiego Moisés Saavedra Ushiñahua, del 14 de febrero del 2024, advirtiéndose, a\nfolios 2037, al usuario \"Fernando Navarro\" que comunica sobre su participación\nen la ceremonia de juramentación de los subprefectos distritales en el distrito de\nTocache.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra]\ndel partido político \"Ciudadanos por el Perú\", firmada por Zenovia Griselda HERRERA VASQUEZ, secretaría regional general del CPP- San Martín. Copia certificada del acta fiscal de visualización de equipo celular del testigo\nDiego Moisés Saavedra Ushiñahua, del 14 de febrero del 2024, mediante el cual\nse advierte, a folios 2028, una imagen en la que se observa a Zenovia Griselda\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nHERRERA VASQUEZ, junto a Nicanor BOLUARTE ZEGARRA, Armando\nVILLALOBOS LEYVA, sentados alrededor de una mesa. 3) Copia certificada del acta fiscal de visualización de equipo celular del testigo\nDiego Moisés Saavedra Ushiñahua, del 14 de febrero del 2024, en la que se\nadvierte, a folios 2035, una imagen de un grupo en la red social WhatsApp con\nel nombre \"Cpp Tarapoto\", integrado por Subprefectos. 4) Copia certificada del acta fiscal de visualización de equipo celular del testigo\nDiego Moisés Saavedra Ushiñahua, del 14 de febrero del 2024, advirtiéndose, a\nfolios 2037, al usuario \"Fernando Navarro\" que comunica sobre su participación\nen la ceremonia de juramentación de los subprefectos distritales en el distrito de\nTocache.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1273,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra"
+      ],
+      "fechas_mencionadas": [
+        "14 de febrero del 2024",
+        "14 de febrero del 2024",
+        "14 de febrero del 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0004",
+      "texto": "Navarro\" que comunica sobre su participación en la ceremonia de juramentación de los subprefectos distritales en el distrito de Tocache. 5) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2060, una imagen de conversación de\nWhatsApp con el usuario \"Profesora Griselda H\" quien menciona \"Están\npidiendo por orden de la uno la lista de subprefectos de la región san Martín\". 6) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2063, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Dr. Buenos días, ya que\nse encuentra en lima x favor gestionar la secretaria de Tarapoto. Ya conversé con\nel dr. Nica sabe que necesitamos la plaza. Te envío el cv.\" Procediendo a reenviar\nun documento en formato PDF con el título \"CV LUBI 2023\". 7) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2066, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien envía una imagen de contacto\n\"Moisés Saavedra\" referente a los totales de fichas (de afiliación del partido\npolítico \"Ciudadanos por el Perú\") aptas y nulas de las provincias de Rioja y\nMoyobamba.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nNavarro\" que comunica sobre su participación en la ceremonia de juramentación de los subprefectos distritales en el distrito de Tocache. 5) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2060, una imagen de conversación de\nWhatsApp con el usuario \"Profesora Griselda H\" quien menciona \"Están\npidiendo por orden de la uno la lista de subprefectos de la región san Martín\". 6) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2063, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Dr. Buenos días, ya que\nse encuentra en lima x favor gestionar la secretaria de Tarapoto. Ya conversé con\nel dr. Nica sabe que necesitamos la plaza. Te envío el cv.\" Procediendo a reenviar\nun documento en formato PDF con el título \"CV LUBI 2023\". 7) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2066, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien envía una imagen de contacto\n\"Moisés Saavedra\" referente a los totales de fichas (de afiliación del partido\npolítico \"Ciudadanos por el Perú\") aptas y nulas de las provincias de Rioja y\nMoyobamba.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1299,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "15 de febrero del\n2024",
+        "15 de febrero del\n2024",
+        "15 de febrero del\n2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0005",
+      "texto": "fichas (de afiliación del partido político \"Ciudadanos por el Perú\") aptas y nulas de las provincias de Rioja y Moyobamba. 8) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2067, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Dr. Tengo propuesta\npara la subprefectura de san José de sisa, mañana te envío la propuesta. Va lo que\nle envío por favor, estoy viendo el tema político\". 9) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2068, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Dr. X favor traer en usb\nlos cv del dr alvaro, el inicio y de senasa que me pasaste sus cv, en usb\nindividuales tengo que remitirlo a lima\". 10) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2071, una imagen de conversación de\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nWhatsApp con el usuario \"Profesora\", quien menciona \"Dr. Necesitamos saber\ncómo va la RD de morales. Y la caja chica. Dr. X favor comuníquense con el dr\nzuares de Chachapoyas y luego llame a la sra Martha x favor, es urgente\".",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nfichas (de afiliación del partido político \"Ciudadanos por el Perú\") aptas y nulas de las provincias de Rioja y Moyobamba. 8) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2067, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Dr. Tengo propuesta\npara la subprefectura de san José de sisa, mañana te envío la propuesta. Va lo que\nle envío por favor, estoy viendo el tema político\". 9) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2068, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Dr. X favor traer en usb\nlos cv del dr alvaro, el inicio y de senasa que me pasaste sus cv, en usb\nindividuales tengo que remitirlo a lima\". 10) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2071, una imagen de conversación de\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nWhatsApp con el usuario \"Profesora\", quien menciona \"Dr. Necesitamos saber\ncómo va la RD de morales. Y la caja chica. Dr. X favor comuníquense con el dr\nzuares de Chachapoyas y luego llame a la sra Martha x favor, es urgente\".",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1388,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "15 de febrero del\n2024",
+        "15 de febrero del\n2024",
+        "15 de febrero del\n2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0006",
+      "texto": "X favor comuníquense con el dr zuares de Chachapoyas y luego llame a la sra Martha x favor, es urgente\". 11) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2075, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Quería saber sobre la\ncaja chica de la provincia, falta pagar agua luz comprar papel y tinta de\nimpresora como van a solucionar ese tema doctor ayer estuve x ahí\". 12) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2076, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Buenas noches doctor,\nque pasa con Moyobamba y rioja, no cumplen la meta. Si tomanguillo no quiere\ntrabajar busquemos trabajar con los distritos que sean sumarse al trabajo político,\nasí como lo estamos haciendo en lamas\". 13) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2077, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Doctor buenas días, las\nfichas de Elvis tiene muchos errores estoy devolviendo solo quedaron 20 que no\ncompleta para el comité no entregaron más fichas, x eso deber estar bien\nfiltradas\".",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nX favor comuníquense con el dr zuares de Chachapoyas y luego llame a la sra Martha x favor, es urgente\". 11) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2075, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Quería saber sobre la\ncaja chica de la provincia, falta pagar agua luz comprar papel y tinta de\nimpresora como van a solucionar ese tema doctor ayer estuve x ahí\". 12) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2076, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Buenas noches doctor,\nque pasa con Moyobamba y rioja, no cumplen la meta. Si tomanguillo no quiere\ntrabajar busquemos trabajar con los distritos que sean sumarse al trabajo político,\nasí como lo estamos haciendo en lamas\". 13) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2077, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Doctor buenas días, las\nfichas de Elvis tiene muchos errores estoy devolviendo solo quedaron 20 que no\ncompleta para el comité no entregaron más fichas, x eso deber estar bien\nfiltradas\".",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1315,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "15 de febrero del\n2024",
+        "15 de febrero del\n2024",
+        "15 de febrero del\n2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0007",
+      "texto": "devolviendo solo quedaron 20 que no completa para el comité no entregaron más fichas, x eso deber estar bien filtradas\". 14) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2079, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Acabo de salir de casa\ndel dr Nicanor y le dije que Tarapoto, no le contesta Ortiz, debe prevalecer\nnuestra propuesta\". 15) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2080, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Dr ayer me pidieron la\nlista de subprefectos que aún no son designados, desde arriba para ver qué pasa\". 16) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2084, una imagen de conversación de\nWhatsApp con el usuario \"Esposo Pro...\", quien menciona \"Es que venimos\nentrando desde Bellavista, juanjui, Tocache, Pucallpa y algunos anexos, me\nparece que estamos cumpliendo con la encargatura y la confianza que nos dieron\nlos jefes, más que todo ver sobe las fichas y firmas para nuestra afiliación de\nnuestro nuevo partido político en el JNE\".",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\ndevolviendo solo quedaron 20 que no completa para el comité no entregaron más fichas, x eso deber estar bien filtradas\". 14) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2079, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Acabo de salir de casa\ndel dr Nicanor y le dije que Tarapoto, no le contesta Ortiz, debe prevalecer\nnuestra propuesta\". 15) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2080, una imagen de conversación de\nWhatsApp con el usuario \"Profesora\", quien menciona \"Dr ayer me pidieron la\nlista de subprefectos que aún no son designados, desde arriba para ver qué pasa\". 16) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2084, una imagen de conversación de\nWhatsApp con el usuario \"Esposo Pro...\", quien menciona \"Es que venimos\nentrando desde Bellavista, juanjui, Tocache, Pucallpa y algunos anexos, me\nparece que estamos cumpliendo con la encargatura y la confianza que nos dieron\nlos jefes, más que todo ver sobe las fichas y firmas para nuestra afiliación de\nnuestro nuevo partido político en el JNE\".",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1277,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "15 de febrero del\n2024",
+        "15 de febrero del\n2024",
+        "15 de febrero del\n2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0008",
+      "texto": "más que todo ver sobe las fichas y firmas para nuestra afiliación de nuestro nuevo partido político en el JNE\". 17) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2085, una imagen de conversación de\nWhatsApp con el usuario \"Esposo Pro...\", quien menciona \"Acá Dr. Todo\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\ntranquilo. Esperando que de una vez ya salga las resoluciones de los demás\nsubprefectos que faltan\". 18) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2086, una imagen de conversación de\nWhatsApp con el usuario \"Esposo Pro...\", quien menciona \"Nosotros acá en\nIquitos a full. Viendo la situación de subprefectos acá en la jurisdicción de\nLoreto\". 19) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2087, una imagen de voucher del Banco de la\nNación donde Manuela Rengifo Hidalgo deposita a la cuenta 04-541-352932\nperteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de cincuenta\nsoles (S/. 50.00) de fecha 31 de agosto del 2023.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nmás que todo ver sobe las fichas y firmas para nuestra afiliación de nuestro nuevo partido político en el JNE\". 17) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2085, una imagen de conversación de\nWhatsApp con el usuario \"Esposo Pro...\", quien menciona \"Acá Dr. Todo\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\ntranquilo. Esperando que de una vez ya salga las resoluciones de los demás\nsubprefectos que faltan\". 18) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2086, una imagen de conversación de\nWhatsApp con el usuario \"Esposo Pro...\", quien menciona \"Nosotros acá en\nIquitos a full. Viendo la situación de subprefectos acá en la jurisdicción de\nLoreto\". 19) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2087, una imagen de voucher del Banco de la\nNación donde Manuela Rengifo Hidalgo deposita a la cuenta 04-541-352932\nperteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de cincuenta\nsoles (S/. 50.00) de fecha 31 de agosto del 2023.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1281,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "15 de febrero del\n2024",
+        "15 de febrero del\n2024",
+        "15 de febrero del\n2024",
+        "31 de agosto del 2023"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0009",
+      "texto": "perteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de cincuenta soles (S/. 50.00) de fecha 31 de agosto del 2023. 20) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2088, una imagen de voucher del Banco de la\nNación donde Yessica HERNANDEZ DIAZ deposita a la cuenta 04-541-352932\nperteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de doscientos\nsoles (S/. 200.00) de fecha 26 de agosto del 2023. 21) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2089, una imagen de voucher del Banco de la\nNación donde Janeth FERNANDEZ SANTA CRUZ deposita a la cuenta 04-541-\n352932 perteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de\ndoscientos cincuenta soles (S/. 250.00) de fecha 16 de diciembre del 2022. 22) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2090, una imagen de voucher del Banco de la\nNación donde Armando VILLALOBOS LEYVA deposita a la cuenta 04-541-\n352932 perteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de\nquinientos soles (S/. 500.00) de fecha 15 de enero del 2023.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nperteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de cincuenta soles (S/. 50.00) de fecha 31 de agosto del 2023. 20) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2088, una imagen de voucher del Banco de la\nNación donde Yessica HERNANDEZ DIAZ deposita a la cuenta 04-541-352932\nperteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de doscientos\nsoles (S/. 200.00) de fecha 26 de agosto del 2023. 21) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2089, una imagen de voucher del Banco de la\nNación donde Janeth FERNANDEZ SANTA CRUZ deposita a la cuenta 04-541-\n352932 perteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de\ndoscientos cincuenta soles (S/. 250.00) de fecha 16 de diciembre del 2022. 22) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2090, una imagen de voucher del Banco de la\nNación donde Armando VILLALOBOS LEYVA deposita a la cuenta 04-541-\n352932 perteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de\nquinientos soles (S/. 500.00) de fecha 15 de enero del 2023.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1220,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "31 de agosto del 2023",
+        "15 de febrero del\n2024",
+        "26 de agosto del 2023",
+        "15 de febrero del\n2024",
+        "16 de diciembre del 2022",
+        "15 de febrero del\n2024",
+        "15 de enero del 2023"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0010",
+      "texto": "perteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de quinientos soles (S/. 500.00) de fecha 15 de enero del 2023. 23) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2091, una imagen de voucher del Banco de la\nNación donde Armando VILLALOBOS LEYVA deposita a la cuenta 04-541-\n352932 perteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de\nquinientos soles (S/. 500.00) de fecha 04 de febrero del 2023. 24) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2092, una imagen de voucher del Banco de la\nNación donde Judith Gladis IDROGO GUERRA deposita a la cuenta 04-541-\n352932 perteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de\ntrescientos soles (S/. 300.00) de fecha 02 de setiembre del 2023. 25) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2094, una imagen de una hoja bond que\nEscaneado con CamScanner\nContra la Corrupción\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nadjunta dos voucher del Banco de la Nación por montos de cientos cincuenta\nsoles (S/. 150.00) cada una depositado a Luis Alberto GUEVARA BELLO, y un\nescrito a mano \"Maestra buenos días te estoy enviando el aporte de la provincia\nde Moyobamba\".",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Luis Alberto Guevara Bello]\nperteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de quinientos soles (S/. 500.00) de fecha 15 de enero del 2023. 23) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2091, una imagen de voucher del Banco de la\nNación donde Armando VILLALOBOS LEYVA deposita a la cuenta 04-541-\n352932 perteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de\nquinientos soles (S/. 500.00) de fecha 04 de febrero del 2023. 24) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2092, una imagen de voucher del Banco de la\nNación donde Judith Gladis IDROGO GUERRA deposita a la cuenta 04-541-\n352932 perteneciente a Zenovia Griselda HERRERA VASQUEZ la suma de\ntrescientos soles (S/. 300.00) de fecha 02 de setiembre del 2023. 25) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2094, una imagen de una hoja bond que\nEscaneado con CamScanner\nContra la Corrupción\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nadjunta dos voucher del Banco de la Nación por montos de cientos cincuenta\nsoles (S/. 150.00) cada una depositado a Luis Alberto GUEVARA BELLO, y un\nescrito a mano \"Maestra buenos días te estoy enviando el aporte de la provincia\nde Moyobamba\".",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1442,
+      "personas_mencionadas": [
+        "Luis Alberto Guevara Bello"
+      ],
+      "fechas_mencionadas": [
+        "15 de enero del 2023",
+        "15 de febrero del\n2024",
+        "04 de febrero del 2023",
+        "15 de febrero del\n2024",
+        "15 de febrero del\n2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0011",
+      "texto": "GUEVARA BELLO, y un escrito a mano \"Maestra buenos días te estoy enviando el aporte de la provincia de Moyobamba\". 26) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2100, una imagen de conversación de\nWhatsApp con el usuario \"Secre. Subprefe...\", quien menciona \"Sra. LADIS\nbuen día, no se olvide su aporte mensual para mi persona por favor\". 27) Copia certificada de la Declaración testimonial de Armando VILLALOBOS\nLEYVA de fecha 16 de febrero 2024\n28) Copia certificada de declaración testimonial de Mac Millan SANCHEZ\nBABILONIA de fecha 19 de febrero 2024, quien en su respuesta a la pregunta Nº\n5, refiere que Zenovia Griselda HERRERA VASQUEZ, como subprefecto\ncontrató a estudiantes para que llenen la ficha de afiliación del partido político\n\"Ciudadanos por el Perú\". 29) Copia certificada de declaración testimonial de Yuri Loana PEREZ DEL AGUILA\nde fecha 13 de marzo 2024. 30) Copia certificada de declaración testimonial de Diego Moisés SAAVEDRA\nUSHIÑAHUA de fecha 26 de enero 2024. Segundo: Estando a lo señalado, los mismos que guardan relación con las\ninvestigaciones, asimismo el oficio N° 02-2024-EFICCOP-E3-MP-FN del 26 de abril del\n2024, donde remite la disposición reservada sobre traslado de documentos de \"Agente\nencubierto \"Rene\", agregase a la presente carpeta fiscal con la reserva del caso. II.- ESTRUCTURA DE LA PRESUNTA ORGANIZACIÓN CRIMINAL E\nINDIVIDUALIZACIÓN DE LOS INVESTIGADOS:\n2.1.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Luis Alberto Guevara Bello]\nGUEVARA BELLO, y un escrito a mano \"Maestra buenos días te estoy enviando el aporte de la provincia de Moyobamba\". 26) Copia certificada del acta fiscal de visualización de USB, del 15 de febrero del\n2024, en la que se advierte, a folios 2100, una imagen de conversación de\nWhatsApp con el usuario \"Secre. Subprefe...\", quien menciona \"Sra. LADIS\nbuen día, no se olvide su aporte mensual para mi persona por favor\". 27) Copia certificada de la Declaración testimonial de Armando VILLALOBOS\nLEYVA de fecha 16 de febrero 2024\n28) Copia certificada de declaración testimonial de Mac Millan SANCHEZ\nBABILONIA de fecha 19 de febrero 2024, quien en su respuesta a la pregunta Nº\n5, refiere que Zenovia Griselda HERRERA VASQUEZ, como subprefecto\ncontrató a estudiantes para que llenen la ficha de afiliación del partido político\n\"Ciudadanos por el Perú\". 29) Copia certificada de declaración testimonial de Yuri Loana PEREZ DEL AGUILA\nde fecha 13 de marzo 2024. 30) Copia certificada de declaración testimonial de Diego Moisés SAAVEDRA\nUSHIÑAHUA de fecha 26 de enero 2024. Segundo: Estando a lo señalado, los mismos que guardan relación con las\ninvestigaciones, asimismo el oficio N° 02-2024-EFICCOP-E3-MP-FN del 26 de abril del\n2024, donde remite la disposición reservada sobre traslado de documentos de \"Agente\nencubierto \"Rene\", agregase a la presente carpeta fiscal con la reserva del caso. II.- ESTRUCTURA DE LA PRESUNTA ORGANIZACIÓN CRIMINAL E\nINDIVIDUALIZACIÓN DE LOS INVESTIGADOS:\n2.1.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1486,
+      "personas_mencionadas": [
+        "Luis Alberto Guevara Bello"
+      ],
+      "fechas_mencionadas": [
+        "15 de febrero del\n2024",
+        "16 de febrero",
+        "19 de febrero",
+        "13 de marzo",
+        "26 de enero",
+        "26 de abril del\n2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0012",
+      "texto": "carpeta fiscal con la reserva del caso. II.- ESTRUCTURA DE LA PRESUNTA ORGANIZACIÓN CRIMINAL E INDIVIDUALIZACIÓN DE LOS INVESTIGADOS: 2.1. Es necesario determinar si lo hechos que son materia de investigación, sobre la\nexistencia de una presunta organización criminal, cumplen con lo que establece el\nartículo 5° de la Convención de Palermo, esto es, si concurren los cinco presupuestos:\nestructural, plural, modal, teleológico y temporal; lo cual guarda coherencia con lo\ndescrito en el Acuerdo Plenario N° 01-2017-SPN, donde en su fundamento 17, se\nestablece que los elementos de una presunta organización criminal son: \"(...) 1. Elemento\npersonal: Esto es que la presunta organización criminal este integrada por tres o más personas; 2. Elemento temporal: El carácter estable o permanente de la presunta organización criminal; 3. Elemento teleológico: corresponde al desarrollo futuro de un programa criminal; 4. Elemento\nfuncional: La de asignación o reparto de roles de los integrantes de la presunta organización\nEscaneado con CamScanner\ndersen......... \"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\ncriminal; y 5. Elemento estructural: como elemento normativo que engarza y articula todos los\ncomponentes (...)\". 2.2.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\ncarpeta fiscal con la reserva del caso. II.- ESTRUCTURA DE LA PRESUNTA ORGANIZACIÓN CRIMINAL E INDIVIDUALIZACIÓN DE LOS INVESTIGADOS: 2.1. Es necesario determinar si lo hechos que son materia de investigación, sobre la\nexistencia de una presunta organización criminal, cumplen con lo que establece el\nartículo 5° de la Convención de Palermo, esto es, si concurren los cinco presupuestos:\nestructural, plural, modal, teleológico y temporal; lo cual guarda coherencia con lo\ndescrito en el Acuerdo Plenario N° 01-2017-SPN, donde en su fundamento 17, se\nestablece que los elementos de una presunta organización criminal son: \"(...) 1. Elemento\npersonal: Esto es que la presunta organización criminal este integrada por tres o más personas; 2. Elemento temporal: El carácter estable o permanente de la presunta organización criminal; 3. Elemento teleológico: corresponde al desarrollo futuro de un programa criminal; 4. Elemento\nfuncional: La de asignación o reparto de roles de los integrantes de la presunta organización\nEscaneado con CamScanner\ndersen......... \"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\ncriminal; y 5. Elemento estructural: como elemento normativo que engarza y articula todos los\ncomponentes (...)\". 2.2.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1315,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0013",
+      "texto": "Junín y Ayacucho\" criminal; y 5. Elemento estructural: como elemento normativo que engarza y articula todos los componentes (...)\". 2.2. De los actos de investigación y diligencias realizadas, se advierte la existencia de\nuna presunta organización criminal dedicada a la comisión de diferentes modalidades\ndelictivas referentes a la comisión de delitos contra la Administración Pública, teniendo\ncampo de acción la ciudad de Lima con alcance a nivel nacional; asimismo, en el\nartículo 317 del Código Penal, incorporado con el D.L. N° 1244-2016, se regula los\npresupuestos indispensables para afirmar la existencia de una organización criminal,\nconforme al siguiente detalle:\nA.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nJunín y Ayacucho\" criminal; y 5. Elemento estructural: como elemento normativo que engarza y articula todos los componentes (...)\". 2.2. De los actos de investigación y diligencias realizadas, se advierte la existencia de\nuna presunta organización criminal dedicada a la comisión de diferentes modalidades\ndelictivas referentes a la comisión de delitos contra la Administración Pública, teniendo\ncampo de acción la ciudad de Lima con alcance a nivel nacional; asimismo, en el\nartículo 317 del Código Penal, incorporado con el D.L. N° 1244-2016, se regula los\npresupuestos indispensables para afirmar la existencia de una organización criminal,\nconforme al siguiente detalle:\nA.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 677,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0014",
+      "texto": "N° 1244-2016, se regula los presupuestos indispensables para afirmar la existencia de una organización criminal, conforme al siguiente detalle: A. ELEMENTO PERSONAL:\nEn el presente caso, se dispone continuar con la investigación por una presunta\norganización criminal que estaría integrada por más de tres personas, que actúan de\nforma concertada, cada uno cumpliendo roles y funciones establecidos conforme al\nprograma criminal, muchos de ellos con procesos de investigación en curso, que a la\npostre, y bajo una debida orientación de una nueva modalidad delictiva que representa\nel delito de organización criminal, estos planifican, más de un hecho delictivo, los que se\nvienen siendo investigados en esta etapa procesal en contra de Wigberto Nicanor\nBoluarte Zegarra, José Luis Ortiz Marreros, Mateo Grimaldo Castañeda Segovia, Víctor\nHugo Torres Merino, Edwin Ugarte Nina, Zenobia Griselda Herrera Vásquez, Jorge\nChingay Salazar, Noriel Chingay Salazar, entre otros más, estarían integrando esta\npresunta organización criminal dedicada a designaciones de autoridades políticas a\nnivel nacional, entre otras designaciones en las entidades del Estado.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Jorge Luis Ortiz Marreros, Zenovia Griselda Herrera Vásquez]\nN° 1244-2016, se regula los presupuestos indispensables para afirmar la existencia de una organización criminal, conforme al siguiente detalle: A. ELEMENTO PERSONAL:\nEn el presente caso, se dispone continuar con la investigación por una presunta\norganización criminal que estaría integrada por más de tres personas, que actúan de\nforma concertada, cada uno cumpliendo roles y funciones establecidos conforme al\nprograma criminal, muchos de ellos con procesos de investigación en curso, que a la\npostre, y bajo una debida orientación de una nueva modalidad delictiva que representa\nel delito de organización criminal, estos planifican, más de un hecho delictivo, los que se\nvienen siendo investigados en esta etapa procesal en contra de Wigberto Nicanor\nBoluarte Zegarra, José Luis Ortiz Marreros, Mateo Grimaldo Castañeda Segovia, Víctor\nHugo Torres Merino, Edwin Ugarte Nina, Zenobia Griselda Herrera Vásquez, Jorge\nChingay Salazar, Noriel Chingay Salazar, entre otros más, estarían integrando esta\npresunta organización criminal dedicada a designaciones de autoridades políticas a\nnivel nacional, entre otras designaciones en las entidades del Estado.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1153,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Jorge Luis Ortiz Marreros",
+        "Zenovia Griselda Herrera Vásquez",
+        "Noriel Chingay Salazar",
+        "Mateo Grimaldo Castañeda Segovia",
+        "Víctor Hugo Torres Merino",
+        "Jorge Chingay Salazar",
+        "Edwin Ugarte Nina"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0015",
+      "texto": "presunta organización criminal dedicada a designaciones de autoridades políticas a nivel nacional, entre otras designaciones en las entidades del Estado. ELEMENTO TEMPORAL\nPor el carácter estable y de permanencia en el tiempo de esta presunta organización\ncriminal, que data después del 07 de diciembre del 2022, se habrían perpetrados en\nde facto otorgado por su hermana Dina Ercilla Boluarte Zegarra actual Presidente de la\nRepública, se habría establecido una temporalidad en sus actividades delictivas, el cual\nrepresenta para los integrantes de su \"modus vivendi\", conforme a los hechos registrados,\nprincipalmente de los que se ha corroborado desde el inicio de la presente investigación\ny se expone durante el desarrollo del mismo.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra]\npresunta organización criminal dedicada a designaciones de autoridades políticas a nivel nacional, entre otras designaciones en las entidades del Estado. ELEMENTO TEMPORAL\nPor el carácter estable y de permanencia en el tiempo de esta presunta organización\ncriminal, que data después del 07 de diciembre del 2022, se habrían perpetrados en\nde facto otorgado por su hermana Dina Ercilla Boluarte Zegarra actual Presidente de la\nRepública, se habría establecido una temporalidad en sus actividades delictivas, el cual\nrepresenta para los integrantes de su \"modus vivendi\", conforme a los hechos registrados,\nprincipalmente de los que se ha corroborado desde el inicio de la presente investigación\ny se expone durante el desarrollo del mismo.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 738,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra"
+      ],
+      "fechas_mencionadas": [
+        "07 de diciembre del 2022"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0016",
+      "texto": "los que se ha corroborado desde el inicio de la presente investigación y se expone durante el desarrollo del mismo. Escaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nLa presunta organización criminal, tienen como gesta de su programa criminal después\ndel 07 de diciembre del 2022, fecha en la cual Dina Ercilla Boluarte Zegarra asume la\nPresidencia de la República, y es a partir de ello, su hermano Wigberto Nicanor Boluarte\nZegarra asume la investidura del poder de facto que le otorga Dina Ercilla Boluarte\nZegarra, pues este y con todo su círculo de confianza emprenden un programa criminal\npara copar la Dirección General del Gobierno de Interior del Ministerio del Interior,\nmediante la designación ilícita de prefectos y subprefectos en el departamento de\nTarapoto y San Martin, ello con una contraprestación económica de dadivas económicas,\nquienes deberán estar bajo sujeción de líderes políticos que responden directamente a\nWigberto Nicanor Boluarte Zegarra, lo que una vez al ser descubierto todo este\nprograma de actividades ilícitas e iniciarse investigaciones penales, como las más\nsofisticadas organizaciones criminales, despliegan su aparato legal para poder captar a\nmiembros del EFICCOP y procurar neutralizar la persecución penal a su líder Wigberto\nNicanor Boluarte Zegarra en la investigación de la carpeta abierta N° 11-2023, la misma\nque está en diligencias preliminares desde el 07 de noviembre del 2023, por el plazo de\nocho meses.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra]\nlos que se ha corroborado desde el inicio de la presente investigación y se expone durante el desarrollo del mismo. Escaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nLa presunta organización criminal, tienen como gesta de su programa criminal después\ndel 07 de diciembre del 2022, fecha en la cual Dina Ercilla Boluarte Zegarra asume la\nPresidencia de la República, y es a partir de ello, su hermano Wigberto Nicanor Boluarte\nZegarra asume la investidura del poder de facto que le otorga Dina Ercilla Boluarte\nZegarra, pues este y con todo su círculo de confianza emprenden un programa criminal\npara copar la Dirección General del Gobierno de Interior del Ministerio del Interior,\nmediante la designación ilícita de prefectos y subprefectos en el departamento de\nTarapoto y San Martin, ello con una contraprestación económica de dadivas económicas,\nquienes deberán estar bajo sujeción de líderes políticos que responden directamente a\nWigberto Nicanor Boluarte Zegarra, lo que una vez al ser descubierto todo este\nprograma de actividades ilícitas e iniciarse investigaciones penales, como las más\nsofisticadas organizaciones criminales, despliegan su aparato legal para poder captar a\nmiembros del EFICCOP y procurar neutralizar la persecución penal a su líder Wigberto\nNicanor Boluarte Zegarra en la investigación de la carpeta abierta N° 11-2023, la misma\nque está en diligencias preliminares desde el 07 de noviembre del 2023, por el plazo de\nocho meses.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1569,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra"
+      ],
+      "fechas_mencionadas": [
+        "07 de diciembre del 2022",
+        "07 de noviembre del 2023"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0017",
+      "texto": "la misma que está en diligencias preliminares desde el 07 de noviembre del 2023, por el plazo de ocho meses. Estos hechos delictivos se han perpetrado de forma organizada con roles\ndefinidos uno tras otros, o en algunos otros casos desarrollándose en paralelo, por lo que\nse expone a continuación una línea de tiempo como la organización criminal ha\ndesplegado una serie de hechos criminales como parte de su programa criminal, desde\ndiciembre del año 2022 a la fecha. life... C.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nla misma que está en diligencias preliminares desde el 07 de noviembre del 2023, por el plazo de ocho meses. Estos hechos delictivos se han perpetrado de forma organizada con roles\ndefinidos uno tras otros, o en algunos otros casos desarrollándose en paralelo, por lo que\nse expone a continuación una línea de tiempo como la organización criminal ha\ndesplegado una serie de hechos criminales como parte de su programa criminal, desde\ndiciembre del año 2022 a la fecha. life... C.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 479,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "07 de noviembre del 2023"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0018",
+      "texto": "serie de hechos criminales como parte de su programa criminal, desde diciembre del año 2022 a la fecha. life... C. ELEMENTO TELEOLOGICO\nLa organización criminal presuntamente liderada por Wigberto Nicanor Boluarte\nZegarra, investido del poder de facto otorgado por su hermana la Presidente de la\nRepública Dina Ercilla Boluarte Zegarra habría instrumentalizado el aparato estatal de\nBlas prefecturas, y subprefecturas provinciales y distritales en los departamentos de San\nMartín, Cajamarca y otros por determinar, con la finalidad de hacerse de dadivas\nEeconómicas mediante su influencia ilícita en la designación de estos funcionarios\nSpolíticos representantes del Poder Ejecutivo, y también, obligar a estos a recabar fichas\ngde afiliación para la inscripción del partido político \"Ciudadanos por el Perú\" ante el\nJurado Nacional de Elecciones, contando con un aparato legal como las más sofisticadas\nredes criminales, pues una vez que la presente organización delictiva fue puesto al\ndescubierto por los medios periodísticos el 05 de noviembre del 2023, trajo como\nconsecuencia el inicio de investigaciones contra Wigberto Nicanor Boluarte Zegarra por\nla presunta comisión del delito de tráfico de influencias y otros en el Equipo Especial de\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nLa finalidad de esta organización criminal sería la de copar el poder para obtener\nrecursos económicos y reclutar afiliados para solventar y lograr la constitución del\npartido político \"Ciudadanos por el Perú\", a fin de que sea utilizado como plataforma\npara mantener el poder en el aparato estatal y, con ello, obtener ganancias ilícitas.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra]\nserie de hechos criminales como parte de su programa criminal, desde diciembre del año 2022 a la fecha. life... C. ELEMENTO TELEOLOGICO\nLa organización criminal presuntamente liderada por Wigberto Nicanor Boluarte\nZegarra, investido del poder de facto otorgado por su hermana la Presidente de la\nRepública Dina Ercilla Boluarte Zegarra habría instrumentalizado el aparato estatal de\nBlas prefecturas, y subprefecturas provinciales y distritales en los departamentos de San\nMartín, Cajamarca y otros por determinar, con la finalidad de hacerse de dadivas\nEeconómicas mediante su influencia ilícita en la designación de estos funcionarios\nSpolíticos representantes del Poder Ejecutivo, y también, obligar a estos a recabar fichas\ngde afiliación para la inscripción del partido político \"Ciudadanos por el Perú\" ante el\nJurado Nacional de Elecciones, contando con un aparato legal como las más sofisticadas\nredes criminales, pues una vez que la presente organización delictiva fue puesto al\ndescubierto por los medios periodísticos el 05 de noviembre del 2023, trajo como\nconsecuencia el inicio de investigaciones contra Wigberto Nicanor Boluarte Zegarra por\nla presunta comisión del delito de tráfico de influencias y otros en el Equipo Especial de\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nLa finalidad de esta organización criminal sería la de copar el poder para obtener\nrecursos económicos y reclutar afiliados para solventar y lograr la constitución del\npartido político \"Ciudadanos por el Perú\", a fin de que sea utilizado como plataforma\npara mantener el poder en el aparato estatal y, con ello, obtener ganancias ilícitas.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1748,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra"
+      ],
+      "fechas_mencionadas": [
+        "05 de noviembre del 2023"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0019",
+      "texto": "de que sea utilizado como plataforma para mantener el poder en el aparato estatal y, con ello, obtener ganancias ilícitas. D. ELEMENTO FUNCIONAL\nComo elemento funcional, se interpreta una estructura funcional o conjunto de\nactividades o tareas diferenciadas y ordenadas para lograr los objetivos de la presunta\norganización criminal, por tanto y conforme se ha desarrollado a lo largo del presente\nanálisis y la descripción de los hechos perpetrados por la organización criminal, existe\nuna estructura en la que sustenta su ilícito accionar de esta presunta organización\ncriminal, investigaciones que han logrado determinar que los roles y funciones de esta,\nson flexibles pues puede tener un más de una función dentro de la red criminal; máxime,\ndurante su evolución manifestada en los hechos ya desarrollados.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nde que sea utilizado como plataforma para mantener el poder en el aparato estatal y, con ello, obtener ganancias ilícitas. D. ELEMENTO FUNCIONAL\nComo elemento funcional, se interpreta una estructura funcional o conjunto de\nactividades o tareas diferenciadas y ordenadas para lograr los objetivos de la presunta\norganización criminal, por tanto y conforme se ha desarrollado a lo largo del presente\nanálisis y la descripción de los hechos perpetrados por la organización criminal, existe\nuna estructura en la que sustenta su ilícito accionar de esta presunta organización\ncriminal, investigaciones que han logrado determinar que los roles y funciones de esta,\nson flexibles pues puede tener un más de una función dentro de la red criminal; máxime,\ndurante su evolución manifestada en los hechos ya desarrollados.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 811,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0020",
+      "texto": "un más de una función dentro de la red criminal; máxime, durante su evolución manifestada en los hechos ya desarrollados. Asimismo, se postula\nque las personas materia de investigación habrían cumplido las siguientes funciones:\nContra la Corrupción\ndel Poner\na) Wigberto Nicanor Boluarte Zegarra, identificado con DNI N° 06811022, se le\natribuye la función de presunto LÍDER de la red criminal, puesto que, basado en el\npoder \"de facto\", atribuido por su hermana Dina Ercilia Boluarte Zegarra, luego que\nasumiera la Presidencia de la República el 07 de diciembre del 2022, habría gestado\nsu programa criminal, realizando una cadena de acciones desplegadas para la\nmaterialización de dicho plan delictivo, el cual era copar la Dirección General del\nGobierno del Interior del Ministerio del Interior y la Dirección General de\nAutoridades Políticas de dicho Ministerio, a través de las designaciones ilegales de\nSubprefectos, a cambio de una ventaja o beneficio económico en favor de la\norganización criminal, y para la recolección de firmas para la inscripción ante el\nJurado Nacional de Elecciones del partido político \"Ciudadanos por el Perú\"\nimpulsada por éste, con el propósito de tener una continuidad en el poder,\ninstrumentalizando el aparato estatal.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra]\nun más de una función dentro de la red criminal; máxime, durante su evolución manifestada en los hechos ya desarrollados. Asimismo, se postula\nque las personas materia de investigación habrían cumplido las siguientes funciones:\nContra la Corrupción\ndel Poner\na) Wigberto Nicanor Boluarte Zegarra, identificado con DNI N° 06811022, se le\natribuye la función de presunto LÍDER de la red criminal, puesto que, basado en el\npoder \"de facto\", atribuido por su hermana Dina Ercilia Boluarte Zegarra, luego que\nasumiera la Presidencia de la República el 07 de diciembre del 2022, habría gestado\nsu programa criminal, realizando una cadena de acciones desplegadas para la\nmaterialización de dicho plan delictivo, el cual era copar la Dirección General del\nGobierno del Interior del Ministerio del Interior y la Dirección General de\nAutoridades Políticas de dicho Ministerio, a través de las designaciones ilegales de\nSubprefectos, a cambio de una ventaja o beneficio económico en favor de la\norganización criminal, y para la recolección de firmas para la inscripción ante el\nJurado Nacional de Elecciones del partido político \"Ciudadanos por el Perú\"\nimpulsada por éste, con el propósito de tener una continuidad en el poder,\ninstrumentalizando el aparato estatal.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1256,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra"
+      ],
+      "fechas_mencionadas": [
+        "07 de diciembre del 2022"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0021",
+      "texto": "por el Perú\" impulsada por éste, con el propósito de tener una continuidad en el poder, instrumentalizando el aparato estatal. Para ello, habría coordinado directa e\nindirectamente con los encargados de las regiones Cajamarca y San Martín, Jorge\nChingay Salazar, Noriel Chingay Salazar y Zenovia Griselda Herrera Vásquez, a fin\nque con apoyo de los demás integrantes y operadores de la organización criminal\ncapten a los prefectos y subprefectos a designarse para luego ser sometidos a los\nintereses de la organización criminal; cuyas designaciones eran gestionadas y\nmaterializadas por el \"hombre clave\", José Luis Ortiz Marreros.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Jorge Luis Ortiz Marreros, Zenovia Griselda Herrera Vásquez, Noriel Chingay Salazar]\npor el Perú\" impulsada por éste, con el propósito de tener una continuidad en el poder, instrumentalizando el aparato estatal. Para ello, habría coordinado directa e\nindirectamente con los encargados de las regiones Cajamarca y San Martín, Jorge\nChingay Salazar, Noriel Chingay Salazar y Zenovia Griselda Herrera Vásquez, a fin\nque con apoyo de los demás integrantes y operadores de la organización criminal\ncapten a los prefectos y subprefectos a designarse para luego ser sometidos a los\nintereses de la organización criminal; cuyas designaciones eran gestionadas y\nmaterializadas por el \"hombre clave\", José Luis Ortiz Marreros.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 631,
+      "personas_mencionadas": [
+        "Jorge Luis Ortiz Marreros",
+        "Zenovia Griselda Herrera Vásquez",
+        "Noriel Chingay Salazar",
+        "Jorge Chingay Salazar"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0022",
+      "texto": "los intereses de la organización criminal; cuyas designaciones eran gestionadas y materializadas por el \"hombre clave\", José Luis Ortiz Marreros. Escaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nb) Jorge Luis Ortiz Marreros, identificado con DNI N° 08695978, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues se le atribuye la condición de la condición de integrante de la\npresunta organización criminal, en el programa delictivo gestado por la indicada\nred criminal, respecto a los nombramientos irregulares de subprefectos en el\ndepartamento de Cajamarca y San Martín, para el copamiento y financiamiento de\nla organización criminal, aprovechándose de la condición de funcionario público\ncomo Director General de Gobierno Interior del Ministerio del Interior, donde\nhabría utilizado sus funciones, para designar a los subprefectos a nivel nacional,\ncomo es en este caso, en el departamento de Cajamarca, en razón a las propuestas\npresentadas por Noriel Chingay Salazar, entonces Prefecto Regional de Cajamarca\ne integrante de la red criminal, con quien además, tiene un vínculo de amistad. Asimismo, habría coadyuvado en la consecución de los intereses de la organización\ncriminal, en el presente caso, bajo las condiciones impuestas por el líder de la\nreferida red delictiva, Wigberto Nicanor Boluarte Zegarra.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Jorge Luis Ortiz Marreros, Noriel Chingay Salazar]\nlos intereses de la organización criminal; cuyas designaciones eran gestionadas y materializadas por el \"hombre clave\", José Luis Ortiz Marreros. Escaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nb) Jorge Luis Ortiz Marreros, identificado con DNI N° 08695978, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues se le atribuye la condición de la condición de integrante de la\npresunta organización criminal, en el programa delictivo gestado por la indicada\nred criminal, respecto a los nombramientos irregulares de subprefectos en el\ndepartamento de Cajamarca y San Martín, para el copamiento y financiamiento de\nla organización criminal, aprovechándose de la condición de funcionario público\ncomo Director General de Gobierno Interior del Ministerio del Interior, donde\nhabría utilizado sus funciones, para designar a los subprefectos a nivel nacional,\ncomo es en este caso, en el departamento de Cajamarca, en razón a las propuestas\npresentadas por Noriel Chingay Salazar, entonces Prefecto Regional de Cajamarca\ne integrante de la red criminal, con quien además, tiene un vínculo de amistad. Asimismo, habría coadyuvado en la consecución de los intereses de la organización\ncriminal, en el presente caso, bajo las condiciones impuestas por el líder de la\nreferida red delictiva, Wigberto Nicanor Boluarte Zegarra.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1488,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Jorge Luis Ortiz Marreros",
+        "Noriel Chingay Salazar",
+        "Jorge Chingay Salazar"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0023",
+      "texto": "en el presente caso, bajo las condiciones impuestas por el líder de la referida red delictiva, Wigberto Nicanor Boluarte Zegarra. c) Zenovia Griselda Herrera Vásquez, identificada con DNI N° 01123289, en su\ncondición de integrante de la presunta organización criminal, cumpliría el rol de\npresunta COORDINADORA Y OPERADORA, puesto que no ocupando algún\ncargo público, cumple la función de operadora política de Wigberto Nicanor\nBOLUARTE ZEGARRA, Coordinadora Regional del partido político \"Ciudadanos\npor el Perú\" en la Región San Martín, quien tiene como función la captación de\npersonas para los cargos de subprefectos y prefectos, y utilizarlos para la recolección\nde firmas a través fichas de afiliación para la inscripción del partido político antes\nmencionado en el Jurado Nacional de Elecciones; así también solicitaba montos de\ndinero para supuestos fines relacionados a la Prefectura, ajenos a la misión\nContra la Corrupción\ninstitucional.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Zenovia Griselda Herrera Vásquez]\nen el presente caso, bajo las condiciones impuestas por el líder de la referida red delictiva, Wigberto Nicanor Boluarte Zegarra. c) Zenovia Griselda Herrera Vásquez, identificada con DNI N° 01123289, en su\ncondición de integrante de la presunta organización criminal, cumpliría el rol de\npresunta COORDINADORA Y OPERADORA, puesto que no ocupando algún\ncargo público, cumple la función de operadora política de Wigberto Nicanor\nBOLUARTE ZEGARRA, Coordinadora Regional del partido político \"Ciudadanos\npor el Perú\" en la Región San Martín, quien tiene como función la captación de\npersonas para los cargos de subprefectos y prefectos, y utilizarlos para la recolección\nde firmas a través fichas de afiliación para la inscripción del partido político antes\nmencionado en el Jurado Nacional de Elecciones; así también solicitaba montos de\ndinero para supuestos fines relacionados a la Prefectura, ajenos a la misión\nContra la Corrupción\ninstitucional.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 948,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Zenovia Griselda Herrera Vásquez"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0024",
+      "texto": "también solicitaba montos de dinero para supuestos fines relacionados a la Prefectura, ajenos a la misión Contra la Corrupción institucional. d) Luis Alberto Guevara Bello, identificado con DNI N° 01141693, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, puesto que, en su condición de subprefecto provincial de la provincia\nde San Martín, cumple la función de operador político, encargado de conminar a los\nsubprefectos distritales para que cumplan con lo encomendado por Zenovia\nGriselda HERRERA VASQUEZ, tal como apoyar en llenar las fichas de afiliados a\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nla organización política \"Ciudadanos por el Perú\". Además, el investigado cumplía\nlas órdenes directas emanas por Zenovia Griselda Herrera Vásquez, así como la\nacompañaba a las diversas actividades partidarias y gubernamentales.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Zenovia Griselda Herrera Vásquez, Luis Alberto Guevara Bello]\ntambién solicitaba montos de dinero para supuestos fines relacionados a la Prefectura, ajenos a la misión Contra la Corrupción institucional. d) Luis Alberto Guevara Bello, identificado con DNI N° 01141693, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, puesto que, en su condición de subprefecto provincial de la provincia\nde San Martín, cumple la función de operador político, encargado de conminar a los\nsubprefectos distritales para que cumplan con lo encomendado por Zenovia\nGriselda HERRERA VASQUEZ, tal como apoyar en llenar las fichas de afiliados a\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nla organización política \"Ciudadanos por el Perú\". Además, el investigado cumplía\nlas órdenes directas emanas por Zenovia Griselda Herrera Vásquez, así como la\nacompañaba a las diversas actividades partidarias y gubernamentales.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1008,
+      "personas_mencionadas": [
+        "Zenovia Griselda Herrera Vásquez",
+        "Luis Alberto Guevara Bello"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0025",
+      "texto": "las órdenes directas emanas por Zenovia Griselda Herrera Vásquez, así como la acompañaba a las diversas actividades partidarias y gubernamentales. e) José Leopoldo Lozano Torres, identificado con DNI N° 09618270, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, ex subprefecto provincial de Picota y actual prefecto regional de San\nMartín, cumple la función de operador político, encargado de conminar a los\nsubprefectos distritales que cumplan con lo encomendado por Zenovia Griselda\nHERRERA VASQUEZ, tal como apoyar en llenar las fichas de afiliados a la\norganización política \"Ciudadanos por el Perú\". El referido cumplía las órdenes\ndirectas emanadas por Zenovia Griselda HERRERA VASQUEZ, así como la\nacompañaba a las diversas actividades partidarias y gubernamentales.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Zenovia Griselda Herrera Vásquez, José Leopoldo Lozano Torres]\nlas órdenes directas emanas por Zenovia Griselda Herrera Vásquez, así como la acompañaba a las diversas actividades partidarias y gubernamentales. e) José Leopoldo Lozano Torres, identificado con DNI N° 09618270, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, ex subprefecto provincial de Picota y actual prefecto regional de San\nMartín, cumple la función de operador político, encargado de conminar a los\nsubprefectos distritales que cumplan con lo encomendado por Zenovia Griselda\nHERRERA VASQUEZ, tal como apoyar en llenar las fichas de afiliados a la\norganización política \"Ciudadanos por el Perú\". El referido cumplía las órdenes\ndirectas emanadas por Zenovia Griselda HERRERA VASQUEZ, así como la\nacompañaba a las diversas actividades partidarias y gubernamentales.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 831,
+      "personas_mencionadas": [
+        "Zenovia Griselda Herrera Vásquez",
+        "José Leopoldo Lozano Torres"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0026",
+      "texto": "las órdenes directas emanadas por Zenovia Griselda HERRERA VASQUEZ, así como la acompañaba a las diversas actividades partidarias y gubernamentales. f) Noriel Chingay Salazar, identificado con DNI N° 42011223, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nCOORDINADOR Y OPERADOR, puesto que, aprovechando el cargo de prefecto\nregional de Cajamarca, designado por la mandataria Dina Boluarte Zegarra el 7 de\nfebrero del 2023, habría dirigido a través de Gilmer Flores Fernández, la captación\nde personas de confianza para la designación de subprefectos para el copamiento\nen el campo de acción de Cajamarca, y en contraprestación de dichas designaciones,\nhabría recaudado el dinero ilícito, con el propósito de financiar a la red criminal,\ndirigida presuntamente por Wigberto Nicanor Boluarte Zegarra. Ahora bien, respecto al programa criminal relacionado al hecho de la recolección de\npara la inscripción del partido político \"Ciudadanos por el Perú\", con el\npropósito de tener una continuidad en el poder, instrumentalizando el aparato\nestatal, se aprovechó del cargo de prefecto regional de Cajamarca, coordinando con\nalgunos Subprefectos de Cajamarca, para que, a su vez, estos capten a personas de\nconfianza y apoyen a Wigberto Nicanor Boluarte Zegarra en la creación del partido\npolítico \"Ciudadanos por el Perú\", por medio de recolección firmas y afiliación a\ndicho partido político;",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Noriel Chingay Salazar, Gilmer Raúl Flores Fernández]\nlas órdenes directas emanadas por Zenovia Griselda HERRERA VASQUEZ, así como la acompañaba a las diversas actividades partidarias y gubernamentales. f) Noriel Chingay Salazar, identificado con DNI N° 42011223, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nCOORDINADOR Y OPERADOR, puesto que, aprovechando el cargo de prefecto\nregional de Cajamarca, designado por la mandataria Dina Boluarte Zegarra el 7 de\nfebrero del 2023, habría dirigido a través de Gilmer Flores Fernández, la captación\nde personas de confianza para la designación de subprefectos para el copamiento\nen el campo de acción de Cajamarca, y en contraprestación de dichas designaciones,\nhabría recaudado el dinero ilícito, con el propósito de financiar a la red criminal,\ndirigida presuntamente por Wigberto Nicanor Boluarte Zegarra. Ahora bien, respecto al programa criminal relacionado al hecho de la recolección de\npara la inscripción del partido político \"Ciudadanos por el Perú\", con el\npropósito de tener una continuidad en el poder, instrumentalizando el aparato\nestatal, se aprovechó del cargo de prefecto regional de Cajamarca, coordinando con\nalgunos Subprefectos de Cajamarca, para que, a su vez, estos capten a personas de\nconfianza y apoyen a Wigberto Nicanor Boluarte Zegarra en la creación del partido\npolítico \"Ciudadanos por el Perú\", por medio de recolección firmas y afiliación a\ndicho partido político;",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1440,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Noriel Chingay Salazar",
+        "Gilmer Raúl Flores Fernández",
+        "Jorge Chingay Salazar"
+      ],
+      "fechas_mencionadas": [
+        "7 de\nfebrero del 2023"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0027",
+      "texto": "la creación del partido político \"Ciudadanos por el Perú\", por medio de recolección firmas y afiliación a dicho partido político; para lo cual, realizaban reuniones en inmuebles\npertenecientes a la familia de Noriel Chingay Salazar, en donde éste último, presidía\nlas mismas y obligaba a todos los subprefectos en recibir cien (100) planillas del\nfirmas\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nreferido partido político, contribuyendo de esta manera a los propósitos de la red\ncriminal. g) Mateo Grimaldo Castañeda Segovia, identificado con DNI N° 23822067, en su\ncondición de integrante de la presunta organización criminal, cumpliría el rol de\npresunto OPERADOR-BRAZO LEGAL de la organización política, en tanto habría\ngestionado la neutralización de investigaciones penales seguidas contra Wigberto\nNicanor Boluarte Zegarra, como la investigación de la carpeta fiscal n.° 11-2023 a\nencargado de pactar ilícitamente el apoyo de funcionarios públicos claves en\nposibles investigaciones que puedan seguirse contra Wigberto Nicanor BOLUARTE\nZEGARRA y Dina Ercilia BOLUARTE ZEGARRA, conforme se tiene a la\ninformación brindada con el oficio N° 02-2024-EFICCOP-E3-MP-FN del 26 de abril\ndel 2024, donde remite la disposición reservada sobre traslado de documentos de\n\"Agente encubierto \"Rene\".",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Noriel Chingay Salazar, Mateo Grimaldo Castañeda Segovia]\nla creación del partido político \"Ciudadanos por el Perú\", por medio de recolección firmas y afiliación a dicho partido político; para lo cual, realizaban reuniones en inmuebles\npertenecientes a la familia de Noriel Chingay Salazar, en donde éste último, presidía\nlas mismas y obligaba a todos los subprefectos en recibir cien (100) planillas del\nfirmas\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nreferido partido político, contribuyendo de esta manera a los propósitos de la red\ncriminal. g) Mateo Grimaldo Castañeda Segovia, identificado con DNI N° 23822067, en su\ncondición de integrante de la presunta organización criminal, cumpliría el rol de\npresunto OPERADOR-BRAZO LEGAL de la organización política, en tanto habría\ngestionado la neutralización de investigaciones penales seguidas contra Wigberto\nNicanor Boluarte Zegarra, como la investigación de la carpeta fiscal n.° 11-2023 a\nencargado de pactar ilícitamente el apoyo de funcionarios públicos claves en\nposibles investigaciones que puedan seguirse contra Wigberto Nicanor BOLUARTE\nZEGARRA y Dina Ercilia BOLUARTE ZEGARRA, conforme se tiene a la\ninformación brindada con el oficio N° 02-2024-EFICCOP-E3-MP-FN del 26 de abril\ndel 2024, donde remite la disposición reservada sobre traslado de documentos de\n\"Agente encubierto \"Rene\".",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1411,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Noriel Chingay Salazar",
+        "Mateo Grimaldo Castañeda Segovia",
+        "Jorge Chingay Salazar"
+      ],
+      "fechas_mencionadas": [
+        "26 de abril\ndel 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0028",
+      "texto": "02-2024-EFICCOP-E3-MP-FN del 26 de abril del 2024, donde remite la disposición reservada sobre traslado de documentos de \"Agente encubierto \"Rene\". h) Martin Silvio Carbajal Zegarra, identificado con DNI N° 42416014, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues en su condición de operador político de Wigberto Nicanor\nBoluarte Zegarra, cumplía la función de representación de este último y hace las\nveces de encargado de dar solución cuando se presentaban conflictos entre los\nintegrantes de la organización criminal y sus funciones encomendadas, durante la\ninstrumentalización del aparato estatal para lograr inscribir su partido político\n\"Ciudadanos por el Perú\", ante el Jurado Nacional de Justicia. Lubi Angélica Navarro Bartra, identificado con DNI N° 70160943, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\npresunta OPERADORA, puesto que era la encargada de recabar y administrar el\ndinero entregado por los subprefectos a nivel Regional, como condicionamiento\npara mantenerse en el cargo y no ser cesados. Fue nombrada como secretaria del\nSubprefecto Provincial de San Martín.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Martin Silvio Carbajal Zegarra, Lubi Angélica Navarro Bartra]\n02-2024-EFICCOP-E3-MP-FN del 26 de abril del 2024, donde remite la disposición reservada sobre traslado de documentos de \"Agente encubierto \"Rene\". h) Martin Silvio Carbajal Zegarra, identificado con DNI N° 42416014, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues en su condición de operador político de Wigberto Nicanor\nBoluarte Zegarra, cumplía la función de representación de este último y hace las\nveces de encargado de dar solución cuando se presentaban conflictos entre los\nintegrantes de la organización criminal y sus funciones encomendadas, durante la\ninstrumentalización del aparato estatal para lograr inscribir su partido político\n\"Ciudadanos por el Perú\", ante el Jurado Nacional de Justicia. Lubi Angélica Navarro Bartra, identificado con DNI N° 70160943, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\npresunta OPERADORA, puesto que era la encargada de recabar y administrar el\ndinero entregado por los subprefectos a nivel Regional, como condicionamiento\npara mantenerse en el cargo y no ser cesados. Fue nombrada como secretaria del\nSubprefecto Provincial de San Martín.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1202,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Martin Silvio Carbajal Zegarra",
+        "Lubi Angélica Navarro Bartra"
+      ],
+      "fechas_mencionadas": [
+        "26 de abril del 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0029",
+      "texto": "condicionamiento para mantenerse en el cargo y no ser cesados. Fue nombrada como secretaria del Subprefecto Provincial de San Martín. j) Fernando Navarro Luna, identificado con DNI N° 01131872, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunta\nOPERADORA, puesto que en su condición de pareja sentimental de Zenovia\nGriselda HERRERA VASQUEZ, desempeña la función de operador político de\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nWigberto Nicanor BOLUARTE ZEGARRA en la Región San Martín, encargado de\nordenar que se cumpla con la recolección y emisión de las fichas de afiliación para\nel partido político \"Ciudadanos por el Perú\". Gestionaba ilícitamente las actividades\ngubernamentales relacionados a la Prefectura y Subprefecturas, sin ostentar cargo\npúblico alguno.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Fernando Navarro Luna]\ncondicionamiento para mantenerse en el cargo y no ser cesados. Fue nombrada como secretaria del Subprefecto Provincial de San Martín. j) Fernando Navarro Luna, identificado con DNI N° 01131872, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunta\nOPERADORA, puesto que en su condición de pareja sentimental de Zenovia\nGriselda HERRERA VASQUEZ, desempeña la función de operador político de\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nWigberto Nicanor BOLUARTE ZEGARRA en la Región San Martín, encargado de\nordenar que se cumpla con la recolección y emisión de las fichas de afiliación para\nel partido político \"Ciudadanos por el Perú\". Gestionaba ilícitamente las actividades\ngubernamentales relacionados a la Prefectura y Subprefecturas, sin ostentar cargo\npúblico alguno.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 934,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Fernando Navarro Luna"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0030",
+      "texto": "\"Ciudadanos por el Perú\". Gestionaba ilícitamente las actividades gubernamentales relacionados a la Prefectura y Subprefecturas, sin ostentar cargo público alguno. k) Raúl Antonio Oliva Guerrero, identificado con DNI N° 16608520, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, puesto que Se le atribuye la condición de la condición de integrante\nde la presunta organización criminal, en el programa delictivo gestado por la\nindicada red criminal, respecto al hecho de \"nombramientos ilegales de\nsubprefectos en el departamento de Cajamarca, para el copamiento y financiamiento\nde la organización criminal\", cuyo rol que cumpliría sería el de operador, puesto\nque, aprovechando la condición de funcionario público como Director General de\nGobierno Interior del Ministerio del Interior, habría utilizado sus funciones, para\ndesignar a los subprefectos a nivel nacional, como es en este caso, en el\nDepartamento de Cajamarca, en razón a las propuestas presentadas por Noriel\nChingay Salazar, entonces Prefecto Regional de Cajamarca e integrante de la red\ncriminal, con quien además, tiene un vínculo de amistad. Asimismo, habría\ncoadyuvado en la consecución de los intereses de la organización criminal, en el\npresente caso, bajo las condiciones impuestas por el líder de la referida red delictiva,\nWigberto Nicanor Boluarte Zegarra.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Noriel Chingay Salazar, Raúl Antonio Oliva Guerrero]\n\"Ciudadanos por el Perú\". Gestionaba ilícitamente las actividades gubernamentales relacionados a la Prefectura y Subprefecturas, sin ostentar cargo público alguno. k) Raúl Antonio Oliva Guerrero, identificado con DNI N° 16608520, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, puesto que Se le atribuye la condición de la condición de integrante\nde la presunta organización criminal, en el programa delictivo gestado por la\nindicada red criminal, respecto al hecho de \"nombramientos ilegales de\nsubprefectos en el departamento de Cajamarca, para el copamiento y financiamiento\nde la organización criminal\", cuyo rol que cumpliría sería el de operador, puesto\nque, aprovechando la condición de funcionario público como Director General de\nGobierno Interior del Ministerio del Interior, habría utilizado sus funciones, para\ndesignar a los subprefectos a nivel nacional, como es en este caso, en el\nDepartamento de Cajamarca, en razón a las propuestas presentadas por Noriel\nChingay Salazar, entonces Prefecto Regional de Cajamarca e integrante de la red\ncriminal, con quien además, tiene un vínculo de amistad. Asimismo, habría\ncoadyuvado en la consecución de los intereses de la organización criminal, en el\npresente caso, bajo las condiciones impuestas por el líder de la referida red delictiva,\nWigberto Nicanor Boluarte Zegarra.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1390,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Noriel Chingay Salazar",
+        "Raúl Antonio Oliva Guerrero",
+        "Jorge Chingay Salazar"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0031",
+      "texto": "en el presente caso, bajo las condiciones impuestas por el líder de la referida red delictiva, Wigberto Nicanor Boluarte Zegarra. Nixon Henry Hoyos Gallardo, identificado con DNI N° 47475084, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, puesto que, en la condición de alcalde del distrito de Nanchoc de\nCajamarca, habría participado en la designación de algunos Subprefectos, quienes\nserían personas de su confianza y/o de su entorno, y para ello, habría influenciado\nen el cese de los subprefectos anteriores; sin embargo, habría solicitado a cambio de\ndichas designaciones, montos de dinero, como fue en el caso del ex subprefecto\nHilmer Hernández Torres, quien fue cesado, y por ende, Nixon HOYOS\nGALLARDO, tuvo que devolver el dinero.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Nixon Henry Hoyos Gallardo]\nen el presente caso, bajo las condiciones impuestas por el líder de la referida red delictiva, Wigberto Nicanor Boluarte Zegarra. Nixon Henry Hoyos Gallardo, identificado con DNI N° 47475084, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, puesto que, en la condición de alcalde del distrito de Nanchoc de\nCajamarca, habría participado en la designación de algunos Subprefectos, quienes\nserían personas de su confianza y/o de su entorno, y para ello, habría influenciado\nen el cese de los subprefectos anteriores; sin embargo, habría solicitado a cambio de\ndichas designaciones, montos de dinero, como fue en el caso del ex subprefecto\nHilmer Hernández Torres, quien fue cesado, y por ende, Nixon HOYOS\nGALLARDO, tuvo que devolver el dinero.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 800,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Nixon Henry Hoyos Gallardo"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0032",
+      "texto": "del ex subprefecto Hilmer Hernández Torres, quien fue cesado, y por ende, Nixon HOYOS GALLARDO, tuvo que devolver el dinero. Escaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nm) Verónica Raquel Solórzano Quispe, identificada con DNI N° 42250174, en su\ncondición de integrante de la presunta organización criminal, cumpliría el rol de\npresunto OPERADOR, puesto que dicha persona habría sido secretaria del ex\nprefecto Noriel CHINGAY SALAZAR quien en ese entonces cumplía el rol de\noperador principal de la presunta organización criminal en la jurisdicción de la\nregión de Cajamarca, y es quien tramitaba vía correo institucional a la Dirección\nGeneral de Autoridades Políticas del MININTER, los nombres de las diferentes\npersonas que habrían pagado para que sean propuestos y designados\nirregularmente como subprefectos provinciales y distritales de la región Cajamarca,\ny luego sean elevadas a la Dirección General de Gobierno Interior del MININTER,\npara que sean designadas. n) Gilmer Raúl Flores Fernández, identificado con DNI N° 27987393, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues valiéndose de su cargo como subprefecto de Cajamarca y sus\ncercanías con el prefecto Noriel CHINGAY SALAZAR.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Noriel Chingay Salazar, Nixon Henry Hoyos Gallardo, Verónica Raquel Solórzano Quispe]\ndel ex subprefecto Hilmer Hernández Torres, quien fue cesado, y por ende, Nixon HOYOS GALLARDO, tuvo que devolver el dinero. Escaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nm) Verónica Raquel Solórzano Quispe, identificada con DNI N° 42250174, en su\ncondición de integrante de la presunta organización criminal, cumpliría el rol de\npresunto OPERADOR, puesto que dicha persona habría sido secretaria del ex\nprefecto Noriel CHINGAY SALAZAR quien en ese entonces cumplía el rol de\noperador principal de la presunta organización criminal en la jurisdicción de la\nregión de Cajamarca, y es quien tramitaba vía correo institucional a la Dirección\nGeneral de Autoridades Políticas del MININTER, los nombres de las diferentes\npersonas que habrían pagado para que sean propuestos y designados\nirregularmente como subprefectos provinciales y distritales de la región Cajamarca,\ny luego sean elevadas a la Dirección General de Gobierno Interior del MININTER,\npara que sean designadas. n) Gilmer Raúl Flores Fernández, identificado con DNI N° 27987393, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues valiéndose de su cargo como subprefecto de Cajamarca y sus\ncercanías con el prefecto Noriel CHINGAY SALAZAR.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1375,
+      "personas_mencionadas": [
+        "Noriel Chingay Salazar",
+        "Nixon Henry Hoyos Gallardo",
+        "Verónica Raquel Solórzano Quispe",
+        "Gilmer Raúl Flores Fernández",
+        "Jorge Chingay Salazar"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0033",
+      "texto": "presunto OPERADOR, pues valiéndose de su cargo como subprefecto de Cajamarca y sus cercanías con el prefecto Noriel CHINGAY SALAZAR. El mismo que, en\ncomplicidad de Fidel BECERRA VILLALOBOS, Ulises MOSTACERO LEON, Jhon\nFRANCIS ZAMBRANO, Cesar Eladio PAICO SANCHEZ y otros en proceso de\nidentificación, captaban personas que ocupen cargos de subprefecto distrital y\nprovincial en Cajamarca, a cambio de la entrega de un monto de dinero, por ocupar\ndichos cargos de subprefectos. Haciendo hincapié que el dinero era entregado\ndirectamente a la persona Noriel CHINGAY SALAZAR, quien en ese entonces\ncumplía el rol de controlar el campo de acción de Cajamarca, como parte de la\norganización criminal. Fidel Becerra Villalobos, identificado con DNI N° 28124400, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues valiéndose del cargo del Subprefecto Gilmer Raúl FLORES\nFERNANDEZ, con quien tendría un vínculo familiaridad (primo), habría cobrado\na Marbin Natan GOMEZ JULCA, con DNI N°48572699, S/.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Noriel Chingay Salazar, Fidel Becerra Villalobos, Jorge Chingay Salazar]\npresunto OPERADOR, pues valiéndose de su cargo como subprefecto de Cajamarca y sus cercanías con el prefecto Noriel CHINGAY SALAZAR. El mismo que, en\ncomplicidad de Fidel BECERRA VILLALOBOS, Ulises MOSTACERO LEON, Jhon\nFRANCIS ZAMBRANO, Cesar Eladio PAICO SANCHEZ y otros en proceso de\nidentificación, captaban personas que ocupen cargos de subprefecto distrital y\nprovincial en Cajamarca, a cambio de la entrega de un monto de dinero, por ocupar\ndichos cargos de subprefectos. Haciendo hincapié que el dinero era entregado\ndirectamente a la persona Noriel CHINGAY SALAZAR, quien en ese entonces\ncumplía el rol de controlar el campo de acción de Cajamarca, como parte de la\norganización criminal. Fidel Becerra Villalobos, identificado con DNI N° 28124400, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues valiéndose del cargo del Subprefecto Gilmer Raúl FLORES\nFERNANDEZ, con quien tendría un vínculo familiaridad (primo), habría cobrado\na Marbin Natan GOMEZ JULCA, con DNI N°48572699, S/.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1053,
+      "personas_mencionadas": [
+        "Noriel Chingay Salazar",
+        "Fidel Becerra Villalobos",
+        "Jorge Chingay Salazar"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0034",
+      "texto": "FLORES FERNANDEZ, con quien tendría un vínculo familiaridad (primo), habría cobrado a Marbin Natan GOMEZ JULCA, con DNI N°48572699, S/. 3,500.00 soles para ser\npropuesto para que sea designado como como Subperfecto del distrito de El Prado,\na Gabi Marcelita FLORES FLORES con DNI Nº43880277, el monto de S/.5,000.00\nsoles para ser propuesta para que sea designado como subprefecta del distrito de\nSauce Pampa, provincia de Santa Cruz, a Lelis SANCHEZ BARBOZA con DNI\nJeux\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nN°44397076, el monto de S/. 5,000.00 soles para ser propuesta para que sea\ndesignado como subprefecto del distrito de Catache, provincia de Santa Cruz, a\nArnulfo TORRES COTRINA con DNI N° 45698929, el monto de S/. 5,000.00 soles\npara ser propuesta para que sea designado como subprefecto del Andabamba,\nprovincia de Santa Cruz, departamento de Cajamarca, entre otros en proceso de\nidentificación; Al respecto se precisa que el dinero recaudado por Fidel Francisco\nBECERRA VILLALOBOS fue entregado a Gilmer Raúl FLORES FERNANDEZ, para\nque luego dicho dinero sea entregado a Noriel CHINGAY SALAZAR, quien en ese\nentonces cumplía el rol operador principal de la presunta Organización Criminal en\nel campo de acción de Cajamarca.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Noriel Chingay Salazar, Fidel Becerra Villalobos, Jorge Chingay Salazar]\nFLORES FERNANDEZ, con quien tendría un vínculo familiaridad (primo), habría cobrado a Marbin Natan GOMEZ JULCA, con DNI N°48572699, S/. 3,500.00 soles para ser\npropuesto para que sea designado como como Subperfecto del distrito de El Prado,\na Gabi Marcelita FLORES FLORES con DNI Nº43880277, el monto de S/.5,000.00\nsoles para ser propuesta para que sea designado como subprefecta del distrito de\nSauce Pampa, provincia de Santa Cruz, a Lelis SANCHEZ BARBOZA con DNI\nJeux\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nN°44397076, el monto de S/. 5,000.00 soles para ser propuesta para que sea\ndesignado como subprefecto del distrito de Catache, provincia de Santa Cruz, a\nArnulfo TORRES COTRINA con DNI N° 45698929, el monto de S/. 5,000.00 soles\npara ser propuesta para que sea designado como subprefecto del Andabamba,\nprovincia de Santa Cruz, departamento de Cajamarca, entre otros en proceso de\nidentificación; Al respecto se precisa que el dinero recaudado por Fidel Francisco\nBECERRA VILLALOBOS fue entregado a Gilmer Raúl FLORES FERNANDEZ, para\nque luego dicho dinero sea entregado a Noriel CHINGAY SALAZAR, quien en ese\nentonces cumplía el rol operador principal de la presunta Organización Criminal en\nel campo de acción de Cajamarca.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1359,
+      "personas_mencionadas": [
+        "Noriel Chingay Salazar",
+        "Fidel Becerra Villalobos",
+        "Jorge Chingay Salazar"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0035",
+      "texto": "en ese entonces cumplía el rol operador principal de la presunta Organización Criminal en el campo de acción de Cajamarca. p) César Eladio Paico Sánchez, identificado con DNI N° 45215402, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues valiéndose del cargo del Subprefecto Gilmer Raúl FLORES\nFERNANDEZ, con quien tendría un vínculo amical, habría cobrado a Keduin\nJhonatan RAFAEL AZAÑERO, con DNI N°71763706, S/. 4,000.00 soles para ser\npropuesto para que sea designado como subprefecto del distrito de Magdalena,\nprovincia de Cajamarca, departamento de Cajamarca, entre otros en proceso de\nidentificación. Al respecto, se precisa que el dinero recaudado por Cesar Eladio\nPAICO SANCHEZ fue entregado a Gilmer Raúl FLORES FERNANDEZ, para que\nluego dicho dinero sea entregado a Noriel CHINGAY SALAZAR, quien en ese\nentonces cumplía el rol operador principal de la presunta Organización Criminal en\nel campo de acción de Cajamarca. Ilver Ulises Mostacero León, identificado con DNI N° 27143243, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, puesto que valiéndose del cargo del subprefecto Gilmer Raúl\nFLORES FERNANDEZ, con quien tendría un vínculo amical, habría cobrado a\nNilton Antonio DIAZ JAVE, con DNI N° 27163004, S/.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Noriel Chingay Salazar, César Eladio Paico Sánchez, Ilver Ulises Mostacero León]\nen ese entonces cumplía el rol operador principal de la presunta Organización Criminal en el campo de acción de Cajamarca. p) César Eladio Paico Sánchez, identificado con DNI N° 45215402, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues valiéndose del cargo del Subprefecto Gilmer Raúl FLORES\nFERNANDEZ, con quien tendría un vínculo amical, habría cobrado a Keduin\nJhonatan RAFAEL AZAÑERO, con DNI N°71763706, S/. 4,000.00 soles para ser\npropuesto para que sea designado como subprefecto del distrito de Magdalena,\nprovincia de Cajamarca, departamento de Cajamarca, entre otros en proceso de\nidentificación. Al respecto, se precisa que el dinero recaudado por Cesar Eladio\nPAICO SANCHEZ fue entregado a Gilmer Raúl FLORES FERNANDEZ, para que\nluego dicho dinero sea entregado a Noriel CHINGAY SALAZAR, quien en ese\nentonces cumplía el rol operador principal de la presunta Organización Criminal en\nel campo de acción de Cajamarca. Ilver Ulises Mostacero León, identificado con DNI N° 27143243, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, puesto que valiéndose del cargo del subprefecto Gilmer Raúl\nFLORES FERNANDEZ, con quien tendría un vínculo amical, habría cobrado a\nNilton Antonio DIAZ JAVE, con DNI N° 27163004, S/.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1345,
+      "personas_mencionadas": [
+        "Noriel Chingay Salazar",
+        "César Eladio Paico Sánchez",
+        "Ilver Ulises Mostacero León",
+        "Jorge Chingay Salazar"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0036",
+      "texto": "FLORES FERNANDEZ, con quien tendría un vínculo amical, habría cobrado a Nilton Antonio DIAZ JAVE, con DNI N° 27163004, S/. 4,000.00 soles para ser\npropuesto para que sea designado como subprefecto del distrito de Magdalena,\nprovincia de Cajamarca, departamento de Cajamarca, entre otros en proceso de\nidentificación; Al respecto se precisa que el dinero recaudado por Ilver Ulises\nMOSTACERO LEÓN era entregado a Gilmer Raúl FLORES FERNANDEZ, para que\nluego dicho dinero sea entregado a Noriel CHINGAY SALAZAR, quien en ese\nentonces cumplía el rol operador principal de la presunta Organización Criminal en\nel campo de acción de Cajamarca. Escaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nr) Franshesco Noriel Chingay Parodi, identificado con DNI N° 76634185, en su\ncondición de integrante de la presunta organización criminal, cumpliría el rol de\npresunto OPERADOR, pues, habría facilitado su cuenta bancaria a Gilmer Raúl\nFLORES FERNANDEZ, para que deposite S/. 1000,00 soles, dinero obtenido como\nconsecuencia de haber sido pagado para las designaciones de Subprefectos en la\nregión Cajamarca, gestiones ilícitas desplegadas en la zona por el perfecto de la\nregión Cajamarca de su padre Noriel CHINGAY SALAZAR.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Noriel Chingay Salazar, Ilver Ulises Mostacero León, Franshesco Noriel Chingay Parodi]\nFLORES FERNANDEZ, con quien tendría un vínculo amical, habría cobrado a Nilton Antonio DIAZ JAVE, con DNI N° 27163004, S/. 4,000.00 soles para ser\npropuesto para que sea designado como subprefecto del distrito de Magdalena,\nprovincia de Cajamarca, departamento de Cajamarca, entre otros en proceso de\nidentificación; Al respecto se precisa que el dinero recaudado por Ilver Ulises\nMOSTACERO LEÓN era entregado a Gilmer Raúl FLORES FERNANDEZ, para que\nluego dicho dinero sea entregado a Noriel CHINGAY SALAZAR, quien en ese\nentonces cumplía el rol operador principal de la presunta Organización Criminal en\nel campo de acción de Cajamarca. Escaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nr) Franshesco Noriel Chingay Parodi, identificado con DNI N° 76634185, en su\ncondición de integrante de la presunta organización criminal, cumpliría el rol de\npresunto OPERADOR, pues, habría facilitado su cuenta bancaria a Gilmer Raúl\nFLORES FERNANDEZ, para que deposite S/. 1000,00 soles, dinero obtenido como\nconsecuencia de haber sido pagado para las designaciones de Subprefectos en la\nregión Cajamarca, gestiones ilícitas desplegadas en la zona por el perfecto de la\nregión Cajamarca de su padre Noriel CHINGAY SALAZAR.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1325,
+      "personas_mencionadas": [
+        "Noriel Chingay Salazar",
+        "Ilver Ulises Mostacero León",
+        "Franshesco Noriel Chingay Parodi",
+        "Jorge Chingay Salazar"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0037",
+      "texto": "Cajamarca, gestiones ilícitas desplegadas en la zona por el perfecto de la región Cajamarca de su padre Noriel CHINGAY SALAZAR. s) John Franci Zambrano Quispe, identificado con DNI N° 48020097, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues valiéndose del cargo del Subprefecto Gilmer Raúl FLORES\nFERNANDEZ, con quien tendría un vínculo amical, habría cobrado a Nolver\nSALDAÑA MEJÍA DNI N°48700197, S/. 4,000.00 soles para ser propuesto para que\nsea designado como subprefecto del distrito de Pallan, Provincia de Celendín,\ndepartamento de Cajamarca, entre otros en proceso de identificación; Al respecto se\nprecisa que el dinero recaudado por Jhon Franci ZAMBRANO QUISPE fue\nentregado a Gilmer Raúl FLORES FERNANDEZ, para que luego dicho dinero sea\nentregado a Noriel CHINGAY SALAZAR, quien en ese entonces cumplía el rol\noperador principal de la presunta Organización Criminal en el campo de acción de\nCajamarca.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Noriel Chingay Salazar, John Franci Zambrano Quispe, Jorge Chingay Salazar]\nCajamarca, gestiones ilícitas desplegadas en la zona por el perfecto de la región Cajamarca de su padre Noriel CHINGAY SALAZAR. s) John Franci Zambrano Quispe, identificado con DNI N° 48020097, en su condición\nde integrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues valiéndose del cargo del Subprefecto Gilmer Raúl FLORES\nFERNANDEZ, con quien tendría un vínculo amical, habría cobrado a Nolver\nSALDAÑA MEJÍA DNI N°48700197, S/. 4,000.00 soles para ser propuesto para que\nsea designado como subprefecto del distrito de Pallan, Provincia de Celendín,\ndepartamento de Cajamarca, entre otros en proceso de identificación; Al respecto se\nprecisa que el dinero recaudado por Jhon Franci ZAMBRANO QUISPE fue\nentregado a Gilmer Raúl FLORES FERNANDEZ, para que luego dicho dinero sea\nentregado a Noriel CHINGAY SALAZAR, quien en ese entonces cumplía el rol\noperador principal de la presunta Organización Criminal en el campo de acción de\nCajamarca.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 979,
+      "personas_mencionadas": [
+        "Noriel Chingay Salazar",
+        "John Franci Zambrano Quispe",
+        "Jorge Chingay Salazar"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0038",
+      "texto": "en ese entonces cumplía el rol operador principal de la presunta Organización Criminal en el campo de acción de Cajamarca. Víctor Hugo Torres Merino, identificado con DNI N.° 10283868, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues desde el momento que se gestó la organización criminal habría\npertenecido al \"grupo de confianza\" de Dina BOLUARTE ZEGARRA, integrado\nprincipalmente por Nicanor BOLUARTE ZEGARRA, participando en la\nconstrucción y ejecución del proyecto criminal de inscribir al partido político\nCiudadanos por el Perú a través de los subprefectos y prefectos de las regiones del\npaís, quienes tendrían que apoyar en el llenado de fichas de afiliación y en brindar\nun aporte económico mensual al partido político. Del mismo modo, cumplía las\nindicaciones de Wigberto Nicanor BOLUARTE ZEGARRA al buscar personas de\nconfianza que ocupen cargos públicos de instituciones que manejen un significativo\npresupuesto público, como es el caso de Provias Descentralizado.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Víctor Hugo Torres Merino]\nen ese entonces cumplía el rol operador principal de la presunta Organización Criminal en el campo de acción de Cajamarca. Víctor Hugo Torres Merino, identificado con DNI N.° 10283868, en su condición de\nintegrante de la presunta organización criminal, cumpliría el rol de presunto\nOPERADOR, pues desde el momento que se gestó la organización criminal habría\npertenecido al \"grupo de confianza\" de Dina BOLUARTE ZEGARRA, integrado\nprincipalmente por Nicanor BOLUARTE ZEGARRA, participando en la\nconstrucción y ejecución del proyecto criminal de inscribir al partido político\nCiudadanos por el Perú a través de los subprefectos y prefectos de las regiones del\npaís, quienes tendrían que apoyar en el llenado de fichas de afiliación y en brindar\nun aporte económico mensual al partido político. Del mismo modo, cumplía las\nindicaciones de Wigberto Nicanor BOLUARTE ZEGARRA al buscar personas de\nconfianza que ocupen cargos públicos de instituciones que manejen un significativo\npresupuesto público, como es el caso de Provias Descentralizado.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1040,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Víctor Hugo Torres Merino"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0039",
+      "texto": "confianza que ocupen cargos públicos de instituciones que manejen un significativo presupuesto público, como es el caso de Provias Descentralizado. u) Jorge Chingay Salazar, identificado con DNI N°46249314, a quien se le atribuye la\ncondición de integrante de la presunta organización criminal, en el programa\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\ndelictivo gestado por la indicada red criminal, cuyo rol que cumpliría sería el de\npresunto operador - enlace, puesto que, aprovechando el vínculo de amistad y\nproselitista con Wigberto Nicanor Boluarte Zegarra, conforme a las declaraciones\nindagatorias de ambos; Jorge Chingay Salazar, habría participado en las\ncoordinaciones ilícitas de la organización criminal, en donde Noriel Chingay\nSalazar, entonces prefecto regional de Cajamarca, sería designado como tal, bajo las\ncondiciones impuestas y órdenes de Wigberto Nicanor Boluarte Zegarra, y así\ncontribuir a los fines de la misma, como la de copar el Gobierno Interior del\nMinisterio del Interior y la Dirección General de Autoridades Políticas de dicho\nMinisterio, a través de las designaciones ilegales de subprefectos del campo de\nacción de Cajamarca, a condición de pagos indebidos por parte de los interesados a\nefectos de que sean nombrados en los respectivos cargos.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Noriel Chingay Salazar, Jorge Chingay Salazar]\nconfianza que ocupen cargos públicos de instituciones que manejen un significativo presupuesto público, como es el caso de Provias Descentralizado. u) Jorge Chingay Salazar, identificado con DNI N°46249314, a quien se le atribuye la\ncondición de integrante de la presunta organización criminal, en el programa\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\ndelictivo gestado por la indicada red criminal, cuyo rol que cumpliría sería el de\npresunto operador - enlace, puesto que, aprovechando el vínculo de amistad y\nproselitista con Wigberto Nicanor Boluarte Zegarra, conforme a las declaraciones\nindagatorias de ambos; Jorge Chingay Salazar, habría participado en las\ncoordinaciones ilícitas de la organización criminal, en donde Noriel Chingay\nSalazar, entonces prefecto regional de Cajamarca, sería designado como tal, bajo las\ncondiciones impuestas y órdenes de Wigberto Nicanor Boluarte Zegarra, y así\ncontribuir a los fines de la misma, como la de copar el Gobierno Interior del\nMinisterio del Interior y la Dirección General de Autoridades Políticas de dicho\nMinisterio, a través de las designaciones ilegales de subprefectos del campo de\nacción de Cajamarca, a condición de pagos indebidos por parte de los interesados a\nefectos de que sean nombrados en los respectivos cargos.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1401,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Noriel Chingay Salazar",
+        "Jorge Chingay Salazar"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0040",
+      "texto": "a condición de pagos indebidos por parte de los interesados a efectos de que sean nombrados en los respectivos cargos. Treest\nAsimismo, habría propiciado el vínculo entre Nixon Henry Hoyos Gallardo, alcalde\nde la Municipalidad de Nanchoc y Wigberto Nicanor Boluarte Zegarra, el día del\ncumpleaños de éste último, en donde habrían tratado asuntos lucrativos, en\nbeneficio de la organización delictiva; puesto que, habrían coordinado, respecto a la\nviabilidad de las asignaciones presupuestarias en favor de dicho municipio, a través\nde cinco proyectos de inversión pública, por un monto de 20 millones de soles\naproximadamente, basados en el poder que tendría Wigberto Nicanor Boluarte\nZegarra. Edwin Ugarte Nina, identificado con DNI n.° 25793628, pues desde el momento que\nse gestó la organización criminal habría pertenecido al \"grupo de confianza\" de\nDina BOLUARTE ZEGARRA, integrado principalmente por Wigberto Nicanor\nBOLUARTE ZEGARRA, participando en la construcción del proyecto criminal de\ninscribir al partido político Ciudadanos por el Perú a través de los subprefectos y\nprefectos de las regiones del país, quienes tendrían que apoyar en el llenado de\nfichas de afiliación y en brindar un aporte económico mensual al partido político; respecto a este último, teniendo la función de solicitar los pagos dinerarios a cambio\nde designaciones como prefectos y subprefectos. E.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Nixon Henry Hoyos Gallardo, Edwin Ugarte Nina]\na condición de pagos indebidos por parte de los interesados a efectos de que sean nombrados en los respectivos cargos. Treest\nAsimismo, habría propiciado el vínculo entre Nixon Henry Hoyos Gallardo, alcalde\nde la Municipalidad de Nanchoc y Wigberto Nicanor Boluarte Zegarra, el día del\ncumpleaños de éste último, en donde habrían tratado asuntos lucrativos, en\nbeneficio de la organización delictiva; puesto que, habrían coordinado, respecto a la\nviabilidad de las asignaciones presupuestarias en favor de dicho municipio, a través\nde cinco proyectos de inversión pública, por un monto de 20 millones de soles\naproximadamente, basados en el poder que tendría Wigberto Nicanor Boluarte\nZegarra. Edwin Ugarte Nina, identificado con DNI n.° 25793628, pues desde el momento que\nse gestó la organización criminal habría pertenecido al \"grupo de confianza\" de\nDina BOLUARTE ZEGARRA, integrado principalmente por Wigberto Nicanor\nBOLUARTE ZEGARRA, participando en la construcción del proyecto criminal de\ninscribir al partido político Ciudadanos por el Perú a través de los subprefectos y\nprefectos de las regiones del país, quienes tendrían que apoyar en el llenado de\nfichas de afiliación y en brindar un aporte económico mensual al partido político; respecto a este último, teniendo la función de solicitar los pagos dinerarios a cambio\nde designaciones como prefectos y subprefectos. E.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1383,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Nixon Henry Hoyos Gallardo",
+        "Edwin Ugarte Nina"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0041",
+      "texto": "a este último, teniendo la función de solicitar los pagos dinerarios a cambio de designaciones como prefectos y subprefectos. E. ELEMENTO ESTRUCTURAL\nEscaneado con CamScanner\nContra la\nCorrupción\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\npara\nDe las tipologías de la CICIP-UNICRI, estamos ante una presunta organización criminal\nde tipo JERARQUICA- TIPOLOGIA 1, donde cada uno de sus integrantes cumplen en\nalgunos casos más de una función, actuando de manera concertada y coordinada\nel desarrollo de un conjunto variado de proyectos delictivos que se describieron\nanteriormente, advirtiéndose la siguiente estructura liderados por Wigberto Nicanor\nBoluarte Zegarra, José Luis Ortiz Marreros, Mateo Grimaldo Castañeda Segovia, Víctor\nHugo Torres Merino, Edwin Ugarte Nina, Zenobia Griselda Herrera Vásquez, Jorge\nChingay Salazar, Noriel Chingay Salazar, entre otros más, estarían integrando esta\npresunta organización criminal dedicada a designaciones de autoridades políticas y\notras entidades del Estado.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Jorge Luis Ortiz Marreros, Zenovia Griselda Herrera Vásquez]\na este último, teniendo la función de solicitar los pagos dinerarios a cambio de designaciones como prefectos y subprefectos. E. ELEMENTO ESTRUCTURAL\nEscaneado con CamScanner\nContra la\nCorrupción\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\npara\nDe las tipologías de la CICIP-UNICRI, estamos ante una presunta organización criminal\nde tipo JERARQUICA- TIPOLOGIA 1, donde cada uno de sus integrantes cumplen en\nalgunos casos más de una función, actuando de manera concertada y coordinada\nel desarrollo de un conjunto variado de proyectos delictivos que se describieron\nanteriormente, advirtiéndose la siguiente estructura liderados por Wigberto Nicanor\nBoluarte Zegarra, José Luis Ortiz Marreros, Mateo Grimaldo Castañeda Segovia, Víctor\nHugo Torres Merino, Edwin Ugarte Nina, Zenobia Griselda Herrera Vásquez, Jorge\nChingay Salazar, Noriel Chingay Salazar, entre otros más, estarían integrando esta\npresunta organización criminal dedicada a designaciones de autoridades políticas y\notras entidades del Estado.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1101,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Jorge Luis Ortiz Marreros",
+        "Zenovia Griselda Herrera Vásquez",
+        "Noriel Chingay Salazar",
+        "Mateo Grimaldo Castañeda Segovia",
+        "Víctor Hugo Torres Merino",
+        "Jorge Chingay Salazar",
+        "Edwin Ugarte Nina"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0042",
+      "texto": "entre otros más, estarían integrando esta presunta organización criminal dedicada a designaciones de autoridades políticas y otras entidades del Estado. III.-DELITOS IMPUTADOS:\nLos investigados estarían incursos en los presuntos delitos de:\nPOR DELITO DE ORGANIZACIÓN CRIMINAL\nArtículo 317 del Código Penal - Organización Criminal\n\"(...) El que promueva, organice, constituya, o integre una presunta organización\ncriminal de tres o más personas con carácter estable, permanente o por tiempo\nindefinido, que de manera organizada, concertada o coordinada, se repartan diversas\ntareas o funciones, destinada a cometer delitos será reprimido con pena privativa de\nlibertad no menor de ocho ni mayor de quince años y con ciento ochenta a trescientos\nsesenta y cinco días - multa, e inhabilitación conforme al artículo 36, incisos 1), 2), 4)\ny 8). La pena será no menor de quince ni mayor de veinte años y con ciento ochenta a\ntrescientos sesenta y cinco días-multa, e inhabilitación conforme al artículo 36, incisos\n1), 2), 4) y 8) en los siguientes supuestos: Cuando el agente tuviese la condición de\nlíder, jefe, financista o dirigente de la presunta organización criminal. Cuando\nproducto del accionar delictivo de la presunta organización criminal, cualquiera de\nsus miembros causa la muerte de una persona o le causa lesiones graves a su\nintegridad física o mental.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nentre otros más, estarían integrando esta presunta organización criminal dedicada a designaciones de autoridades políticas y otras entidades del Estado. III.-DELITOS IMPUTADOS:\nLos investigados estarían incursos en los presuntos delitos de:\nPOR DELITO DE ORGANIZACIÓN CRIMINAL\nArtículo 317 del Código Penal - Organización Criminal\n\"(...) El que promueva, organice, constituya, o integre una presunta organización\ncriminal de tres o más personas con carácter estable, permanente o por tiempo\nindefinido, que de manera organizada, concertada o coordinada, se repartan diversas\ntareas o funciones, destinada a cometer delitos será reprimido con pena privativa de\nlibertad no menor de ocho ni mayor de quince años y con ciento ochenta a trescientos\nsesenta y cinco días - multa, e inhabilitación conforme al artículo 36, incisos 1), 2), 4)\ny 8). La pena será no menor de quince ni mayor de veinte años y con ciento ochenta a\ntrescientos sesenta y cinco días-multa, e inhabilitación conforme al artículo 36, incisos\n1), 2), 4) y 8) en los siguientes supuestos: Cuando el agente tuviese la condición de\nlíder, jefe, financista o dirigente de la presunta organización criminal. Cuando\nproducto del accionar delictivo de la presunta organización criminal, cualquiera de\nsus miembros causa la muerte de una persona o le causa lesiones graves a su\nintegridad física o mental.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1365,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0043",
+      "texto": "de sus miembros causa la muerte de una persona o le causa lesiones graves a su integridad física o mental. Cabe precisar dicho análisis deberá realizarse en armonía de lo establecido en el\nartículo 2, de la Ley N° 30077 Ley contra el crimen organizado que dice: \"(...)\nDefinición y criterios para determinar la existencia de una organización criminal. 1)\nPara efectos de la presente Ley, se considera organización criminal a cualquier\nagrupación de tres o más personas que se repartes diversas tareas o funciones,\ncualquiera sea su estructura y ámbito de acción, que, con carácter estable o por tiempo\nindefinido, se crea, existe o funciona, inequívoca y directamente de manera concertada\ny coordinada con la finalidad de cometer uno o más delitos graves señalados en\nEscaneado con CamScanner\nContra la\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nartículo 3 de la presente Ley.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nde sus miembros causa la muerte de una persona o le causa lesiones graves a su integridad física o mental. Cabe precisar dicho análisis deberá realizarse en armonía de lo establecido en el\nartículo 2, de la Ley N° 30077 Ley contra el crimen organizado que dice: \"(...)\nDefinición y criterios para determinar la existencia de una organización criminal. 1)\nPara efectos de la presente Ley, se considera organización criminal a cualquier\nagrupación de tres o más personas que se repartes diversas tareas o funciones,\ncualquiera sea su estructura y ámbito de acción, que, con carácter estable o por tiempo\nindefinido, se crea, existe o funciona, inequívoca y directamente de manera concertada\ny coordinada con la finalidad de cometer uno o más delitos graves señalados en\nEscaneado con CamScanner\nContra la\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nartículo 3 de la presente Ley.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 970,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0044",
+      "texto": "nuestra Independencia, y de la conmemoración de las heroicas batallas de Junín y Ayacucho\" artículo 3 de la presente Ley. 2) La intervención de los integrantes de una organización\ncriminal, personas vinculadas a ella o que actúen por encargo de la misma puede ser\ntemporal, ocasional o aislada debiendo orientarse a la consecución de los objetivos de\nla organización criminal.\"\nDELITO DE TRÁFICO DE INFLUENCIAS\nLos investigados también estarían dentro de los alcances del artículo 400 del Código\nPenal por el delito de Tráfico de influencias, que dice:\n\"(...) El que, invocando o teniendo influencias reales o simuladas, recibe, hace dar o\nprometer para sí o para un tercero, donativo o promesa o cualquier otra ventaja o\nbeneficio con el ofrecimiento de interceder ante un funcionario o servidor público que\nha de conocer, esté conociendo o haya conocido un caso judicial o administrativo, será\nreprimido con pena privativa de libertad no menor de cuatro ni mayor de seis años; inhabilitación, según corresponda, conforme a los incisos 2, 3, 4 y 8 del artículo 36; y\ncon ciento ochenta a trescientos sesenta y cinco días-multa. Si el agente es un\nfuncionario o servidor público, será reprimido con pena privativa de libertad no\nmenor de cuatro ni mayor de ocho años; inhabilitación, según corresponda, conforme\na los incisos 1, 2 y 8 del artículo 36; y, con trescientos sesenta y cinco a setecientos\ntreinta días-multa.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nnuestra Independencia, y de la conmemoración de las heroicas batallas de Junín y Ayacucho\" artículo 3 de la presente Ley. 2) La intervención de los integrantes de una organización\ncriminal, personas vinculadas a ella o que actúen por encargo de la misma puede ser\ntemporal, ocasional o aislada debiendo orientarse a la consecución de los objetivos de\nla organización criminal.\"\nDELITO DE TRÁFICO DE INFLUENCIAS\nLos investigados también estarían dentro de los alcances del artículo 400 del Código\nPenal por el delito de Tráfico de influencias, que dice:\n\"(...) El que, invocando o teniendo influencias reales o simuladas, recibe, hace dar o\nprometer para sí o para un tercero, donativo o promesa o cualquier otra ventaja o\nbeneficio con el ofrecimiento de interceder ante un funcionario o servidor público que\nha de conocer, esté conociendo o haya conocido un caso judicial o administrativo, será\nreprimido con pena privativa de libertad no menor de cuatro ni mayor de seis años; inhabilitación, según corresponda, conforme a los incisos 2, 3, 4 y 8 del artículo 36; y\ncon ciento ochenta a trescientos sesenta y cinco días-multa. Si el agente es un\nfuncionario o servidor público, será reprimido con pena privativa de libertad no\nmenor de cuatro ni mayor de ocho años; inhabilitación, según corresponda, conforme\na los incisos 1, 2 y 8 del artículo 36; y, con trescientos sesenta y cinco a setecientos\ntreinta días-multa.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1420,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0045",
+      "texto": "a los incisos 1, 2 y 8 del artículo 36; y, con trescientos sesenta y cinco a setecientos treinta días-multa. Si el agente es un funcionario o servidor público, será reprimido\ncon pena privativa de libertad no menor de cuatro ni mayor de ocho años; inhabilitación, según corresponda, conforme a los incisos 1, 2 y 8 del artículo 36; y, con\ntrescientos sesenta y cinco a setecientos treinta días-multa. Entre otros delitos que se puede imputar conforme se desarrolla el avance de\ninvestigación bajo el principio de progresividad de la investigación preliminar \"secreta\",\ndonde específicamente se tendrá cuatro hechos bien delimitados siendo la imputación\nprincipal de: INFLUENCIAS ILÍCITAS DE PARTE DE WIGBERTO NICANOR\nBOLUARTE ZEGARRA PARA LA DESIGNACIÓN DE PREFECTOS,\nSUBPREFECTOS PROVINCIALES Y DISTRITALES A NIVEL NACIONAL. 1) Primer hecho: Región San Martin: influencias ilícitas para la designación de\nsubprefectos para la recolección de firmas en fichas de afiliación para la\ninscripción del partido político \"Ciudadanos por el Perú\" y su financiamiento.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra]\na los incisos 1, 2 y 8 del artículo 36; y, con trescientos sesenta y cinco a setecientos treinta días-multa. Si el agente es un funcionario o servidor público, será reprimido\ncon pena privativa de libertad no menor de cuatro ni mayor de ocho años; inhabilitación, según corresponda, conforme a los incisos 1, 2 y 8 del artículo 36; y, con\ntrescientos sesenta y cinco a setecientos treinta días-multa. Entre otros delitos que se puede imputar conforme se desarrolla el avance de\ninvestigación bajo el principio de progresividad de la investigación preliminar \"secreta\",\ndonde específicamente se tendrá cuatro hechos bien delimitados siendo la imputación\nprincipal de: INFLUENCIAS ILÍCITAS DE PARTE DE WIGBERTO NICANOR\nBOLUARTE ZEGARRA PARA LA DESIGNACIÓN DE PREFECTOS,\nSUBPREFECTOS PROVINCIALES Y DISTRITALES A NIVEL NACIONAL. 1) Primer hecho: Región San Martin: influencias ilícitas para la designación de\nsubprefectos para la recolección de firmas en fichas de afiliación para la\ninscripción del partido político \"Ciudadanos por el Perú\" y su financiamiento.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1059,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0046",
+      "texto": "recolección de firmas en fichas de afiliación para la inscripción del partido político \"Ciudadanos por el Perú\" y su financiamiento. 2) Segundo hecho: Región Cajamarca: influencias ilícitas para la designación de\nsubprefectos para efectos de financiar la red criminal y lograr la recolección de\nfirmas para la inscripción del partido político \"Ciudadanos por el Perú\"\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\n3) Tercer hecho: influencias ilícitas de Wigberto Nicanor Boluarte Zegarra a través\nde Víctor Hugo Torres Merino, Edwin Ugarte Nina, entre otros, para la\ndesignación de cargos en distintas entidades del estado\n4) Cuarto hecho: presuntos actos corruptivos de neutralizar las investigaciones\ncontra Wigberto Nicanor Boluarte Zegarra, Edwin Ugarte Nina, Víctor Hugo\nTorres Merino, Antonino Chingay Salazar, Jorge Chingay Salazar, Noriel\nChingay Salazar, Nixon Henry Hoyos Gallardo y Michael Carlos Aranda Ladera,\nen el marco de la carpeta fiscal n° 11-2023, por delito de Colusión Agravada y\nTrafico de Influencias.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Wigberto Nicanor Boluarte Zegarra, Noriel Chingay Salazar, Nixon Henry Hoyos Gallardo]\nrecolección de firmas en fichas de afiliación para la inscripción del partido político \"Ciudadanos por el Perú\" y su financiamiento. 2) Segundo hecho: Región Cajamarca: influencias ilícitas para la designación de\nsubprefectos para efectos de financiar la red criminal y lograr la recolección de\nfirmas para la inscripción del partido político \"Ciudadanos por el Perú\"\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\n3) Tercer hecho: influencias ilícitas de Wigberto Nicanor Boluarte Zegarra a través\nde Víctor Hugo Torres Merino, Edwin Ugarte Nina, entre otros, para la\ndesignación de cargos en distintas entidades del estado\n4) Cuarto hecho: presuntos actos corruptivos de neutralizar las investigaciones\ncontra Wigberto Nicanor Boluarte Zegarra, Edwin Ugarte Nina, Víctor Hugo\nTorres Merino, Antonino Chingay Salazar, Jorge Chingay Salazar, Noriel\nChingay Salazar, Nixon Henry Hoyos Gallardo y Michael Carlos Aranda Ladera,\nen el marco de la carpeta fiscal n° 11-2023, por delito de Colusión Agravada y\nTrafico de Influencias.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1142,
+      "personas_mencionadas": [
+        "Wigberto Nicanor Boluarte Zegarra",
+        "Noriel Chingay Salazar",
+        "Nixon Henry Hoyos Gallardo",
+        "Víctor Hugo Torres Merino",
+        "Jorge Chingay Salazar",
+        "Edwin Ugarte Nina"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0047",
+      "texto": "Aranda Ladera, en el marco de la carpeta fiscal n° 11-2023, por delito de Colusión Agravada y Trafico de Influencias. IV.-DILIGENCIAS A PRACTICAR:\nLa presente investigación se inició contra los que resulten responsables (L.Q.R.R.),\npor cuanto la notitia criminis, proviene de información de fuente abierta por los distintos\nmedios de comunicación sobre presuntos actos de corrupción en favorecimiento en\ndesignaciones, contratos y ordenes de servicios, así como nombramientos como\nprefectos y subprefectos a nivel nacional, conforme al plazo establecido en la Disposición\nN° 01-2024, de fecha 11 de abril del 2024, por sesenta días. Por tal motivo estando a los\nhechos imputados a diversas personas tanto en la ciudad de Cajamarca y San Martin,\ncon la documentación recibida y las diligencias practicadas del 17 al 19 de abril del 2024,\nes necesario impulsar la presente investigación, a fin de reunir los elementos de\nconvicción que consideren pertinentes para la presente investigación. De otro lado, estando a lo informado con oficio N° 02-2024-EFICCOP-E3-MP-FN del 26\nde abril del 2024, donde remite la disposición reservada sobre traslado de documentos\nde \"Agente encubierto \"Rene\", se dispone continuar solicitando información de carácter\nreservada. DECISION FISCAL:\nPor lo expuesto, de conformidad con lo establecido en el artículo 159° inciso cuatro\nde la Constitución Política del Estado, en concordancia con los artículos 1° y 5° de la\nLey Orgánica del Ministerio Público (D. Leg. N° 052);",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nAranda Ladera, en el marco de la carpeta fiscal n° 11-2023, por delito de Colusión Agravada y Trafico de Influencias. IV.-DILIGENCIAS A PRACTICAR:\nLa presente investigación se inició contra los que resulten responsables (L.Q.R.R.),\npor cuanto la notitia criminis, proviene de información de fuente abierta por los distintos\nmedios de comunicación sobre presuntos actos de corrupción en favorecimiento en\ndesignaciones, contratos y ordenes de servicios, así como nombramientos como\nprefectos y subprefectos a nivel nacional, conforme al plazo establecido en la Disposición\nN° 01-2024, de fecha 11 de abril del 2024, por sesenta días. Por tal motivo estando a los\nhechos imputados a diversas personas tanto en la ciudad de Cajamarca y San Martin,\ncon la documentación recibida y las diligencias practicadas del 17 al 19 de abril del 2024,\nes necesario impulsar la presente investigación, a fin de reunir los elementos de\nconvicción que consideren pertinentes para la presente investigación. De otro lado, estando a lo informado con oficio N° 02-2024-EFICCOP-E3-MP-FN del 26\nde abril del 2024, donde remite la disposición reservada sobre traslado de documentos\nde \"Agente encubierto \"Rene\", se dispone continuar solicitando información de carácter\nreservada. DECISION FISCAL:\nPor lo expuesto, de conformidad con lo establecido en el artículo 159° inciso cuatro\nde la Constitución Política del Estado, en concordancia con los artículos 1° y 5° de la\nLey Orgánica del Ministerio Público (D. Leg. N° 052);",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1499,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "11 de abril del 2024",
+        "19 de abril del 2024",
+        "26\nde abril del 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "a)_Copia_de_Disposicon_Fiscal_Emplazamiento_e_Investigación_preparatoria_al_20may2025_clean_0048",
+      "texto": "Estado, en concordancia con los artículos 1° y 5° de la Ley Orgánica del Ministerio Público (D. Leg. N° 052); SE DISPONE:\nPRIMERO: IDENTIDICAR e INDIVIDUALIZAR A LOS INVESTIGADOS EN EL\nPRESUNTO DELITO DE ORGANIZACIÓN CRIMINAL Y OTROS, en agravio del\nESTADO, a las siguientes personas:\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nEFICCOP\nDOCUMENTO DE\nNº\nINVESTIGADO\nIDENTIDAD\nWigberto Nicanor BOLUARTE\nZEGARRA\nJorge Luis ORTIZ MARREROS\nLuis Alberto GUEVARA BELLO\nJosé Leopoldo LOZANO TORRES\nNoriel CHINGAY SALAZAR\nMateo Grimaldo CASTAÑEDA\nSEGOVIA\nZenovia Griselda HERRERA VASQUEZ\nFernando NAVARRO LUNA\nLubi Angelica NAVARRO BARTRA\nMartin Silvio CARBAJAL ZEGARRA\nRaúl Antonio OLIVA GUERRERO\nNixon Henry HOYOS GALLARDO\nVerónica Raquel SOLORZANO QUISPE\nGilmer Raúl FLORES FERNANDEZ\nQUISPE\nFidel BECERRA VLLALOBOS\nCesar Eladio PAICO SANCHEZ\nIlver Ulises MOSTACERO LEON\nFranshesco Noriel CHINGAY PARODI\nJohn Franci ZAMBRANO QUISPE\nJorge CHINGAY SALAZAR\nVíctor Hugo TORRES MERINO\nEdwin UGARTE NINA\nSEGUNDO: PRACTICASE las diligencias, que resulten útiles, pertinentes y\nconducentes a la presente investigación, previa la recepción de los documentos de\nlas entidades estatales. Ofíciese en forma reservada las diligencias a practicarse. -\nEscaneado con CamScanner",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Jorge Luis Ortiz Marreros, Luis Alberto Guevara Bello, José Leopoldo Lozano Torres]\nEstado, en concordancia con los artículos 1° y 5° de la Ley Orgánica del Ministerio Público (D. Leg. N° 052); SE DISPONE:\nPRIMERO: IDENTIDICAR e INDIVIDUALIZAR A LOS INVESTIGADOS EN EL\nPRESUNTO DELITO DE ORGANIZACIÓN CRIMINAL Y OTROS, en agravio del\nESTADO, a las siguientes personas:\nEscaneado con CamScanner\n\"Año del Bicentenario, de la consolidación de nuestra\nIndependencia, y de la conmemoración de las heroicas batallas de\nJunín y Ayacucho\"\nEFICCOP\nDOCUMENTO DE\nNº\nINVESTIGADO\nIDENTIDAD\nWigberto Nicanor BOLUARTE\nZEGARRA\nJorge Luis ORTIZ MARREROS\nLuis Alberto GUEVARA BELLO\nJosé Leopoldo LOZANO TORRES\nNoriel CHINGAY SALAZAR\nMateo Grimaldo CASTAÑEDA\nSEGOVIA\nZenovia Griselda HERRERA VASQUEZ\nFernando NAVARRO LUNA\nLubi Angelica NAVARRO BARTRA\nMartin Silvio CARBAJAL ZEGARRA\nRaúl Antonio OLIVA GUERRERO\nNixon Henry HOYOS GALLARDO\nVerónica Raquel SOLORZANO QUISPE\nGilmer Raúl FLORES FERNANDEZ\nQUISPE\nFidel BECERRA VLLALOBOS\nCesar Eladio PAICO SANCHEZ\nIlver Ulises MOSTACERO LEON\nFranshesco Noriel CHINGAY PARODI\nJohn Franci ZAMBRANO QUISPE\nJorge CHINGAY SALAZAR\nVíctor Hugo TORRES MERINO\nEdwin UGARTE NINA\nSEGUNDO: PRACTICASE las diligencias, que resulten útiles, pertinentes y\nconducentes a la presente investigación, previa la recepción de los documentos de\nlas entidades estatales. Ofíciese en forma reservada las diligencias a practicarse. -\nEscaneado con CamScanner",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1373,
+      "personas_mencionadas": [
+        "Jorge Luis Ortiz Marreros",
+        "Luis Alberto Guevara Bello",
+        "José Leopoldo Lozano Torres",
+        "Noriel Chingay Salazar",
+        "Martin Silvio Carbajal Zegarra",
+        "Lubi Angélica Navarro Bartra",
+        "Fernando Navarro Luna",
+        "Raúl Antonio Oliva Guerrero",
+        "Nixon Henry Hoyos Gallardo",
+        "Franshesco Noriel Chingay Parodi",
+        "John Franci Zambrano Quispe",
+        "Víctor Hugo Torres Merino",
+        "Jorge Chingay Salazar",
+        "Edwin Ugarte Nina"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    }
+  ],
+  "auditoria": {
+    "total_chunks": 48,
+    "total_caracteres_chunks": 57033,
+    "cobertura_texto": 1.1182,
+    "promedio_caracteres_chunk": 1188,
+    "total_personas_detectadas": 22,
+    "total_fechas_detectadas": 19,
+    "total_articulos_legales": 2
+  }
+}

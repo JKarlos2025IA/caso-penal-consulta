@@ -1,0 +1,227 @@
+{
+  "documento_id": "Disposicion_17_clean",
+  "archivo_original": "Disposicion 17_clean.txt",
+  "tipo_documento": "disposicion",
+  "hash_contenido": "4c9cb1fef9972eae1ab710676f693094",
+  "fecha_procesamiento": "2026-02-11T11:19:42.025243",
+  "metadata": {
+    "expedientes": [],
+    "fecha_documento": "2024-07-12",
+    "articulos_legales": [],
+    "total_paginas": 1,
+    "total_caracteres": 10938
+  },
+  "personas": {
+    "Mateo Grimaldo Castañeda\nSegovia": {
+      "dni": null,
+      "frecuencia": 8
+    },
+    "Mateo Grimaldo\nCastañeda Segovia": {
+      "dni": null,
+      "frecuencia": 8
+    },
+    "Mateo Grimaldo Castañeda Segovia": {
+      "dni": null,
+      "frecuencia": 8
+    }
+  },
+  "fechas": [
+    "2024-04-19",
+    "2024-06-05",
+    "2024-06-25",
+    "2024-06-30",
+    "2024-07-01",
+    "2024-07-02",
+    "2024-07-09",
+    "2024-07-12",
+    "2024-07-15"
+  ],
+  "secciones_imputados": [],
+  "chunks": [
+    {
+      "chunk_id": "Disposicion_17_clean_0001",
+      "texto": "“Año del Bicentenario, de la consolidación de nuestra Independencia, y de la\nconmemoración de las heroicas batallas de Junín y Ayacucho”\n% - MINISTERIO PÚBLICO\n=e . REPUBLICA DEL PERU Equipo Especial de Fiscales Contra la Corrupción del Poder\nE 1 Fiscalía Provincial - Equipo 5\nDISPOSICIÓN FISCAL N.* 17\nLima, dos de agosto\nDel año dos mil veinticuatro. VISTO: Los escritos presentados por la defensa del investigado Mateo Grimaldo Castañeda\nSegovia:\n1. Escrito presentado con fecha 12 de julio de 2024, suscrito por el abogado Eduardo Barriga\nBernal, con sumilla: “Se deje sin efecto requerimiento de audio por formar parte de queja funcional\nante la AMC y denuncia penal”. 2. Escrito presentado con fecha 15 de julio de 2024, suscrito por la abogada Andrea Bardales\nMagallanes, con sumilla: “Solicito se declare INVÁLIDAS las actas suscritas por la fiscal Melisa\nAngulo Mantilla del 19ABR24”. CONSIDERANDO:\nPrimero.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Mateo Grimaldo Castañeda\nSegovia]\n“Año del Bicentenario, de la consolidación de nuestra Independencia, y de la\nconmemoración de las heroicas batallas de Junín y Ayacucho”\n% - MINISTERIO PÚBLICO\n=e . REPUBLICA DEL PERU Equipo Especial de Fiscales Contra la Corrupción del Poder\nE 1 Fiscalía Provincial - Equipo 5\nDISPOSICIÓN FISCAL N.* 17\nLima, dos de agosto\nDel año dos mil veinticuatro. VISTO: Los escritos presentados por la defensa del investigado Mateo Grimaldo Castañeda\nSegovia:\n1. Escrito presentado con fecha 12 de julio de 2024, suscrito por el abogado Eduardo Barriga\nBernal, con sumilla: “Se deje sin efecto requerimiento de audio por formar parte de queja funcional\nante la AMC y denuncia penal”. 2. Escrito presentado con fecha 15 de julio de 2024, suscrito por la abogada Andrea Bardales\nMagallanes, con sumilla: “Solicito se declare INVÁLIDAS las actas suscritas por la fiscal Melisa\nAngulo Mantilla del 19ABR24”. CONSIDERANDO:\nPrimero.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 917,
+      "personas_mencionadas": [
+        "Mateo Grimaldo Castañeda\nSegovia"
+      ],
+      "fechas_mencionadas": [
+        "12 de julio de 2024",
+        "15 de julio de 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "Disposicion_17_clean_0002",
+      "texto": "Magallanes, con sumilla: “Solicito se declare INVÁLIDAS las actas suscritas por la fiscal Melisa Angulo Mantilla del 19ABR24”. CONSIDERANDO: Primero. — A través del primer escrito, el abogado Eduardo Barriga Bernal solicita se deje sin\nefecto la solicitud de este despacho fiscal contenido en la providencia n.” 111-2024, del 9 de julio\nde 2024, concerniente en remitir el audio de la conversación sostenida entre el referido letrado\ncon el testigo Juan José Enciso Torres, argumentando que se trataría un elemento probatorio de\nla queja funcional n.* 559-2024 interpuesta contra el fiscal provincial suscribiente, además de que\neste despacho fiscal habría procedido a denunciar penalmente al investigado Mateo Grimaldo\nCastañeda Segovia y al abogado Eduardo Barriga Bernal por lo hechos suscitados en las\nreuniones sostenidas con Juan José Enciso Torres con fechas 04 y 05 de junio de 2024. Al respecto,\nse debe tener presente que el audio solicitado guarda pertinencia y utilidad al corresponder con\nactos de investigación relacionados a presuntas conductas de obstaculización vinculadas al\ninvestigado Mateo Grimaldo Castañeda Segovia y su defensa técnica, que han sido puestas a\nconocimiento por el testigo Juan José Enciso Torres en la ampliación de su declaración testimonial\ndel 02 de julio de 2024; por lo cual, se debe reiterar el audio requerido en un plazo máximo\ndeterminado, bajo apercibimiento.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Mateo Grimaldo Castañeda\nSegovia, Mateo Grimaldo\nCastañeda Segovia, Mateo Grimaldo Castañeda Segovia]\nMagallanes, con sumilla: “Solicito se declare INVÁLIDAS las actas suscritas por la fiscal Melisa Angulo Mantilla del 19ABR24”. CONSIDERANDO: Primero. — A través del primer escrito, el abogado Eduardo Barriga Bernal solicita se deje sin\nefecto la solicitud de este despacho fiscal contenido en la providencia n.” 111-2024, del 9 de julio\nde 2024, concerniente en remitir el audio de la conversación sostenida entre el referido letrado\ncon el testigo Juan José Enciso Torres, argumentando que se trataría un elemento probatorio de\nla queja funcional n.* 559-2024 interpuesta contra el fiscal provincial suscribiente, además de que\neste despacho fiscal habría procedido a denunciar penalmente al investigado Mateo Grimaldo\nCastañeda Segovia y al abogado Eduardo Barriga Bernal por lo hechos suscitados en las\nreuniones sostenidas con Juan José Enciso Torres con fechas 04 y 05 de junio de 2024. Al respecto,\nse debe tener presente que el audio solicitado guarda pertinencia y utilidad al corresponder con\nactos de investigación relacionados a presuntas conductas de obstaculización vinculadas al\ninvestigado Mateo Grimaldo Castañeda Segovia y su defensa técnica, que han sido puestas a\nconocimiento por el testigo Juan José Enciso Torres en la ampliación de su declaración testimonial\ndel 02 de julio de 2024; por lo cual, se debe reiterar el audio requerido en un plazo máximo\ndeterminado, bajo apercibimiento.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1408,
+      "personas_mencionadas": [
+        "Mateo Grimaldo Castañeda\nSegovia",
+        "Mateo Grimaldo\nCastañeda Segovia",
+        "Mateo Grimaldo Castañeda Segovia"
+      ],
+      "fechas_mencionadas": [
+        "9 de julio\nde 2024",
+        "05 de junio de 2024",
+        "02 de julio de 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "Disposicion_17_clean_0003",
+      "texto": "de julio de 2024; por lo cual, se debe reiterar el audio requerido en un plazo máximo determinado, bajo apercibimiento. Segundo - Por medio del segundo escrito, la letrada Andrea Bardales Magallanes, abogada\ndefensora del investigado Mateo Grimaldo Castañeda Segovia, solicitó a este despacho fiscal la\n“invalidez de las actas suscritas por la fiscal adjunta Melisa Angulo Mantilla”, bajo el entendido\nde que no corresponderían a errores materiales lo corregido mediante disposición fiscal 13 —en\nalusión al “Acta de deslacrado de muestra, visualización de información de manera manual de dispositivos\nelectrónicos Pendrive, transcripción de audio y vídeo, y lacrado de muestra”, de fecha 19 de abril de\n2024-, sosteniendo su dicho en la interpretación que dicha defensa le da a los artículos 120 y 124\ndel Código Procesal Penal, y el 407 del Código Procesal Civil de aplicación supletoria. Asimismo,\nagrega que “no existiría certeza sobre la participación o no de la fiscal adjunta Melisa Angulo Mantilla\ndel acta cuestionada y de todas las actas que haya participado de manera simultánea, como el acta\ncuestionada y de todas las actas que haya participado de manera simultánea, como el acta de Declaración\ndel Testigo Protegido n.? 08-2024 y tres actas de verificación y corroboración de información (...)”. Tercero.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Mateo Grimaldo Castañeda\nSegovia, Mateo Grimaldo\nCastañeda Segovia, Mateo Grimaldo Castañeda Segovia]\nde julio de 2024; por lo cual, se debe reiterar el audio requerido en un plazo máximo determinado, bajo apercibimiento. Segundo - Por medio del segundo escrito, la letrada Andrea Bardales Magallanes, abogada\ndefensora del investigado Mateo Grimaldo Castañeda Segovia, solicitó a este despacho fiscal la\n“invalidez de las actas suscritas por la fiscal adjunta Melisa Angulo Mantilla”, bajo el entendido\nde que no corresponderían a errores materiales lo corregido mediante disposición fiscal 13 —en\nalusión al “Acta de deslacrado de muestra, visualización de información de manera manual de dispositivos\nelectrónicos Pendrive, transcripción de audio y vídeo, y lacrado de muestra”, de fecha 19 de abril de\n2024-, sosteniendo su dicho en la interpretación que dicha defensa le da a los artículos 120 y 124\ndel Código Procesal Penal, y el 407 del Código Procesal Civil de aplicación supletoria. Asimismo,\nagrega que “no existiría certeza sobre la participación o no de la fiscal adjunta Melisa Angulo Mantilla\ndel acta cuestionada y de todas las actas que haya participado de manera simultánea, como el acta\ncuestionada y de todas las actas que haya participado de manera simultánea, como el acta de Declaración\ndel Testigo Protegido n.? 08-2024 y tres actas de verificación y corroboración de información (...)”. Tercero.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1318,
+      "personas_mencionadas": [
+        "Mateo Grimaldo Castañeda\nSegovia",
+        "Mateo Grimaldo\nCastañeda Segovia",
+        "Mateo Grimaldo Castañeda Segovia"
+      ],
+      "fechas_mencionadas": [
+        "19 de abril de\n2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "Disposicion_17_clean_0004",
+      "texto": "el acta de Declaración del Testigo Protegido n.? 08-2024 y tres actas de verificación y corroboración de información (...)”. Tercero. - Luego, la defensa técnica del imputado Mateo Grimaldo Castañeda Segovia\nsustenta también su solicitud de invalidez de las actas de fecha 19 de abril de 2024, suscrita por\nla fiscal adjunta Melisa Angulo Mantilla, por cuanto “no pueden ser subsanadas o suplidas con certeza\npues no existen otros elementos de la misma actuación que corroboran su “corrección material”, en todo\ncaso, ello se debe averiguar en las instancias correspondientes (proceso disciplinario y vía penal), puesto\n1de 3\n“Año del Bicentenario, de la consolidación de nuestra Independencia, y de la\n> conmemoración de las heroicas batallas de Junín y Ayacucho”\n* MINISTERIO PÚBLICO\n-- REPUBLICA DEL PERU Equipo Especial de Fiscales Contra la Corrupción del Poder\nFiscalia Provincial - Equipo 5\nque nos encontramos ante una presunta comisión del delito contra la fe pública”. Agregando que, “no\nexiste certeza sobre su participación en estas diligencias”, entendiéndose a las actas fiscales suscritas\ncon fecha 19 de abril de 2024 por la referida fiscal adjunta provincial de este despacho fiscal.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Mateo Grimaldo Castañeda\nSegovia, Mateo Grimaldo\nCastañeda Segovia, Mateo Grimaldo Castañeda Segovia]\nel acta de Declaración del Testigo Protegido n.? 08-2024 y tres actas de verificación y corroboración de información (...)”. Tercero. - Luego, la defensa técnica del imputado Mateo Grimaldo Castañeda Segovia\nsustenta también su solicitud de invalidez de las actas de fecha 19 de abril de 2024, suscrita por\nla fiscal adjunta Melisa Angulo Mantilla, por cuanto “no pueden ser subsanadas o suplidas con certeza\npues no existen otros elementos de la misma actuación que corroboran su “corrección material”, en todo\ncaso, ello se debe averiguar en las instancias correspondientes (proceso disciplinario y vía penal), puesto\n1de 3\n“Año del Bicentenario, de la consolidación de nuestra Independencia, y de la\n> conmemoración de las heroicas batallas de Junín y Ayacucho”\n* MINISTERIO PÚBLICO\n-- REPUBLICA DEL PERU Equipo Especial de Fiscales Contra la Corrupción del Poder\nFiscalia Provincial - Equipo 5\nque nos encontramos ante una presunta comisión del delito contra la fe pública”. Agregando que, “no\nexiste certeza sobre su participación en estas diligencias”, entendiéndose a las actas fiscales suscritas\ncon fecha 19 de abril de 2024 por la referida fiscal adjunta provincial de este despacho fiscal.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1200,
+      "personas_mencionadas": [
+        "Mateo Grimaldo Castañeda\nSegovia",
+        "Mateo Grimaldo\nCastañeda Segovia",
+        "Mateo Grimaldo Castañeda Segovia"
+      ],
+      "fechas_mencionadas": [
+        "19 de abril de 2024",
+        "19 de abril de 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "Disposicion_17_clean_0005",
+      "texto": "actas fiscales suscritas con fecha 19 de abril de 2024 por la referida fiscal adjunta provincial de este despacho fiscal. Cuarto - Al respecto, en primer lugar, la participación de la fiscal adjunta Melisa Angulo\nMantilla en la declaración testimonial del testigo protegido n.” 08-2024, del 19 de abril de 2024,\nasí como en las tres (03) actas de reconocimiento fotográfico y un (01) acta de verificación de\ninmueble, todas del 19 de abril de 2024, así como las horas respectivas, han sido ratificados por\nel testigo Juan José Enciso Torres —entonces testigo protegido n.” 08-2024—, conforme se advierte\ndel “Acta de declaración testimonial de Juan José Enciso Torres”, de fecha 2 de julio de 2024; teniéndose presente, además, que dicho testigo de manera voluntaria habría decidido levantar su\nreserva de su identidad dejándose constancia de ello en el “Acta de concurrencia a sede fiscal en\nforma espontánea y renuncia a clave de identificación de testigo protegido” del 2 de julio de 2024, debido\na “a la noticia difundida en el programa periodístico “Panorama” de fecha 30 de junio de 2024, entrevista\nrealizada a Mateo Castañeda Segovia y su abogado Eduardo Barriga Bernal, ya que en dicha entrevista se\nha develado la identidad del testigo identificado con clave TP n.* 08-2024”. Quinto.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Mateo Grimaldo Castañeda\nSegovia, Mateo Grimaldo\nCastañeda Segovia, Mateo Grimaldo Castañeda Segovia]\nactas fiscales suscritas con fecha 19 de abril de 2024 por la referida fiscal adjunta provincial de este despacho fiscal. Cuarto - Al respecto, en primer lugar, la participación de la fiscal adjunta Melisa Angulo\nMantilla en la declaración testimonial del testigo protegido n.” 08-2024, del 19 de abril de 2024,\nasí como en las tres (03) actas de reconocimiento fotográfico y un (01) acta de verificación de\ninmueble, todas del 19 de abril de 2024, así como las horas respectivas, han sido ratificados por\nel testigo Juan José Enciso Torres —entonces testigo protegido n.” 08-2024—, conforme se advierte\ndel “Acta de declaración testimonial de Juan José Enciso Torres”, de fecha 2 de julio de 2024; teniéndose presente, además, que dicho testigo de manera voluntaria habría decidido levantar su\nreserva de su identidad dejándose constancia de ello en el “Acta de concurrencia a sede fiscal en\nforma espontánea y renuncia a clave de identificación de testigo protegido” del 2 de julio de 2024, debido\na “a la noticia difundida en el programa periodístico “Panorama” de fecha 30 de junio de 2024, entrevista\nrealizada a Mateo Castañeda Segovia y su abogado Eduardo Barriga Bernal, ya que en dicha entrevista se\nha develado la identidad del testigo identificado con clave TP n.* 08-2024”. Quinto.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1293,
+      "personas_mencionadas": [
+        "Mateo Grimaldo Castañeda\nSegovia",
+        "Mateo Grimaldo\nCastañeda Segovia",
+        "Mateo Grimaldo Castañeda Segovia"
+      ],
+      "fechas_mencionadas": [
+        "19 de abril de 2024",
+        "19 de abril de 2024",
+        "19 de abril de 2024",
+        "2 de julio de 2024",
+        "2 de julio de 2024",
+        "30 de junio de 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "Disposicion_17_clean_0006",
+      "texto": "Bernal, ya que en dicha entrevista se ha develado la identidad del testigo identificado con clave TP n.* 08-2024”. Quinto. - De la misma forma, con referencia al sentido de las correcciones materiales del “Acta\nde deslacrado de muestra, visualización de información de manera manual de dispositivos electrónicos\nPendrtve, transcripción de audio y video, y lacrado de muestra”, de fecha 19 de abril de 2024, advertidas\nmediante la razón del 25 de junio de 2024 elaborada por la fiscal adjunta Melisa Angulo Mantilla,\ny dispuestas por disposición n.* 13 del 01 de julio de 2024, se debe indicar que han sido ratificadas\nmediante el “Acta aclaratoria” del 01 de julio de 2024, con participación del testigo Diego Moisés\nSaavedra Ushiñahua; por lo que, existe certeza también sobre el contenido de las correcciones\nmateriales advertidas, la intervención y disposición de la fiscal adjunta Melisa Angulo Mantilla. \" ) Í “ Sexto. - De lo expuesto, se advierte que lo expresado por la abogada Andrea Bardales\n- igMagallanes en el escrito de fecha 15 de julio de 2024, no guardaría correspondencia con la\no ealidad, siendo contrario a lo que alega en relación a que “no existiría certeza sobre la\nepártícipación o no de la fiscal adjunta Melisa Angulo Mantilla” en las actas cuestionadas del 19\nde abril de 2024, insinuando que podría tratarse de la presunta comisión del delito contra la fe\nA\nD 19 pública.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\nBernal, ya que en dicha entrevista se ha develado la identidad del testigo identificado con clave TP n.* 08-2024”. Quinto. - De la misma forma, con referencia al sentido de las correcciones materiales del “Acta\nde deslacrado de muestra, visualización de información de manera manual de dispositivos electrónicos\nPendrtve, transcripción de audio y video, y lacrado de muestra”, de fecha 19 de abril de 2024, advertidas\nmediante la razón del 25 de junio de 2024 elaborada por la fiscal adjunta Melisa Angulo Mantilla,\ny dispuestas por disposición n.* 13 del 01 de julio de 2024, se debe indicar que han sido ratificadas\nmediante el “Acta aclaratoria” del 01 de julio de 2024, con participación del testigo Diego Moisés\nSaavedra Ushiñahua; por lo que, existe certeza también sobre el contenido de las correcciones\nmateriales advertidas, la intervención y disposición de la fiscal adjunta Melisa Angulo Mantilla. \" ) Í “ Sexto. - De lo expuesto, se advierte que lo expresado por la abogada Andrea Bardales\n- igMagallanes en el escrito de fecha 15 de julio de 2024, no guardaría correspondencia con la\no ealidad, siendo contrario a lo que alega en relación a que “no existiría certeza sobre la\nepártícipación o no de la fiscal adjunta Melisa Angulo Mantilla” en las actas cuestionadas del 19\nde abril de 2024, insinuando que podría tratarse de la presunta comisión del delito contra la fe\nA\nD 19 pública.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1399,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "19 de abril de 2024",
+        "25 de junio de 2024",
+        "01 de julio de 2024",
+        "01 de julio de 2024",
+        "15 de julio de 2024",
+        "19\nde abril de 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "Disposicion_17_clean_0007",
+      "texto": "abril de 2024, insinuando que podría tratarse de la presunta comisión del delito contra la fe A D 19 pública. Sobre esto último, se aprecia en la letrada una conducta que aparentemente distaría del\n:- “17 cabal cumplimiento de los derechos del abogado según el Código de Ética del Abogado, entre\nellos, el deber de veracidad (artículo 9). Séptimo. - Por otro lado, la defensa técnica del abogado Mateo Grimaldo Castañeda Segovia\ntrae a colación en pie de página, la casación n.* 1626-2019, Cusco, citando el siguiente extracto:\n“Lo sustancial de la decisión no puede ser alterado. En el caso de omisiones relevantes vinculadas a las\npretensiones deducidas es posible adicionar la decisión, cuyo límite, como la ley estatuye, es que no puede\n1r contradictoriamente con lo ya asentado y vigente en el fallo primigenio, esto es, que respete el alcance, el\nsentido y los contenidos esenciales de la decisión original. Las modificaciones o alteraciones sustanciales\nintroducidas bajo el pretexto de una simple adición no son de recibo, se erigen en un exceso jurisdiccional\nque lesiona la tutela jurisdiccional”.",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Mateo Grimaldo Castañeda\nSegovia, Mateo Grimaldo\nCastañeda Segovia, Mateo Grimaldo Castañeda Segovia]\nabril de 2024, insinuando que podría tratarse de la presunta comisión del delito contra la fe A D 19 pública. Sobre esto último, se aprecia en la letrada una conducta que aparentemente distaría del\n:- “17 cabal cumplimiento de los derechos del abogado según el Código de Ética del Abogado, entre\nellos, el deber de veracidad (artículo 9). Séptimo. - Por otro lado, la defensa técnica del abogado Mateo Grimaldo Castañeda Segovia\ntrae a colación en pie de página, la casación n.* 1626-2019, Cusco, citando el siguiente extracto:\n“Lo sustancial de la decisión no puede ser alterado. En el caso de omisiones relevantes vinculadas a las\npretensiones deducidas es posible adicionar la decisión, cuyo límite, como la ley estatuye, es que no puede\n1r contradictoriamente con lo ya asentado y vigente en el fallo primigenio, esto es, que respete el alcance, el\nsentido y los contenidos esenciales de la decisión original. Las modificaciones o alteraciones sustanciales\nintroducidas bajo el pretexto de una simple adición no son de recibo, se erigen en un exceso jurisdiccional\nque lesiona la tutela jurisdiccional”.",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1107,
+      "personas_mencionadas": [
+        "Mateo Grimaldo Castañeda\nSegovia",
+        "Mateo Grimaldo\nCastañeda Segovia",
+        "Mateo Grimaldo Castañeda Segovia"
+      ],
+      "fechas_mencionadas": [],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "Disposicion_17_clean_0008",
+      "texto": "pretexto de una simple adición no son de recibo, se erigen en un exceso jurisdiccional que lesiona la tutela jurisdiccional”. A partir de esta cita jurisprudencial, la abogada defensora trata\nen su escrito mencionado en el introito de la presente disposición, ahondar en el cuestionamiento\nde que las correcciones materiales dispuestas en la disposición fiscal n.? 13 del 01 de julio de 2024,\nno se ceñirían a “omisiones materiales” según —-de acuerdo a dicho escrito— a los artículos 120 y\n124 del Código Procesal Penal, y al artículo 407 del Código Procesal Civil. Octavo. - Al respecto, este despacho fiscal considera que las correcciones materiales —no\núnicamente en la vertiente de errores ortográfico y numéricos, sino también en omisiones\n2 de 3\n“Año del Bicentenario, de la consolidación de nuestra Independencia, y de la\n“ .",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1]\npretexto de una simple adición no son de recibo, se erigen en un exceso jurisdiccional que lesiona la tutela jurisdiccional”. A partir de esta cita jurisprudencial, la abogada defensora trata\nen su escrito mencionado en el introito de la presente disposición, ahondar en el cuestionamiento\nde que las correcciones materiales dispuestas en la disposición fiscal n.? 13 del 01 de julio de 2024,\nno se ceñirían a “omisiones materiales” según —-de acuerdo a dicho escrito— a los artículos 120 y\n124 del Código Procesal Penal, y al artículo 407 del Código Procesal Civil. Octavo. - Al respecto, este despacho fiscal considera que las correcciones materiales —no\núnicamente en la vertiente de errores ortográfico y numéricos, sino también en omisiones\n2 de 3\n“Año del Bicentenario, de la consolidación de nuestra Independencia, y de la\n“ .",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 833,
+      "personas_mencionadas": [],
+      "fechas_mencionadas": [
+        "01 de julio de 2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "Disposicion_17_clean_0009",
+      "texto": "también en omisiones 2 de 3 “Año del Bicentenario, de la consolidación de nuestra Independencia, y de la “ . conmemoración de las heroicas batallas de Junín y Ayacucho”\n1 T1 - | MINISTERIO PÚBLICO\n- = |¡REPÚBLICA DEL PERÚ Equipo Especial de Fiscales Contra la Corrupción del Poder\n- ' Fiscalía Provincial - Equipo 5\na\nmateriales- que han sido de recibo en la disposición fiscal n.* 13 del 01 de julio de 2024,\nrelacionada “Acta de deslacrado de muestra, visualización de información de manera manual de\ndispositivos electrónicos Pendrive, transcripción de audio y video, y lacrado de muestra”, de fecha 19 de\nabril de 2024, no afectan el contenido sustancial del acta, recayendo meramente en cuestiones de\nforma, esto es, en los intervinientes, información visualizada y lo precisado por el testigo\nparticipante. En ese sentido, no existe fundamento alguno para declarar la invalidez o ineficacia\nde las actas del 19 de abril de 2024, suscritas por la fiscal adjunta Melisa Angulo Mantilla. Por tales consideraciones, este despacho fiscal DISPONE:\n1. TENER PRESENTE las documentales indicados en la parte expositiva de esta disposición\nfiscal; y, AGREGAR a la carpeta fiscal conforme corresponde. 2. NO HA LUGAR lo solicitado por el abogado defensor Eduardo Barriga Bernal, defensa\ntécnica del investigo Mateo Grimaldo Castañeda Segovia, en el escrito de fecha 12 de julio de\n2024, de acuerdo a los fundamentos expresados en la presente disposición fiscal;",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Mateo Grimaldo Castañeda\nSegovia, Mateo Grimaldo\nCastañeda Segovia, Mateo Grimaldo Castañeda Segovia]\ntambién en omisiones 2 de 3 “Año del Bicentenario, de la consolidación de nuestra Independencia, y de la “ . conmemoración de las heroicas batallas de Junín y Ayacucho”\n1 T1 - | MINISTERIO PÚBLICO\n- = |¡REPÚBLICA DEL PERÚ Equipo Especial de Fiscales Contra la Corrupción del Poder\n- ' Fiscalía Provincial - Equipo 5\na\nmateriales- que han sido de recibo en la disposición fiscal n.* 13 del 01 de julio de 2024,\nrelacionada “Acta de deslacrado de muestra, visualización de información de manera manual de\ndispositivos electrónicos Pendrive, transcripción de audio y video, y lacrado de muestra”, de fecha 19 de\nabril de 2024, no afectan el contenido sustancial del acta, recayendo meramente en cuestiones de\nforma, esto es, en los intervinientes, información visualizada y lo precisado por el testigo\nparticipante. En ese sentido, no existe fundamento alguno para declarar la invalidez o ineficacia\nde las actas del 19 de abril de 2024, suscritas por la fiscal adjunta Melisa Angulo Mantilla. Por tales consideraciones, este despacho fiscal DISPONE:\n1. TENER PRESENTE las documentales indicados en la parte expositiva de esta disposición\nfiscal; y, AGREGAR a la carpeta fiscal conforme corresponde. 2. NO HA LUGAR lo solicitado por el abogado defensor Eduardo Barriga Bernal, defensa\ntécnica del investigo Mateo Grimaldo Castañeda Segovia, en el escrito de fecha 12 de julio de\n2024, de acuerdo a los fundamentos expresados en la presente disposición fiscal;",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1456,
+      "personas_mencionadas": [
+        "Mateo Grimaldo Castañeda\nSegovia",
+        "Mateo Grimaldo\nCastañeda Segovia",
+        "Mateo Grimaldo Castañeda Segovia"
+      ],
+      "fechas_mencionadas": [
+        "01 de julio de 2024",
+        "19 de\nabril de 2024",
+        "19 de abril de 2024",
+        "12 de julio de\n2024"
+      ],
+      "tipo_documento": "disposicion"
+    },
+    {
+      "chunk_id": "Disposicion_17_clean_0010",
+      "texto": "el escrito de fecha 12 de julio de 2024, de acuerdo a los fundamentos expresados en la presente disposición fiscal; por ende,\nREITERAR a dicha defensa, a efectos de que en el plazo máximo de cuarenta y ocho (48)\nhoras desde notificado, proporcione en un soporte digital (CD o USB) el audio de la\nconversación sostenida entre el abogado Eduardo Barriga Bernal con el testigo Juan José\nEnciso Torres, al que ha hecho referencia la providencia fiscal n.* 111-2024; siendo que, en caso\nde incumplimiento se deja expreso apercibimiento de proceder conforme a ley. 3. NO HA LUGAR lo solicitado por la abogada defensora Ángela Bardales Magallanes, defensa\ntécnica del investigo Mateo Grimaldo Castañeda Segovia, en el escrito de fecha 15 de julio de\n2024, de acuerdo a los fundamentos expresados en la presente disposición fiscal. 4. EXHORTAR a la abogada Andrea Bardales Magallanes a conducirse con estricto apego a lo\nnormado en el Código de Ética del Abogado, en el marco de la investigación fiscal donde\nejerce la defensa, esto es, carpeta fiscal n.* 7-2024. Notifíquese y regístrese según corresponda. -\n3 de 3",
+      "texto_enriquecido": "[DISPOSICION] [Pág. 1] [Personas: Mateo Grimaldo Castañeda\nSegovia, Mateo Grimaldo\nCastañeda Segovia, Mateo Grimaldo Castañeda Segovia]\nel escrito de fecha 12 de julio de 2024, de acuerdo a los fundamentos expresados en la presente disposición fiscal; por ende,\nREITERAR a dicha defensa, a efectos de que en el plazo máximo de cuarenta y ocho (48)\nhoras desde notificado, proporcione en un soporte digital (CD o USB) el audio de la\nconversación sostenida entre el abogado Eduardo Barriga Bernal con el testigo Juan José\nEnciso Torres, al que ha hecho referencia la providencia fiscal n.* 111-2024; siendo que, en caso\nde incumplimiento se deja expreso apercibimiento de proceder conforme a ley. 3. NO HA LUGAR lo solicitado por la abogada defensora Ángela Bardales Magallanes, defensa\ntécnica del investigo Mateo Grimaldo Castañeda Segovia, en el escrito de fecha 15 de julio de\n2024, de acuerdo a los fundamentos expresados en la presente disposición fiscal. 4. EXHORTAR a la abogada Andrea Bardales Magallanes a conducirse con estricto apego a lo\nnormado en el Código de Ética del Abogado, en el marco de la investigación fiscal donde\nejerce la defensa, esto es, carpeta fiscal n.* 7-2024. Notifíquese y regístrese según corresponda. -\n3 de 3",
+      "pagina": 1,
+      "pagina_fin": 1,
+      "caracteres": 1108,
+      "personas_mencionadas": [
+        "Mateo Grimaldo Castañeda\nSegovia",
+        "Mateo Grimaldo\nCastañeda Segovia",
+        "Mateo Grimaldo Castañeda Segovia"
+      ],
+      "fechas_mencionadas": [
+        "12 de julio de 2024",
+        "15 de julio de\n2024"
+      ],
+      "tipo_documento": "disposicion"
+    }
+  ],
+  "auditoria": {
+    "total_chunks": 10,
+    "total_caracteres_chunks": 12039,
+    "cobertura_texto": 1.1007,
+    "promedio_caracteres_chunk": 1204,
+    "total_personas_detectadas": 3,
+    "total_fechas_detectadas": 9,
+    "total_articulos_legales": 0
+  }
+}
