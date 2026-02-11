@@ -9,3 +9,26 @@ __pycache__/
 # Datos sensibles originales
 *.pdf
 data/*.txt
+
+# Nuevas reglas de seguridad (Gemini CLI)
+# Ignorar archivos de datos pesados y resultados de OCR
+*.md
+!README.md
+!PROPUESTA*.md
+*.json
+!config*.json
+*.progress
+
+# Ignorar carpetas de datos especificas (si se copian aqui)
+03_TXT_CONVERTIDOS/
+04_PROCESADOS/
+04_TXT_LIMPIOS/
+05_EMBEDDINGS/
+06_AUDITORIAS/
+data/*.md
+data/*.pdf
+data/*.json
+
+# Archivos de sistema y temporales
+.DS_Store
+Thumbs.db
