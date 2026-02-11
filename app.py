@@ -28,10 +28,10 @@ CONFIG_PATH = DATA_DIR / "config_caso.json"
 META_PATH = DATA_DIR / "meta_embeddings.json"
 
 # IMPORTANTE: En Cloud, los JSON procesados no suelen subirse por espacio,
-# pero si se suben, estarían en data/04_PROCESADOS o similar.
+# pero si se suben, estarían en data/03_PARSER_EMBEDDINGS/procesados o similar.
 # Si no existen, la pestaña de Personas fallará o estará vacía.
-# Vamos a intentar leer de data/04_PROCESADOS si existe, sino manejar el error.
-PROCESADOS_DIR = DATA_DIR / "04_PROCESADOS"
+# Vamos a intentar leer de data/03_PARSER_EMBEDDINGS/procesados si existe, sino manejar el error.
+PROCESADOS_DIR = DATA_DIR / "03_PARSER_EMBEDDINGS" / "procesados"
 
 # --- DEEPSEEK ---
 # Usar st.secrets en producción
