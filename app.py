@@ -10,35 +10,28 @@ import requests
 import faiss
 import os
 import sys
+import re
 from pathlib import Path
 from datetime import datetime
 from sentence_transformers import SentenceTransformer
 
-# Trigger de actualizacion nube: 2026-02-11 11:30 (Sincronizacion Full)
-UPDATE_TRIGGER = "force_redeploy_v4_full"
+# Trigger de actualizacion nube: 2026-02-24 (Agentic RAG + Streaming + Memoria)
+UPDATE_TRIGGER = "force_redeploy_v5_agentic"
 
 # --- RUTAS CLOUD ---
 APP_DIR = Path(__file__).parent
 DATA_DIR = APP_DIR / "data"
 
-# Configuración de rutas para Cloud
 INDEX_PATH = DATA_DIR / "caso_penal.index"
 CHUNKS_PATH = DATA_DIR / "chunks_caso.json"
 CONFIG_PATH = DATA_DIR / "config_caso.json"
 META_PATH = DATA_DIR / "meta_embeddings.json"
-
-# IMPORTANTE: En Cloud, los JSON procesados no suelen subirse por espacio,
-# pero si se suben, estarían en data/03_PARSER_EMBEDDINGS/procesados o similar.
-# Si no existen, la pestaña de Personas fallará o estará vacía.
-# Vamos a intentar leer de data/03_PARSER_EMBEDDINGS/procesados si existe, sino manejar el error.
 PROCESADOS_DIR = DATA_DIR / "03_PARSER_EMBEDDINGS" / "procesados"
 
 # --- DEEPSEEK ---
-# Usar st.secrets en producción
 if "credentials" in st.secrets:
     DEEPSEEK_API_KEY = st.secrets["credentials"]["deepseek_api_key"]
 else:
-    # Fallback solo si se corre localmente sin secrets.toml (no recomendado para prod)
     DEEPSEEK_API_KEY = "sk-4e6b4c12e3e24d5c8296b6084aac4aac"
 
 DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
@@ -48,7 +41,6 @@ with open(CONFIG_PATH, "r", encoding="utf-8") as f:
     CONFIG = json.load(f)
 
 # --- CREDENCIALES ---
-# Usar st.secrets para usuarios si existen, sino fallback a hardcode
 if "passwords" in st.secrets:
     USUARIOS = st.secrets["passwords"]
 else:
@@ -92,6 +84,34 @@ CONTEXTO DE DOCUMENTOS DEL CASO:
 ---
 CONSULTA:
 {consulta}"""
+
+
+AGENTIC_SYSTEM_PROMPT_CASO = """Eres un asistente legal especializado en defensa jurídica penal peruana.
+
+CASO: Expediente 00203-2024-23-5001-JR-PE-01
+DEFENDIDO: Raúl Antonio Oliva Guerrero
+DELITOS: Art. 317 CP (Org. Criminal), Art. 400 CP (Tráfico Influencias)
+JUZGADO: 1er Juzgado de Investigación Preparatoria Nacional | JUEZ: Concepción Carhuancho
+
+Tienes acceso a search_expediente para buscar en los documentos del caso (disposiciones fiscales, resoluciones, providencias, declaraciones, informes).
+
+PROCESO OBLIGATORIO:
+1. Analiza qué información del expediente necesitas para responder
+2. Usa search_expediente con términos específicos (nombres, fechas, hechos, tipo de documento)
+3. Busca múltiples veces para cubrir distintos ángulos de la pregunta
+4. Identifica contradicciones entre testimonios o inconsistencias en la acusación
+5. Solo cuando tengas suficiente información, detente
+
+REGLAS DE BÚSQUEDA:
+- Máximo 5 búsquedas por consulta
+- Usa nombres exactos cuando busques personas (ej: "Oliva Guerrero declaración")
+- Usa el tipo de documento si es relevante (ej: "Disposición 16 organización criminal")
+- Para contradicciones, busca el mismo hecho en documentos distintos
+
+REGLAS DE RESPUESTA (las aplica R1 al final, no tú):
+- Solo cita lo que encontraste en el expediente
+- Identifica contradicciones y debilidades de la acusación cuando las veas
+- Sé preciso con nombres, fechas y fuentes"""
 
 
 # --- FUNCIONES DE CARGA ---
@@ -142,15 +162,13 @@ def cargar_estadisticas():
                 "chunks": info.get("chunks", 0)
             })
 
-    # Personas de todos los JSONs procesados
-    # Verificar si el directorio existe (en Cloud puede no estar si no se subió)
     if PROCESADOS_DIR.exists():
         for json_path in PROCESADOS_DIR.glob("*.json"):
             with open(json_path, "r", encoding="utf-8") as f:
                 doc = json.load(f)
             for nombre in doc.get("personas", {}).keys():
                 stats["total_personas"].add(nombre)
-    
+
     stats["total_personas"] = len(stats["total_personas"])
     return stats
 
@@ -171,8 +189,12 @@ def buscar_documentos(consulta, modelo, index, chunks, top_k=8):
     return resultados
 
 
-def consultar_deepseek(consulta, resultados):
-    """Envía consulta a DeepSeek con contexto del caso."""
+def stream_consultar_caso(consulta, resultados, session_summary=""):
+    """
+    Versión streaming de consultar_deepseek.
+    Usa deepseek-reasoner (R1) para la síntesis final.
+    Generador que emite tokens uno a uno para st.write_stream().
+    """
     contexto = "\n\n".join([
         f"[{i+1}] Documento: {r['archivo_original']} | Tipo: {r['tipo_documento']} | "
         f"Página: {r['pagina']} | Relevancia: {r['score']:.3f}\n"
@@ -181,35 +203,214 @@ def consultar_deepseek(consulta, resultados):
         for i, r in enumerate(resultados)
     ])
 
-    prompt = SYSTEM_PROMPT_CASO.format(contexto=contexto, consulta=consulta)
+    system_prompt = SYSTEM_PROMPT_CASO.split("CONTEXTO DE DOCUMENTOS")[0].strip()
+    if session_summary:
+        system_prompt += f"\n\nCONTEXTO DE LA SESIÓN ACTUAL (turnos previos):\n{session_summary}"
 
-    headers = {
-        "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
-        "Content-Type": "application/json"
-    }
+    prompt = f"{system_prompt}\n\nCONTEXTO DE DOCUMENTOS DEL CASO:\n{contexto}\n\n---\nCONSULTA:\n{consulta}"
 
+    headers = {"Authorization": f"Bearer {DEEPSEEK_API_KEY}", "Content-Type": "application/json"}
     payload = {
-        "model": "deepseek-chat",
+        "model": "deepseek-reasoner",
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.3,
-        "max_tokens": 3000
+        "max_tokens": 4000,
+        "stream": True
     }
 
     try:
-        response = requests.post(DEEPSEEK_URL, headers=headers, json=payload, timeout=90)
+        response = requests.post(DEEPSEEK_URL, headers=headers, json=payload, stream=True, timeout=90)
         response.raise_for_status()
-        return response.json()["choices"][0]["message"]["content"]
+        for line in response.iter_lines():
+            if line:
+                line = line.decode("utf-8")
+                if line.startswith("data: "):
+                    data_str = line[6:]
+                    if data_str == "[DONE]":
+                        break
+                    try:
+                        data = json.loads(data_str)
+                        delta = data["choices"][0]["delta"].get("content", "")
+                        if delta:
+                            yield delta
+                    except Exception:
+                        pass
     except Exception as e:
-        return f"Error al consultar IA: {str(e)}"
+        yield f"\n\nError al consultar IA: {str(e)}"
+
+
+def agentic_buscar_expediente(consulta, modelo, index, chunks, session_summary="", max_iter=5):
+    """
+    Fase 1 del Agentic RAG para el caso penal:
+    - deepseek-chat con tools decide qué buscar en el expediente
+    - Acumula chunks únicos de todas las búsquedas
+    Retorna (top_chunks, trace)
+    """
+    tools = [
+        {
+            "type": "function",
+            "function": {
+                "name": "search_expediente",
+                "description": "Busca en los documentos del expediente penal (disposiciones, resoluciones, providencias, declaraciones). Úsala para encontrar hechos, testimonios, fechas, personas, argumentos.",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "query": {
+                            "type": "string",
+                            "description": "Texto a buscar. Usa nombres exactos, fechas, hechos o tipo de documento. Ejemplo: 'Oliva Guerrero declaración abril 2024' o 'Disposición 16 organización criminal'"
+                        },
+                        "top_k": {
+                            "type": "integer",
+                            "minimum": 2,
+                            "maximum": 10,
+                            "description": "Número de fragmentos a retornar. Default 5."
+                        }
+                    },
+                    "required": ["query"]
+                }
+            }
+        }
+    ]
+
+    gathered_chunks = []
+    seen_hashes = set()
+
+    def execute_search(query, top_k=5):
+        resultados = buscar_documentos(query, modelo, index, chunks, top_k=top_k * 2)
+        if not resultados:
+            return "No se encontraron fragmentos relevantes para esa búsqueda."
+        lines = []
+        for i, r in enumerate(resultados[:top_k]):
+            h = hash(r["texto"])
+            if h not in seen_hashes:
+                gathered_chunks.append(r)
+                seen_hashes.add(h)
+            lines.append(
+                f"[{i+1}] {r['archivo_original']} | Pág. {r['pagina']} | "
+                f"Tipo: {r['tipo_documento']} | Score: {r['score']:.3f}\n"
+                f"Personas: {', '.join(r.get('personas_mencionadas', [])) or 'N/A'}\n"
+                f"{r['texto']}"
+            )
+        return "\n\n".join(lines)
+
+    def get_top_chunks():
+        return sorted(gathered_chunks, key=lambda x: x.get("score", 0), reverse=True)[:12]
+
+    system_content = AGENTIC_SYSTEM_PROMPT_CASO
+    if session_summary:
+        system_content += f"\n\nCONTEXTO DE LA SESIÓN ACTUAL:\n{session_summary}"
+
+    messages = [
+        {"role": "system", "content": system_content},
+        {"role": "user", "content": consulta}
+    ]
+
+    trace = []
+    headers = {"Authorization": f"Bearer {DEEPSEEK_API_KEY}", "Content-Type": "application/json"}
+
+    for iteration in range(max_iter):
+        payload = {
+            "model": "deepseek-chat",
+            "messages": messages,
+            "tools": tools,
+            "tool_choice": "auto",
+            "temperature": 0.1,
+            "max_tokens": 1000
+        }
+        try:
+            resp = requests.post(DEEPSEEK_URL, headers=headers, json=payload, timeout=60)
+            resp.raise_for_status()
+            choice = resp.json()["choices"][0]
+            msg = choice["message"]
+            finish_reason = choice.get("finish_reason", "")
+        except Exception:
+            return get_top_chunks(), trace
+
+        tool_calls = msg.get("tool_calls") or []
+
+        if not tool_calls or finish_reason == "stop":
+            return get_top_chunks(), trace
+
+        messages.append({"role": "assistant", "content": msg.get("content"), "tool_calls": tool_calls})
+
+        for tc in tool_calls:
+            fn_args = json.loads(tc["function"]["arguments"])
+            query = fn_args.get("query", "")
+            top_k = fn_args.get("top_k", 5)
+
+            trace.append({"iteracion": iteration + 1, "query": query, "top_k": top_k})
+            resultado = execute_search(query, top_k)
+
+            messages.append({
+                "role": "tool",
+                "tool_call_id": tc["id"],
+                "content": resultado
+            })
+
+    return get_top_chunks(), trace
+
+
+def actualizar_resumen_sesion(resumen_anterior, consulta_usuario, respuesta_asistente):
+    """Actualiza el resumen acumulativo de la sesión. Fallo silencioso."""
+    prompt = f"""Eres un sintetizador de conversaciones sobre un caso penal.
+Actualiza el resumen de la sesión incorporando el nuevo turno.
+Captura: hechos clave discutidos, personas mencionadas, documentos revisados, conclusiones de defensa.
+Máximo 6 líneas. Muy conciso. No repitas lo ya resumido.
+
+RESUMEN ANTERIOR: {resumen_anterior if resumen_anterior else "(sesión nueva)"}
+
+NUEVO TURNO:
+Usuario: {consulta_usuario[:400]}
+Asistente: {respuesta_asistente[:400]}
+
+RESUMEN ACTUALIZADO:"""
+
+    headers = {"Authorization": f"Bearer {DEEPSEEK_API_KEY}", "Content-Type": "application/json"}
+    payload = {
+        "model": "deepseek-chat",
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.1,
+        "max_tokens": 300
+    }
+    try:
+        resp = requests.post(DEEPSEEK_URL, headers=headers, json=payload, timeout=15)
+        resp.raise_for_status()
+        nuevo = resp.json()["choices"][0]["message"]["content"].strip()
+        return nuevo if nuevo else resumen_anterior
+    except Exception:
+        return resumen_anterior
+
+
+def verificar_referencias_caso(respuesta, resultados):
+    """Verifica referencias a artículos CP y documentos del expediente."""
+    patron_arts = r'[Aa]rt(?:ículo|iculo)?s?\.?\s+(\d+(?:\.\d+)*)\s*(?:CP|del\s+CP|Código\s+Penal)?'
+    citas_arts = set(f"Art. {n}" for n in re.findall(patron_arts, respuesta))
+    citas_docs = set()
+    for tipo, num in re.findall(r'(Disposici[oó]n|Resoluci[oó]n|Providencia|Informe)\s+(?:N[°º]?\s*)?(\d+)', respuesta):
+        citas_docs.add(f"{tipo} {num}")
+
+    todas_citas = citas_arts | citas_docs
+    if not todas_citas:
+        return set(), set()
+
+    texto_total = " ".join(r["texto"] for r in resultados) + " " + " ".join(r.get("archivo_original", "") for r in resultados)
+
+    verificadas, no_verificadas = set(), set()
+    for cita in todas_citas:
+        num = re.search(r'\d+', cita)
+        if num and re.search(rf'\b{re.escape(num.group())}\b', texto_total):
+            verificadas.add(cita)
+        else:
+            no_verificadas.add(cita)
+
+    return verificadas, no_verificadas
 
 
 def generar_reporte_word(consulta, respuesta, resultados):
     """Genera un contenido HTML compatible con Word (.doc)."""
     fecha = datetime.now().strftime('%d/%m/%Y %H:%M')
-    
-    # Formatear respuesta (saltos de linea a <br>)
     respuesta_html = respuesta.replace("\n", "<br>")
-    
+
     html = f"""
     <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
     <head>
@@ -228,21 +429,16 @@ def generar_reporte_word(consulta, respuesta, resultados):
     </head>
     <body>
         <h1>Reporte de Consulta Legal - Caso Penal</h1>
-        
         <div class="info-box">
             <p><strong>Fecha:</strong> {fecha}</p>
             <p><strong>Consulta Realizada:</strong> {consulta}</p>
         </div>
-        
         <h2>Análisis de Inteligencia Artificial</h2>
-        <div class="respuesta-box">
-            {respuesta_html}
-        </div>
-        
+        <div class="respuesta-box">{respuesta_html}</div>
         <h2>Documentos Fuente Consultados</h2>
-        <p>A continuación se detallan los fragmentos del expediente utilizados para generar la respuesta:</p>
+        <p>Fragmentos del expediente utilizados para generar la respuesta:</p>
     """
-    
+
     for i, r in enumerate(resultados):
         texto_limpio = r['texto'].replace("\n", " ")
         html += f"""
@@ -253,11 +449,9 @@ def generar_reporte_word(consulta, respuesta, resultados):
             <p>{texto_limpio}</p>
         </div>
         """
-        
-    html += f"""
-        <div class="footer">
-            Generado por Sistema de Consulta Legal RAG - JNJ
-        </div>
+
+    html += """
+        <div class="footer">Generado por Sistema de Consulta Legal RAG - JNJ</div>
     </body>
     </html>
     """
@@ -283,7 +477,6 @@ def verificar_login():
         clave = st.text_input("Clave", type="password", key="login_pass")
 
         if st.button("Ingresar", use_container_width=True):
-            # Verificar contra USUARIOS (cargado de secrets o hardcode)
             if usuario in USUARIOS and USUARIOS[usuario] == clave:
                 st.session_state.autenticado = True
                 st.session_state.usuario = usuario
@@ -303,40 +496,26 @@ def main():
         initial_sidebar_state="expanded"
     )
 
-    # CSS personalizado
     st.markdown("""
     <style>
     .main-header {
-        font-size: 1.5rem;
-        font-weight: bold;
-        color: #1a1a2e;
-        padding: 0.5rem 0;
-        border-bottom: 2px solid #e94560;
-        margin-bottom: 1rem;
+        font-size: 1.5rem; font-weight: bold; color: #1a1a2e;
+        padding: 0.5rem 0; border-bottom: 2px solid #e94560; margin-bottom: 1rem;
     }
     .stat-card {
-        background: #f8f9fa;
-        border-radius: 8px;
-        padding: 1rem;
-        text-align: center;
-        border-left: 4px solid #0f3460;
+        background: #f8f9fa; border-radius: 8px; padding: 1rem;
+        text-align: center; border-left: 4px solid #0f3460;
     }
     .chunk-source {
-        background: #f0f2f6;
-        border-radius: 6px;
-        padding: 0.8rem;
-        margin: 0.5rem 0;
-        border-left: 3px solid #e94560;
-        font-size: 0.85rem;
+        background: #f0f2f6; border-radius: 6px; padding: 0.8rem;
+        margin: 0.5rem 0; border-left: 3px solid #e94560; font-size: 0.85rem;
     }
     </style>
     """, unsafe_allow_html=True)
 
-    # Login
     if not verificar_login():
         return
 
-    # Cargar recursos
     modelo = cargar_modelo()
     index, chunks = cargar_indice()
     stats = cargar_estadisticas()
@@ -350,8 +529,6 @@ def main():
         st.divider()
 
         st.markdown("### Estado del Sistema")
-        
-        # Obtener fecha del archivo de índice para verificar si está actualizado
         fecha_indice = "No encontrado"
         if INDEX_PATH.exists():
             fecha_mod = datetime.fromtimestamp(INDEX_PATH.stat().st_mtime)
@@ -369,7 +546,7 @@ def main():
 
         st.divider()
         st.markdown(f"*Usuario: {st.session_state.usuario}*")
-        
+
         col_buttons = st.columns(2)
         with col_buttons[0]:
             if st.button("🔄 Recargar"):
@@ -380,7 +557,15 @@ def main():
             if st.button("Cerrar sesión"):
                 st.session_state.autenticado = False
                 st.session_state.usuario = None
+                st.session_state.session_summary = ""
                 st.rerun()
+
+        st.divider()
+        if st.button("🧹 Limpiar Chat"):
+            st.session_state.mensajes = []
+            st.session_state.session_summary = ""
+            st.rerun()
+        debug_mode = st.toggle("🛠️ Modo Debug")
 
     # --- CONTENIDO PRINCIPAL ---
     st.markdown('<div class="main-header">Sistema de Consulta - Expediente Penal</div>', unsafe_allow_html=True)
@@ -389,43 +574,62 @@ def main():
         st.error("No se han generado embeddings. Ejecute primero PROCESAR_CASO.bat localmente y suba los datos.")
         return
 
-    # Tabs
     tab_chat, tab_busqueda, tab_personas = st.tabs(["Chat con IA", "Busqueda directa", "Personas del caso"])
 
     # --- TAB: CHAT CON IA ---
     with tab_chat:
         st.markdown("Haga preguntas sobre el caso. La IA buscara en los documentos y respondera.")
 
-        # Historial de chat
         if "mensajes" not in st.session_state:
             st.session_state.mensajes = []
+        if "session_summary" not in st.session_state:
+            st.session_state.session_summary = ""
+        if "last_chunks" not in st.session_state:
+            st.session_state.last_chunks = []
 
-        # Mostrar historial
         for msg in st.session_state.mensajes:
             with st.chat_message(msg["role"]):
                 st.markdown(msg["content"])
 
-        # Input del usuario
         consulta = st.chat_input("Escriba su consulta sobre el caso...")
 
         if consulta:
-            # Mostrar pregunta
             st.session_state.mensajes.append({"role": "user", "content": consulta})
             with st.chat_message("user"):
                 st.markdown(consulta)
 
-            # Buscar y responder
             with st.chat_message("assistant"):
-                with st.spinner("Buscando en el expediente..."):
-                    resultados = buscar_documentos(consulta, modelo, index, chunks)
+                # Fase 1: Agente busca en el expediente
+                with st.spinner("🔍 Analizando y buscando en el expediente..."):
+                    top_chunks, trace = agentic_buscar_expediente(
+                        consulta, modelo, index, chunks,
+                        session_summary=st.session_state.session_summary
+                    )
 
-                with st.spinner("Analizando con IA..."):
-                    respuesta = consultar_deepseek(consulta, resultados)
+                # Fase 2: R1 sintetiza en streaming
+                if top_chunks:
+                    respuesta = st.write_stream(stream_consultar_caso(
+                        consulta, top_chunks,
+                        session_summary=st.session_state.session_summary
+                    ))
+                    st.session_state.last_chunks = top_chunks
+                else:
+                    respuesta = "No se encontraron fragmentos relevantes en el expediente."
+                    st.warning(respuesta)
 
-                st.markdown(respuesta)
-                
-                # --- BOTÓN DE DESCARGA ---
-                reporte_bytes = generar_reporte_word(consulta, respuesta, resultados)
+                # Fase 3: Verificar referencias
+                if top_chunks:
+                    verificadas, no_verificadas = verificar_referencias_caso(respuesta, top_chunks)
+                    if no_verificadas:
+                        st.warning(
+                            f"⚠️ **Referencias sin respaldo en contexto** — verificar: "
+                            f"{', '.join(sorted(no_verificadas))}"
+                        )
+                    if verificadas:
+                        st.caption(f"✅ Referencias verificadas: {', '.join(sorted(verificadas))}")
+
+                # Botón de descarga Word
+                reporte_bytes = generar_reporte_word(consulta, respuesta, top_chunks)
                 st.download_button(
                     label="📄 Descargar Reporte en Word",
                     data=reporte_bytes,
@@ -434,9 +638,9 @@ def main():
                     key=f"download_{len(st.session_state.mensajes)}"
                 )
 
-                # Mostrar fuentes
-                with st.expander("Ver documentos fuente consultados"):
-                    for i, r in enumerate(resultados):
+                # Fuentes consultadas
+                with st.expander(f"📂 Documentos consultados ({len(top_chunks)})"):
+                    for i, r in enumerate(top_chunks):
                         st.markdown(
                             f'<div class="chunk-source">'
                             f'<b>[{i+1}]</b> {r["archivo_original"]} | '
@@ -448,9 +652,23 @@ def main():
                             unsafe_allow_html=True
                         )
 
+                # Debug
+                if debug_mode:
+                    if trace:
+                        with st.expander(f"🔍 Búsquedas realizadas ({len(trace)})"):
+                            for t in trace:
+                                st.markdown(f"**Búsqueda {t['iteracion']}:** `{t['query']}` (top_k={t['top_k']})")
+                    if st.session_state.session_summary:
+                        with st.expander("🧠 Resumen de sesión"):
+                            st.markdown(st.session_state.session_summary)
+
             st.session_state.mensajes.append({"role": "assistant", "content": respuesta})
 
-        # Consultas sugeridas
+            # Fase 4: Actualizar resumen de sesión (silencioso)
+            st.session_state.session_summary = actualizar_resumen_sesion(
+                st.session_state.session_summary, consulta, respuesta
+            )
+
         if not st.session_state.mensajes:
             st.markdown("### Consultas sugeridas")
             col1, col2 = st.columns(2)
@@ -483,11 +701,8 @@ def main():
 
         if busqueda:
             resultados = buscar_documentos(busqueda, modelo, index, chunks, top_k=num_resultados * 2)
-
-            # Aplicar filtro
             if filtro_tipo != "Todos":
                 resultados = [r for r in resultados if r.get("tipo_documento") == filtro_tipo]
-
             resultados = resultados[:num_resultados]
 
             st.markdown(f"**{len(resultados)} resultados encontrados**")
@@ -497,11 +712,9 @@ def main():
                     f"[{r['score']:.3f}] {r['archivo_original']} - Pag. {r['pagina']} ({r['tipo_documento']})",
                     expanded=(i < 3)
                 ):
-                    # Personas mencionadas
                     personas = r.get("personas_mencionadas", [])
                     if personas:
                         st.markdown(f"**Personas:** {', '.join(personas)}")
-
                     st.markdown(r["texto"])
                     st.caption(f"Chunk: {r['chunk_id']} | Documento: {r['documento_id']}")
 
@@ -509,54 +722,35 @@ def main():
     with tab_personas:
         st.markdown("Todas las personas detectadas en los documentos del caso.")
 
-        # Recopilar personas de todos los documentos
         todas_personas = {}
-        # NOTA PARA CLOUD: Asegurar que estos JSON existan. Si no se subieron, esto estara vacio.
         if PROCESADOS_DIR.exists():
             for json_path in sorted(PROCESADOS_DIR.glob("*.json")):
                 try:
                     with open(json_path, "r", encoding="utf-8") as f:
                         doc = json.load(f)
-
                     for nombre, info in doc.get("personas", {}).items():
                         if nombre not in todas_personas:
-                            todas_personas[nombre] = {
-                                "dni": info.get("dni"),
-                                "frecuencia_total": 0,
-                                "documentos": []
-                            }
+                            todas_personas[nombre] = {"dni": info.get("dni"), "frecuencia_total": 0, "documentos": []}
                         todas_personas[nombre]["frecuencia_total"] += info.get("frecuencia", 0)
                         todas_personas[nombre]["documentos"].append(doc["archivo_original"])
                         if info.get("dni") and not todas_personas[nombre]["dni"]:
                             todas_personas[nombre]["dni"] = info["dni"]
-                except Exception as e:
-                    # Ignorar errores de lectura en archivos individuales
+                except Exception:
                     continue
 
         if not todas_personas:
             st.info("No hay datos detallados de personas disponibles en esta versión (los archivos procesados no están sincronizados).")
         else:
-            # Ordenar por frecuencia
-            personas_ordenadas = sorted(
-                todas_personas.items(),
-                key=lambda x: x[1]["frecuencia_total"],
-                reverse=True
-            )
-
-            # Filtro
+            personas_ordenadas = sorted(todas_personas.items(), key=lambda x: x[1]["frecuencia_total"], reverse=True)
             filtro_persona = st.text_input("Filtrar por nombre:", key="filtro_persona")
 
             for nombre, info in personas_ordenadas:
                 if filtro_persona and filtro_persona.lower() not in nombre.lower():
                     continue
-
-                # Resaltar al defendido
                 es_defendido = "oliva" in nombre.lower()
                 prefijo = "**[DEFENDIDO]** " if es_defendido else ""
-
                 dni_str = f" (DNI: {info['dni']})" if info.get("dni") else ""
                 docs_str = ", ".join(set(info["documentos"]))
-
                 st.markdown(
                     f"{prefijo}**{nombre}**{dni_str} - "
                     f"{info['frecuencia_total']} menciones en {len(set(info['documentos']))} documentos"
