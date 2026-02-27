@@ -565,7 +565,9 @@ def main():
         st.divider()
         st.markdown("### Documentos cargados")
         for doc in stats.get("documentos", []):
-            st.markdown(f"- **{doc['tipo']}**: {doc['archivo']} ({doc['chunks']} chunks)")
+            nombre = doc['id'].replace('_clean','').replace('_',' ').strip()
+            icono = "📂" if doc['tipo'] == "tomo_expediente" else "📄"
+            st.markdown(f"- {icono} {nombre} *({doc['chunks']} chunks)*")
 
         st.divider()
         st.markdown(f"*Usuario: {st.session_state.usuario}*")
