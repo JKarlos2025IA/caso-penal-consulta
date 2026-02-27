@@ -150,17 +150,40 @@ def cargar_estadisticas():
         with open(META_PATH, "r", encoding="utf-8") as f:
             meta = json.load(f)
         stats["total_vectores"] = meta.get("total_vectores", 0)
-        stats["total_documentos"] = len(meta.get("documentos_incluidos", {}))
+        docs_incluidos = meta.get("documentos_incluidos", [])
+        stats["total_documentos"] = len(docs_incluidos)
 
-        for doc_id, info in meta.get("documentos_incluidos", {}).items():
-            tipo = info.get("tipo", "otro")
-            stats["tipos_documento"][tipo] = stats["tipos_documento"].get(tipo, 0) + 1
-            stats["documentos"].append({
-                "id": doc_id,
-                "archivo": info.get("archivo", ""),
-                "tipo": tipo,
-                "chunks": info.get("chunks", 0)
-            })
+        # Contar chunks por documento desde chunks_caso.json
+        chunks_por_doc = {}
+        if CHUNKS_PATH.exists():
+            with open(CHUNKS_PATH, "r", encoding="utf-8") as f:
+                chunks_lista = json.load(f)
+            for c in chunks_lista:
+                did = c.get("documento_id", "")
+                chunks_por_doc[did] = chunks_por_doc.get(did, 0) + 1
+
+        if isinstance(docs_incluidos, dict):
+            # Formato antiguo: {doc_id: {tipo, archivo, chunks}}
+            for doc_id, info in docs_incluidos.items():
+                tipo = info.get("tipo", "otro")
+                stats["tipos_documento"][tipo] = stats["tipos_documento"].get(tipo, 0) + 1
+                stats["documentos"].append({
+                    "id": doc_id,
+                    "archivo": info.get("archivo", doc_id),
+                    "tipo": tipo,
+                    "chunks": info.get("chunks", chunks_por_doc.get(doc_id, 0))
+                })
+        else:
+            # Formato nuevo: lista de doc_ids
+            for doc_id in docs_incluidos:
+                tipo = "tomo_expediente" if doc_id.startswith("TOMO") else "documento"
+                stats["tipos_documento"][tipo] = stats["tipos_documento"].get(tipo, 0) + 1
+                stats["documentos"].append({
+                    "id": doc_id,
+                    "archivo": doc_id,
+                    "tipo": tipo,
+                    "chunks": chunks_por_doc.get(doc_id, 0)
+                })
 
     if PROCESADOS_DIR.exists():
         for json_path in PROCESADOS_DIR.glob("*.json"):
