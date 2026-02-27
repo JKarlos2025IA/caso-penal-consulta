@@ -563,11 +563,23 @@ def main():
         st.metric("Personas detectadas", stats["total_personas"])
 
         st.divider()
-        st.markdown("### Documentos cargados")
-        for doc in stats.get("documentos", []):
-            nombre = doc['id'].replace('_clean','').replace('_',' ').strip()
-            icono = "📂" if doc['tipo'] == "tomo_expediente" else "📄"
-            st.markdown(f"- {icono} {nombre} *({doc['chunks']} chunks)*")
+        st.markdown("### Documentos indexados")
+        tomos = sorted(
+            [d for d in stats.get("documentos", []) if d['tipo'] == "tomo_expediente"],
+            key=lambda x: x['id']
+        )
+        docs = sorted(
+            [d for d in stats.get("documentos", []) if d['tipo'] != "tomo_expediente"],
+            key=lambda x: x['id']
+        )
+        with st.expander(f"📂 Tomos del Expediente ({len(tomos)})", expanded=False):
+            for d in tomos:
+                nombre = d['id'].replace('_clean','').replace('_',' ').strip()
+                st.markdown(f"- **{nombre}** — {d['chunks']} chunks")
+        with st.expander(f"📄 Documentos ({len(docs)})", expanded=False):
+            for d in docs:
+                nombre = d['id'].replace('_clean','').replace('_',' ').strip()
+                st.markdown(f"- {nombre} — {d['chunks']} chunks")
 
         st.divider()
         st.markdown(f"*Usuario: {st.session_state.usuario}*")
